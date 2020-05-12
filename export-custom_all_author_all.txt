@@ -1,0 +1,789 @@
+D'Ammando, F., Raiteri, C. M., Villata, M., Acosta-Pulido, J. A., Agudo, I., Arkharov, A. A., Bachev, R., Baida, G. V., Benítez, E., Borman, G. A., Boschin, W., Bozhilov, V., Butuzova, M. S., Calcidese, P., Carnerero, M. I., Carosati, D., Casadio, C., Castro-Segura, N., Chen, W.-P., Damljanovic, G., Di Paola, A., Echevarría, J., Efimova, N. V., Ehgamberdiev, S. A., Espinosa, C., Fuentes, A., Giunta, A., Gómez, J. L., Grishina, T. S., Gurwell, M. A., Hiriart, D., Jermak, H., Jordan, B., Jorstad, S. G., Joshi, M., Kimeridze, G. N., Kopatskaya, E. N., Kuratov, K., Kurtanidze, O. M., Kurtanidze, S. O., Lähteenmäki, A., Larionov, V. M., Larionova, E. G., Larionova, L. V., Lázaro, C., Lin, C. S., Malmrose, M. P., Marscher, A. P., Matsumoto, K., McBreen, B., Michel, R., Mihov, B., Minev, M., Mirzaqulov, D. O., Molina, S. N., Moody, J. W., Morozova, D. A., Nazarov, S. V., Nikiforova, A. A., Nikolashvili, M. G., Ohlert, J. M., Okhmat, N., Ovcharov, E., Pinna, F., Polakis, T. A., Protasio, C., Pursimo, T., Redondo-Lorenzo, F. J., Rizzi, N., Rodriguez-Coira, G., Sadakane, K., Sadun, A. C., Samal, M. R., Savchenko, S. S., Semkov, E., Sigua, L., Skiff, B. A., Slavcheva-Mihova, L., Smith, P. S., Steele, I. A., Strigachev, A., Tammi, J., Thum, C., Tornikoski, M., Troitskaya, Y. V., Troitsky, I. S., Vasilyev, A. A., Vince, O., WEBT Collaboration, Hovatta, T., Kiehlmann, S., Max-Moerbeck, W., Readhead, A. C. S., Reeves, R., Pearson, T. J., OVRO Team, Mufakharov, T., Sotnikova, Y. V., & Mingaliev, M. G., 
+2019, 
+Investigating the multiwavelength behaviour of the flat spectrum radio quasar CTA 102 during 2013-2017, 
+Monthly Notices of the Royal Astronomical Society, Volume 490, Issue 4, p.5300-5316, 
+490, 5300.  
+https://ui.adsabs.harvard.edu/abs/2019MNRAS.490.5300D 
+
+Dharmawardena, T. E., Kemper, F., Scicluna, P., Wouterloot, J. G. A., Trejo, A., Srinivasan, S., Cami, J., Zijlstra, A., Marshall, J. P., & NESS Collaboration, 
+2019, 
+Extended Dust Emission from Nearby Evolved stars, 
+Why Galaxies Care About AGB Stars: A Continuing Challenge through Cosmic Time. Proceedings of the International Astronomical Union, Volume 343, pp. 181-185, 
+343, 181.  
+https://ui.adsabs.harvard.edu/abs/2019IAUS..343..181D 
+
+Lucchetti, A., Penasa, L., Pajola, M., Massironi, M., Brunetti, M. T., Cremonese, G., Oklay, N., Vincent, J.-B., Mottola, S., Fornasier, S., Sierks, H., Naletto, G., Lamy, P. L., Rodrigo, R., Koschny, D., Davidsson, B., Barbieri, C., Barucci, M. A., Bertaux, J.-L., Bertini, I., Bodewits, D., Cambianica, P., Da Deppo, V., Debei, S., De Cecco, M., Deller, J., Ferrari, S., Ferri, F., Franceschi, M., Fulle, M., Gutiérrez, P., Güttler, C., Ip, W.-H., Keller, U., Lara, L., Lazzarin, M., Moreno, J. L., Marzari, F., & Tubiana, C., 
+2019, 
+The Rocky-Like Behavior of Cometary Landslides on 67P/Churyumov-Gerasimenko, 
+Geophysical Research Letters, Volume 46, Issue 24, pp. 14,336-14,346, 
+46, 14,336.  
+https://ui.adsabs.harvard.edu/abs/2019GeoRL..4614336L 
+
+Ho, A. Y. Q., Goldstein, D. A., Schulze, S., Khatami, D. K., Perley, D. A., Ergon, M., Gal-Yam, A., Corsi, A., Andreoni, I., Barbarino, C., Bellm, E. C., Blagorodnova, N., Bright, J. S., Burns, E., Cenko, S. B., Cunningham, V., De, K., Dekany, R., Dugas, A., Fender, R. P., Fransson, C., Fremling, C., Goldstein, A., Graham, M. J., Hale, D., Horesh, A., Hung, T., Kasliwal, M. M., Kuin, N. P. M., Kulkarni, S. R., Kupfer, T., Lunnan, R., Masci, F. J., Ngeow, C.-C., Nugent, P. E., Ofek, E. O., Patterson, M. T., Petitpas, G., Rusholme, B., Sai, H., Sfaradi, I., Shupe, D. L., Sollerman, J., Soumagnac, M. T., Tachibana, Y., Taddia, F., Walters, R., Wang, X., Yao, Y., & Zhang, X., 
+2019, 
+Evidence for Late-stage Eruptive Mass Loss in the Progenitor to SN2018gep, a Broad-lined Ic Supernova: Pre-explosion Emission and a Rapidly Rising Luminous Transient, 
+The Astrophysical Journal, Volume 887, Issue 2, article id. 169, 24 pp. (2019)., 
+887, 169.  
+https://ui.adsabs.harvard.edu/abs/2019ApJ...887..169H 
+
+Deb, S., Kurbah, K., Singh, H. P., Kanbur, S. M., Ngeow, C.-C., Medhi, B. J., & Kumar, S., 
+2019, 
+Morphology of the Small Magellanic Cloud using multiwavelength photometry of classical Cepheids, 
+Monthly Notices of the Royal Astronomical Society, Volume 489, Issue 3, p.3725-3738, 
+489, 3725.  
+https://ui.adsabs.harvard.edu/abs/2019MNRAS.489.3725D 
+
+Dharmawardena, T. E., Kemper, F., Wouterloot, J. G. A., Scicluna, P., Marshall, J. P., & Wallström, S. H. J., 
+2019, 
+The sub-mm variability of IRC+10216 and o Ceti, 
+Monthly Notices of the Royal Astronomical Society, Volume 489, Issue 3, p.3492-3505, 
+489, 3492.  
+https://ui.adsabs.harvard.edu/abs/2019MNRAS.489.3492D 
+
+Dharmawardena, T. E., Kemper, F., Srinivasan, S., Scicluna, P., Marshall, J. P., Wouterloot, J. G. A., Greaves, J., Goldman, S. R., van Loon, J. T., Matsuura, M., McDonald, I., He, J., Zijlstra, A. A., Toalá, J. A., Wallström, S. H. J., Kim, H., Trejo, A., Ventura, P., Lagadec, E., Boyer, M. L., Liu, T., Rau, G., Izumiura, H., Cami, J., Holland, W., Jones, O., & Shinnaga, H., 
+2019, 
+The nearby evolved stars survey - I. JCMT/SCUBA-2 submillimetre detection of the detached shell of U Antliae, 
+Monthly Notices of the Royal Astronomical Society, Volume 489, Issue 3, p.3218-3231, 
+489, 3218.  
+https://ui.adsabs.harvard.edu/abs/2019MNRAS.489.3218D 
+
+Coughlin, M. W., Ahumada, T., Anand, S., De, K., Hankins, M. J., Kasliwal, M. M., Singer, L. P., Bellm, E. C., Andreoni, I., Cenko, S. B., Cooke, J., Copperwheat, C. M., Dugas, A. M., Jencson, J. E., Perley, D. A., Yu, P.-C., Bhalerao, V., Kumar, H., Bloom, J. S., Anupama, G. C., Ashley, M. C. B., Bagdasaryan, A., Biswas, R., Buckley, D. A. H., Burdge, K. B., Cook, D. O., Cromer, J., Cunningham, V., D'Aì, A., Dekany, R. G., Delacroix, A., Dichiara, S., Duev, D. A., Dutta, A., Feeney, M., Frederick, S., Gatkine, P., Ghosh, S., Goldstein, D. A., Golkhou, V. Z., Goobar, A., Graham, M. J., Hanayama, H., Horiuchi, T., Hung, T., Jha, S. W., Kong, A. K. H., Giomi, M., Kaplan, D. L., Karambelkar, V. R., Kowalski, M., Kulkarni, S. R., Kupfer, T., Masci, F. J., Mazzali, P., Moore, A. M., Mogotsi, M., Neill, J. D., Ngeow, C.-C., Martínez-Palomera, J., La Parola, V., Pavana, M., Ofek, E. O., Patil, A. S., Riddle, R., Rigault, M., Rusholme, B., Serabyn, E., Shupe, D. L., Sharma, Y., Singh, A., Sollerman, J., Soon, J., Staats, K., Taggart, K., Tan, H., Travouillon, T., Troja, E., Waratkar, G., & Yatsu, Y., 
+2019, 
+GROWTH on S190425z: Searching Thousands of Square Degrees to Identify an Optical or Infrared Counterpart to a Binary Neutron Star Merger with the Zwicky Transient Facility and Palomar Gattini-IR, 
+The Astrophysical Journal Letters, Volume 885, Issue 1, article id. L19, 13 pp. (2019)., 
+885, L19.  
+https://ui.adsabs.harvard.edu/abs/2019ApJ...885L..19C 
+
+Raiteri, C. M., Villata, M., Carnerero, M. I., Acosta-Pulido, J. A., Mirzaqulov, D. O., Larionov, V. M., Romano, P., Vercellone, S., Agudo, I., Arkharov, A. A., Bach, U., Bachev, R., Baitieri, S., Borman, G. A., Boschin, W., Bozhilov, V., Butuzova, M. S., Calcidese, P., Carosati, D., Casadio, C., Chen, W.-P., Damljanovic, G., Di Paola, A., Doroshenko, V. T., Efimova, N. V., Ehgamberdiev, S. A., Giroletti, M., Gómez, J. L., Grishina, T. S., Ibryamov, S., Jermak, H., Jorstad, S. G., Kimeridze, G. N., Klimanov, S. A., Kopatskaya, E. N., Kurtanidze, O. M., Kurtanidze, S. O., Lähteenmäki, A., Larionova, E. G., Marscher, A. P., Mihov, B., Minev, M., Molina, S. N., Moody, J. W., Morozova, D. A., Nazarov, S. V., Nikiforova, A. A., Nikolashvili, M. G., Ovcharov, E., Peneva, S., Righini, S., Rizzi, N., Sadun, A. C., Samal, M. R., Savchenko, S. S., Semkov, E., Sigua, L. A., Slavcheva-Mihova, L., Steele, I. A., Strigachev, A., Tornikoski, M., Troitskaya, Y. V., Troitsky, I. S., & Vince, O., 
+2019, 
+The beamed jet and quasar core of the distant blazar 4C 71.07, 
+Monthly Notices of the Royal Astronomical Society, Volume 489, Issue 2, p.1837-1849, 
+489, 1837.  
+https://ui.adsabs.harvard.edu/abs/2019MNRAS.489.1837R 
+
+Bhardwaj, A., Kanbur, S., He, S., Rejkuba, M., Matsunaga, N., de Grijs, R., Sharma, K., Singh, H. P., Baug, T., Ngeow, C.-C., & Ou, J.-Y., 
+2019, 
+Multiwavelength Period-Luminosity and Period-Luminosity-Color Relations at Maximum Light for Mira Variables in the Magellanic Clouds, 
+The Astrophysical Journal, Volume 884, Issue 1, article id. 20, 14 pp. (2019)., 
+884, 20.  
+https://ui.adsabs.harvard.edu/abs/2019ApJ...884...20B 
+
+Tubiana, C., Rinaldi, G., Güttler, C., Snodgrass, C., Shi, X., Hu, X., Marschall, R., Fulle, M., Bockelée-Morvan, D., Naletto, G., Capaccioni, F., Sierks, H., Arnold, G., Barucci, M. A., Bertaux, J.-L., Bertini, I., Bodewits, D., Capria, M. T., Ciarniello, M., Cremonese, G., Crovisier, J., Da Deppo, V., Debei, S., De Cecco, M., Deller, J., De Sanctis, M. C., Davidsson, B., Doose, L., Erard, S., Filacchione, G., Fink, U., Formisano, M., Fornasier, S., Gutiérrez, P. J., Ip, W.-H., Ivanovski, S., Kappel, D., Keller, H. U., Kolokolova, L., Koschny, D., Krueger, H., La Forgia, F., Lamy, P. L., Lara, L. M., Lazzarin, M., Levasseur-Regourd, A. C., Lin, Z.-Y., Longobardo, A., López-Moreno, J. J., Marzari, F., Migliorini, A., Mottola, S., Rodrigo, R., Taylor, F., Toth, I., & Zakharov, V., 
+2019, 
+Diurnal variation of dust and gas production in comet 67P/Churyumov-Gerasimenko at the inbound equinox as seen by OSIRIS and VIRTIS-M on board Rosetta, 
+Astronomy &amp; Astrophysics, Volume 630, id.A23, 14 pp., 
+630, A23.  
+https://ui.adsabs.harvard.edu/abs/2019A&A...630A..23T 
+
+Tognon, G., Ferrari, S., Penasa, L., La Forgia, F., Massironi, M., Naletto, G., Lazzarin, M., Cambianica, P., Lucchetti, A., Pajola, M., Ferri, F., Güttler, C., Davidsson, B., Deshapriya, P., Fornasier, S., Mottola, S., Tóth, I., Sierks, H., Lamy, P. L., Rodrigo, R., Koschny, D., Barbieri, C., Barucci, M. A., Bertaux, J.-L., Bertini, I., Bodewits, D., Cremonese, G., Da Deppo, V., Debei, S., De Cecco, M., Deller, J., Franceschi, M., Frattin, E., Fulle, M., Gutiérrez, P. J., Ip, W.-H., Keller, H. U., Lara, L. M., López-Moreno, J. J., Marzari, F., Petropoulou, V., Shi, X., & Tubiana, C., 
+2019, 
+Spectrophotometric variegation of the layering in comet 67P/Churyumov-Gerasimenko as seen by OSIRIS, 
+Astronomy &amp; Astrophysics, Volume 630, id.A16, 12 pp., 
+630, A16.  
+https://ui.adsabs.harvard.edu/abs/2019A&A...630A..16T 
+
+Cambianica, P., Cremonese, G., Naletto, G., Lucchetti, A., Pajola, M., Penasa, L., Simioni, E., Massironi, M., Ferrari, S., Bodewits, D., La Forgia, F., Sierks, H., Lamy, P. L., Rodrigo, R., Koschny, D., Davidsson, B., Barucci, M. A., Bertaux, J.-L., Bertini, I., Da Deppo, V., Debei, S., De Cecco, M., Deller, J., Fornasier, S., Fulle, M., Gutiérrez, P. J., Güttler, C., Ip, W.-H., Keller, H. U., Lara, L. M., Lazzarin, M., Lin, Z.-Y., López-Moreno, J. J., Marzari, F., Mottola, S., Shi, X., Scholten, F., Toth, I., Tubiana, C., & Vincent, J.-B., 
+2019, 
+Quantitative analysis of isolated boulder fields on comet 67P/Churyumov-Gerasimenko, 
+Astronomy &amp; Astrophysics, Volume 630, id.A15, 15 pp., 
+630, A15.  
+https://ui.adsabs.harvard.edu/abs/2019A&A...630A..15C 
+
+Fornasier, S., Feller, C., Hasselmann, P. H., Barucci, M. A., Sunshine, J., Vincent, J.-B., Shi, X., Sierks, H., Naletto, G., Lamy, P. L., Rodrigo, R., Koschny, D., Davidsson, B., Bertaux, J.-L., Bertini, I., Bodewits, D., Cremonese, G., Da Deppo, V., Debei, S., De Cecco, M., Deller, J., Ferrari, S., Fulle, M., Gutierrez, P. J., Güttler, C., Ip, W.-H., Jorda, L., Keller, H. U., Lara, M. L., Lazzarin, M., Lopez Moreno, J. J., Lucchetti, A., Marzari, F., Mottola, S., Pajola, M., Toth, I., & Tubiana, C., 
+2019, 
+Surface evolution of the Anhur region on comet 67P/Churyumov-Gerasimenko from high-resolution OSIRIS images, 
+Astronomy &amp; Astrophysics, Volume 630, id.A13, 18 pp., 
+630, A13.  
+https://ui.adsabs.harvard.edu/abs/2019A&A...630A..13F 
+
+Masoumzadeh, N., Kolokolova, L., Tubiana, C., El-Maarry, M. R., Mottola, S., Güttler, C., Snodgrass, C., Sierks, H., Naletto, G., Lamy, P. L., Rodrigo, R., Koschny, D., Davidsson, B., Barucci, M. A., Bertaux, J.-L., Bertini, I., Bodewits, D., Cremonese, G., Da Deppo, V., Debei, S., De Cecco, M., Deller, J., Fornasier, S., Fulle, M., Gutiérrez, P. J., Hasselmann, P. H., Ip, W.-H., Keller, H. U., Lara, L. M., Lazzarin, M., López-Moreno, J. J., Marzari, F., Shi, X., & Toth, I., 
+2019, 
+Phase-curve analysis of comet 67P/Churyumov-Gerasimenko at small phase angles, 
+Astronomy &amp; Astrophysics, Volume 630, id.A11, 10 pp., 
+630, A11.  
+https://ui.adsabs.harvard.edu/abs/2019A&A...630A..11M 
+
+Feller, C., Fornasier, S., Ferrari, S., Hasselmann, P. H., Barucci, A., Massironi, M., Deshapriya, J. D. P., Sierks, H., Naletto, G., Lamy, P. L., Rodrigo, R., Koschny, D., Davidsson, B. J. R., Bertaux, J.-L., Bertini, I., Bodewits, D., Cremonese, G., Da Deppo, V., Debei, S., De Cecco, M., Fulle, M., Gutiérrez, P. J., Güttler, C., Ip, W.-H., Keller, H. U., Lara, L. M., Lazzarin, M., López-Moreno, J. J., Marzari, F., Shi, X., Tubiana, C., Gaskell, B., La Forgia, F., Lucchetti, A., Mottola, S., Pajola, M., Preusker, F., & Scholten, F., 
+2019, 
+Rosetta/OSIRIS observations of the 67P nucleus during the April 2016 flyby: high-resolution spectrophotometry, 
+Astronomy &amp; Astrophysics, Volume 630, id.A9, 20 pp., 
+630, A9.  
+https://ui.adsabs.harvard.edu/abs/2019A&A...630A...9F 
+
+Hasselmann, P. H., Barucci, M. A., Fornasier, S., Bockelée-Morvan, D., Deshapriya, J. D. P., Feller, C., Sunshine, J., Hoang, V., Sierks, H., Naletto, G., Lamy, P. L., Rodrigo, R., Koschny, D., Davidsson, B., Bertaux, J.-L., Bertini, I., Bodewits, D., Cremonese, G., Da Deppo, V., Debei, S., Fulle, M., Gutierrez, P. J., Güttler, C., Deller, J., Ip, W.-H., Keller, H. U., Lara, L. M., De Cecco, M., Lazzarin, M., López-Moreno, J. J. L., Marzari, F., Shi, X., & Tubiana, C., 
+2019, 
+Pronounced morphological changes in a southern active zone on comet 67P/Churyumov-Gerasimenko, 
+Astronomy &amp; Astrophysics, Volume 630, id.A8, 19 pp., 
+630, A8.  
+https://ui.adsabs.harvard.edu/abs/2019A&A...630A...8H 
+
+Sato, S., Chieh Huang, P., Chen, W. P., Zenno, T., Eswaraiah, C., Su, B. H., Abe, S., Kinoshita, D., & Wang, J. W., 
+2019, 
+Triple Range Imager and POLarimeter (TRIPOL)—a compact and economical optical imaging polarimeter for small telescopes, 
+Research in Astronomy and Astrophysics, Volume 19, Issue 9, article id. 136 (2019)., 
+19, 136.  
+https://ui.adsabs.harvard.edu/abs/2019RAA....19..136S 
+
+Lai, I.-L., Rubin, M., Wu, J.-S., & Ip, W.-H., 
+2019, 
+DSMC Simulation of Europa's Gas Plume, 
+EPSC-DPS Joint Meeting 2019, held 15-20 September 2019 in Geneva, Switzerland, id. EPSC-DPS2019-575, 
+2019, EPSC-DPS2019-575.  
+https://ui.adsabs.harvard.edu/abs/2019EPSC...13..575L 
+
+Koptelova, E., Hwang, C.-Y., Malkan, M. A., & Yu, P.-C., 
+2019, 
+Rapidly Accreting Black Hole of the Lyα-luminous Quasar PSOJ006.1240+39.2219, 
+The Astrophysical Journal, Volume 882, Issue 2, article id. 144, 11 pp. (2019)., 
+882, 144.  
+https://ui.adsabs.harvard.edu/abs/2019ApJ...882..144K 
+
+Koptelova, E., & Hwang, C.-Y., 
+2019, 
+A Luminous Molecular Gas Pair beyond Redshift 7, 
+The Astrophysical Journal Letters, Volume 880, Issue 2, article id. L19, 5 pp. (2019)., 
+880, L19.  
+https://ui.adsabs.harvard.edu/abs/2019ApJ...880L..19K 
+
+Bhardwaj, A., Panwar, N., Herczeg, G. J., Chen, W. P., & Singh, H. P., 
+2019, 
+Variability of young stellar objects in the star-forming region Pelican Nebula, 
+Astronomy &amp; Astrophysics, Volume 627, id.A135, 16 pp., 
+627, A135.  
+https://ui.adsabs.harvard.edu/abs/2019A&A...627A.135B 
+
+Hsu, J.-K., & Ip, W.-H., 
+2019, 
+Estimates of the Atmospheric Escape Rates of CH<SUB>4</SUB> from Titan, 
+The Astrophysical Journal, Volume 878, Issue 1, article id. 3, 8 pp. (2019)., 
+878, 3.  
+https://ui.adsabs.harvard.edu/abs/2019ApJ...878....3H 
+
+Chen, Y.-C., & Hwang, C.-Y., 
+2019, 
+Emission line luminosity distributions of Seyfert 2 galaxies, 
+Monthly Notices of the Royal Astronomical Society, Volume 485, Issue 3, p.3402-3408, 
+485, 3402.  
+https://ui.adsabs.harvard.edu/abs/2019MNRAS.485.3402C 
+
+Tang, S.-Y., Pang, X., Yuan, Z., Chen, W. P., Hong, J., Goldman, B., Just, A., Shukirgaliyev, B., & Lin, C.-C., 
+2019, 
+Discovery of Tidal Tails in Disrupting Open Clusters: Coma Berenices and a Neighbor Stellar Group, 
+The Astrophysical Journal, Volume 877, Issue 1, article id. 12, 12 pp. (2019)., 
+877, 12.  
+https://ui.adsabs.harvard.edu/abs/2019ApJ...877...12T 
+
+Bhattacharya, S., Vaidya, K., Chen, W. P., & Beccari, G., 
+2019, 
+The blue straggler population of the old open cluster Berkeley 17, 
+Astronomy &amp; Astrophysics, Volume 624, id.A26, 6 pp., 
+624, A26.  
+https://ui.adsabs.harvard.edu/abs/2019A&A...624A..26B 
+
+Perley, D. A., Mazzali, P. A., Yan, L., Cenko, S. B., Gezari, S., Taggart, K., Blagorodnova, N., Fremling, C., Mockler, B., Singh, A., Tominaga, N., Tanaka, M., Watson, A. M., Ahumada, T., Anupama, G. C., Ashall, C., Becerra, R. L., Bersier, D., Bhalerao, V., Bloom, J. S., Butler, N. R., Copperwheat, C., Coughlin, M. W., De, K., Drake, A. J., Duev, D. A., Frederick, S., González, J. J., Goobar, A., Heida, M., Ho, A. Y. Q., Horst, J., Hung, T., Itoh, R., Jencson, J. E., Kasliwal, M. M., Kawai, N., Khanam, T., Kulkarni, S. R., Kumar, B., Kumar, H., Kutyrev, A. S., Lee, W. H., Maeda, K., Mahabal, A., Murata, K. L., Neill, J. D., Ngeow, C.-C., Penprase, B., Pian, E., Quimby, R., Ramirez-Ruiz, E., Richer, M. G., Román-Zúñiga, C. G., Sahu, D. K., Srivastav, S., Socia, Q., Sollerman, J., Tachibana, Y., Taddia, F., Tinyanont, S., Troja, E., Ward, C., Wee, J., & Yu, P.-C., 
+2019, 
+The fast, luminous ultraviolet transient AT2018cow: extreme supernova, or disruption of a star by an intermediate-mass black hole?, 
+Monthly Notices of the Royal Astronomical Society, Volume 484, Issue 1, p.1031-1049, 
+484, 1031.  
+https://ui.adsabs.harvard.edu/abs/2019MNRAS.484.1031P 
+
+Matonti, C., Attree, N., Groussin, O., Jorda, L., Viseur, S., Hviid, S. F., Bouley, S., Nébouy, D., Auger, A.-T., Lamy, P. L., Sierks, H., Naletto, G., Rodrigo, R., Koschny, D., Davidsson, B., Barucci, M. A., Bertaux, J.-L., Bertini, I., Bodewits, D., Cremonese, G., Da Deppo, V., Debei, S., De Cecco, M., Deller, J., Fornasier, S., Fulle, M., Gutiérrez, P. J., Güttler, C., Ip, W.-H., Keller, H. U., Lara, L. M., La Forgia, F., Lazzarin, M., Lucchetti, A., López-Moreno, J. J., Marzari, F., Massironi, M., Mottola, S., Oklay, N., Pajola, M., Penasa, L., Preusker, F., Rickman, H., Scholten, F., Shi, X., Toth, I., Tubiana, C., & Vincent, J.-B., 
+2019, 
+Bilobate comet morphology and internal structure controlled by shear deformation, 
+Nature Geoscience, Volume 12, Issue 3, p.157-162, 
+12, 157.  
+https://ui.adsabs.harvard.edu/abs/2019NatGe..12..157M 
+
+Huang, P. C., Chen, W. P., Mugrauer, M., Bischoff, R., Budaj, J., Burkhonov, O., Ehgamberdiev, S., Errmann, R., Garai, Z., Hsiao, H. Y., Hu, C. L., Janulis, R., Jensen, E. L. N., Kiyota, S., Kuramoto, K., Lin, C. S., Lin, H. C., Liu, J. Z., Lux, O., Naito, H., Neuhäuser, R., Ohlert, J., Pakštienė, E., Pribulla, T., Qvam, J. K. T., Raetz, S., Sato, S., Schwartz, M., Semkov, E., Takagi, S., Wagner, D., Watanabe, M., & Zhang, Y., 
+2019, 
+Diagnosing the Clumpy Protoplanetary Disk of the UXor Type Young Star GM Cephei, 
+The Astrophysical Journal, Volume 871, Issue 2, article id. 183, 12 pp. (2019)., 
+871, 183.  
+https://ui.adsabs.harvard.edu/abs/2019ApJ...871..183H 
+
+Griv, E., Jiang, I.-G., Hou, L.-G., & Ngeow, C.-C., 
+2019, 
+The Lin-Shu type density-wave structure of the Galaxy: Line-of-sight velocities of selected 37354 RAVE DR5 stars, 
+New Astronomy, Volume 66, p. 1-8., 
+66, 1.  
+https://ui.adsabs.harvard.edu/abs/2019NewA...66....1G 
+
+Bertini, I., La Forgia, F., Fulle, M., Tubiana, C., Güttler, C., Moreno, F., Agarwal, J., Munoz, O., Mottola, S., Ivanovsky, S., Pajola, M., Lucchetti, A., Petropoulou, V., Lazzarin, M., Rotundi, A., Bodewits, D., Frattin, E., Toth, I., Masoumzadeh, N., Kovacs, G., Rinaldi, G., Guirado, D., Sierks, H., Naletto, G., Lamy, P., Rodrigo, R., Koschny, D., Davidsson, B., Barbieri, C., Barucci, M. A., Bertaux, J.-L., Cambianica, P., Cremonese, G., Da Deppo, V., Debei, S., De Cecco, M., Deller, J., Ferrari, S., Ferri, F., Fornasier, S., Gutierrez, P. J., Hasselmann, P. H., Ip, W.-H., Keller, H. U., Lara, L. M., Lopez Moreno, J. J., Marzari, F., Massironi, M., Penasa, L., & Shi, X., 
+2019, 
+The backscattering ratio of comet 67P/Churyumov-Gerasimenko dust coma as seen by OSIRIS onboard Rosetta, 
+Monthly Notices of the Royal Astronomical Society, Volume 482, Issue 3, p.2924-2933, 
+482, 2924.  
+https://ui.adsabs.harvard.edu/abs/2019MNRAS.482.2924B 
+
+Mairs, S., Lalchand, B., Bower, G. C., Forbrich, J., Bell, G. S., Herczeg, G. J., Johnstone, D., Chen, W.-P., Lee, J.-E., & Hacar, A., 
+2019, 
+The JCMT Transient Survey: An Extraordinary Submillimeter Flare in the T Tauri Binary System JW 566, 
+The Astrophysical Journal, Volume 871, Issue 1, article id. 72, 9 pp. (2019)., 
+871, 72.  
+https://ui.adsabs.harvard.edu/abs/2019ApJ...871...72M 
+
+Wei, C.-E., Nomura, H., Lee, J.-E., Ip, W.-H., Walsh, C., & Millar, T. J., 
+2019, 
+The Effect of Carbon Grain Destruction on the Chemical Structure of Protoplanetary Disks, 
+The Astrophysical Journal, Volume 870, Issue 2, article id. 129, 21 pp. (2019)., 
+870, 129.  
+https://ui.adsabs.harvard.edu/abs/2019ApJ...870..129W 
+
+Thomas, N., El Maarry, M. R., Theologou, P., Preusker, F., Scholten, F., Jorda, L., Hviid, S. F., Marschall, R., Kührt, E., Naletto, G., Sierks, H., Lamy, P. L., Rodrigo, R., Koschny, D., Davidsson, B., Barucci, M. A., Bertaux, J. L., Bertini, I., Bodewits, D., Cremonese, G., Da Deppo, V., Debei, S., De Cecco, M., Fornasier, S., Fulle, M., Groussin, O., Gutièrrez, P. J., Güttler, C., Ip, W. H., Keller, H. U., Knollenberg, J., Lara, L. M., Lazzarin, M., Lòpez-Moreno, J. J., Marzari, F., Tubiana, C., & Vincent, J. B., 
+2018, 
+Regional unit definition for the nucleus of comet 67P/Churyumov-Gerasimenko on the SHAP7 model, 
+Planetary and Space Science, Volume 164, p. 19-36., 
+164, 19.  
+https://ui.adsabs.harvard.edu/abs/2018P&SS..164...19T 
+
+Chen, Y.-C., & Hwang, C.-Y., 
+2018, 
+Morphology of Seyfert Galaxies, 
+Astronomy Reports, Volume 62, Issue 12, pp.853-858, 
+62, 853.  
+https://ui.adsabs.harvard.edu/abs/2018ARep...62..853C 
+
+Chen, T.-W., Inserra, C., Fraser, M., Moriya, T. J., Schady, P., Schweyer, T., Filippenko, A. V., Perley, D. A., Ruiter, A. J., Seitenzahl, I., Sollerman, J., Taddia, F., Anderson, J. P., Foley, R. J., Jerkstrand, A., Ngeow, C.-C., Pan, Y.-C., Pastorello, A., Points, S., Smartt, S. J., Smith, K. W., Taubenberger, S., Wiseman, P., Young, D. R., Benetti, S., Berton, M., Bufano, F., Clark, P., Della Valle, M., Galbany, L., Gal-Yam, A., Gromadzki, M., Gutiérrez, C. P., Heinze, A., Kankare, E., Kilpatrick, C. D., Kuncarayakti, H., Leloudas, G., Lin, Z.-Y., Maguire, K., Mazzali, P., McBrien, O., Prentice, S. J., Rau, A., Rest, A., Siebert, M. R., Stalder, B., Tonry, J. L., & Yu, P.-C., 
+2018, 
+SN 2017ens: The Metamorphosis of a Luminous Broadlined Type Ic Supernova into an SN IIn, 
+The Astrophysical Journal Letters, Volume 867, Issue 2, article id. L31, 8 pp. (2018)., 
+867, L31.  
+https://ui.adsabs.harvard.edu/abs/2018ApJ...867L..31C 
+
+Moreno, F., Guirado, D., Muñoz, O., Bertini, I., Tubiana, C., Güttler, C., Fulle, M., Rotundi, A., Della Corte, V., Ivanovski, S. L., Rinaldi, G., Bockelée-Morvan, D., Zakharov, V. V., Agarwal, J., Mottola, S., Toth, I., Frattin, E., Lara, L. M., Gutiérrez, P. J., Lin, Z. Y., Kolokolova, L., Sierks, H., Naletto, G., Lamy, P. L., Rodrigo, R., Koschny, D., Davidsson, B., Barucci, M. A., Bertaux, J.-L., Bodewits, D., Cremonese, G., Da Deppo, V., Debei, S., De Cecco, M., Deller, J., Fornasier, S., Ip, W.-H., Keller, H. U., Lazzarin, M., López-Moreno, J. J., Marzari, F., & Shi, X., 
+2018, 
+Models of Rosetta/OSIRIS 67P Dust Coma Phase Function, 
+The Astronomical Journal, Volume 156, Issue 5, article id. 237, 7 pp. (2018)., 
+156, 237.  
+https://ui.adsabs.harvard.edu/abs/2018AJ....156..237M 
+
+Ferrari, S., Penasa, L., La Forgia, F., Massironi, M., Naletto, G., Lazzarin, M., Fornasier, S., Hasselmann, P. H., Lucchetti, A., Pajola, M., Ferri, F., Cambianica, P., Oklay, N., Tubiana, C., Sierks, H., Lamy, P. L., Rodrigo, R., Koschny, D., Davidsson, B., Barucci, M. A., Bertaux, J.-L., Bertini, I., Bodewits, D., Cremonese, G., Da Deppo, V., Debei, S., De Cecco, M., Deller, J., Franceschi, M., Frattin, E., Fulle, M., Groussin, O., Gutiérrez, P. J., Güttler, C., Hviid, S. F., Ip, W.-H., Jorda, L., Keller, H. U., Knollenberg, J., Kührt, E., Küppers, M., Lara, L. M., López-Moreno, J. J., Marzari, F., Shi, X., Simioni, E., Thomas, N., & Vincent, J.-B., 
+2018, 
+The big lobe of 67P/Churyumov-Gerasimenko comet: morphological and spectrophotometric evidences of layering as from OSIRIS data, 
+Monthly Notices of the Royal Astronomical Society, Volume 479, Issue 2, p.1555-1568, 
+479, 1555.  
+https://ui.adsabs.harvard.edu/abs/2018MNRAS.479.1555F 
+
+Dharmawardena, T. E., Kemper, F., Scicluna, P., Wouterloot, J. G. A., Trejo, A., Srinivasan, S., Cami, J., Zijlstra, A., & Marshall, J. P., 
+2018, 
+Extended Dust Emission from Nearby Evolved Stars, 
+Monthly Notices of the Royal Astronomical Society, Volume 479, Issue 1, p.536-552, 
+479, 536.  
+https://ui.adsabs.harvard.edu/abs/2018MNRAS.479..536D 
+
+Salinas, C. C. J. H., Chang, L. C., Liang, M.-C., Qian, L., Yue, J., Lee, J. N., Russell, J., Mlynczak, M., & Wu, D. L., 
+2018, 
+Solar Cycle Response of CO<SUB>2</SUB> Over the Austral Winter Mesosphere and Lower Thermosphere Region, 
+Journal of Geophysical Research: Space Physics, Volume 123, Issue 9, pp. 7581-7597, 
+123, 7581.  
+https://ui.adsabs.harvard.edu/abs/2018JGRA..123.7581S 
+
+Gerig, S.-B., Marschall, R., Thomas, N., Bertini, I., Bodewits, D., Davidsson, B., Fulle, M., Ip, W.-H., Keller, H. U., Küppers, M., Preusker, F., Scholten, F., Su, C. C., Toth, I., Tubiana, C., Wu, J.-S., Sierks, H., Barbieri, C., Lamy, P. L., Rodrigo, R., Koschny, D., Rickman, H., Agarwal, J., Barucci, M. A., Bertaux, J.-L., Cremonese, G., Da Deppo, V., Debei, S., De Cecco, M., Deller, J., Fornasier, S., Groussin, O., Gutierrez, P. J., Güttler, C., Hviid, S. F., Jorda, L., Knollenberg, J., Kramm, J.-R., Kührt, E., Lara, L. M., Lazzarin, M., Lopez Moreno, J. J., Marzari, F., Mottola, S., Naletto, G., Oklay, N., & Vincent, J.-B., 
+2018, 
+On deviations from free-radial outflow in the inner coma of comet 67P/Churyumov-Gerasimenko, 
+Icarus, Volume 311, p. 1-22., 
+311, 1.  
+https://ui.adsabs.harvard.edu/abs/2018Icar..311....1G 
+
+Lee, C. D., Eswaraiah, C., Chen, W. P., & Pandey, A. K., 
+2018, 
+A Multicolor Study of Polarization Variability in Isolated B[e] Stars HD 45677 and HD 50138, 
+The Astronomical Journal, Volume 156, Issue 3, article id. 115, 11 pp. (2018)., 
+156, 115.  
+https://ui.adsabs.harvard.edu/abs/2018AJ....156..115L 
+
+Samal, M. R., Deharveng, L., Zavagno, A., Anderson, L. D., Molinari, S., & Russeil, D., 
+2018, 
+Bipolar H II regions. II. Morphologies and star formation in their vicinities, 
+Astronomy &amp; Astrophysics, Volume 617, id.A67, 43 pp., 
+617, A67.  
+https://ui.adsabs.harvard.edu/abs/2018A&A...617A..67S 
+
+Vaidya, K., Bhattacharya, S., Panwar, V., Samal, M. R., Chen, W.-P., & Ojha, D. K., 
+2018, 
+Star formation toward the H II region IRAS 10427-6032, 
+New Astronomy, Volume 63, p. 27-37., 
+63, 27.  
+https://ui.adsabs.harvard.edu/abs/2018NewA...63...27V 
+
+Deb, S., Ngeow, C.-C., Kanbur, S. M., Singh, H. P., Wysocki, D., & Kumar, S., 
+2018, 
+Geometry of the Large Magellanic Cloud using multiwavelength photometry of classical Cepheids, 
+Monthly Notices of the Royal Astronomical Society, Volume 478, Issue 2, p.2526-2540, 
+478, 2526.  
+https://ui.adsabs.harvard.edu/abs/2018MNRAS.478.2526D 
+
+Lin, Z.-Y., Knollenberg, J., Vincent, J.-B., A'Hearn, M. F., & Ip, W.-H., 
+2018, 
+Investigating the physical properties of outbursts on comet 67P/Churyumov-Gerasimenko, 
+Serendipities in the Solar System and Beyond. ASP Conference Series, Vol. 513, proceedings of a conference held 10-13 July 2017 at National Central University, Taiwan. Edited by Chung-Ming Ko, Chan-Kao Chang, and Po-Chieh Yu.  San Francisco: Astronomical Society of the Pacific, 2018, p.73, 
+513, 73.  
+https://ui.adsabs.harvard.edu/abs/2018ASPC..513...73L 
+
+Tang, S.-Y., Chen, W. P., Chiang, P. S., Jose, J., Herczeg, G. J., & Goldman, B., 
+2018, 
+Characterization of Stellar and Substellar Members in the Coma Berenices Star Cluster, 
+The Astrophysical Journal, Volume 862, Issue 2, article id. 106, 28 pp. (2018)., 
+862, 106.  
+https://ui.adsabs.harvard.edu/abs/2018ApJ...862..106T 
+
+Morganson, E., Gruendl, R. A., Menanteau, F., Carrasco Kind, M., Chen, Y.-C., Daues, G., Drlica-Wagner, A., Friedel, D. N., Gower, M., Johnson, M. W. G., Johnson, M. D., Kessler, R., Paz-Chinchón, F., Petravick, D., Pond, C., Yanny, B., Allam, S., Armstrong, R., Barkhouse, W., Bechtol, K., Benoit-Lévy, A., Bernstein, G. M., Bertin, E., Buckley-Geer, E., Covarrubias, R., Desai, S., Diehl, H. T., Goldstein, D. A., Gruen, D., Li, T. S., Lin, H., Marriner, J., Mohr, J. J., Neilsen, E., Ngeow, C.-C., Paech, K., Rykoff, E. S., Sako, M., Sevilla-Noarbe, I., Sheldon, E., Sobreira, F., Tucker, D. L., Wester, W., & DES Collaboration, 
+2018, 
+The Dark Energy Survey Image Processing Pipeline, 
+Publications of the Astronomical Society of the Pacific, Volume 130, Issue 989, pp. 074501 (2018)., 
+130, 074501.  
+https://ui.adsabs.harvard.edu/abs/2018PASP..130g4501M 
+
+Samal, M. R., Chen, W. P., Takami, M., Jose, J., & Froebrich, D., 
+2018, 
+YSO jets in the Galactic plane from UWISH2 - V. Jets and outflows in M17, 
+Monthly Notices of the Royal Astronomical Society, Volume 477, Issue 4, p.4577-4595, 
+477, 4577.  
+https://ui.adsabs.harvard.edu/abs/2018MNRAS.477.4577S 
+
+Ong, Y. C., & Nester, J. M., 
+2018, 
+Counting components in the Lagrange multiplier formulation of teleparallel theories, 
+The European Physical Journal C, Volume 78, Issue 7, article id. 568, 7 pp., 
+78, 568.  
+https://ui.adsabs.harvard.edu/abs/2018EPJC...78..568O 
+
+Chiang, P., Lee, C.-H., Magnier, E., & Chen, W.-P., 
+2018, 
+Ultra-cool Subdwarfs in the Subaru HSC survey, 
+The 20th Cambridge Workshop on Cool Stars, Stellar Systems and the Sun, held 29 July -3 August, 2018 in Boston, MA. Online at <A href="http://coolstars20.cfa.harvard.edu/">http://coolstars20.cfa.harvard.edu/</A>, cs20, id.8,  8.  
+https://ui.adsabs.harvard.edu/abs/2018csss.confE...8C 
+
+Ngeow, C.-C., 
+2018, 
+A Brief Overview of the Palomar Transient Factory (PTF) and Recent Progress of PTF-RRL Program at the National Central University, 
+The RR Lyrae 2017 Conference. Revival of the Classical Pulsators: from Galactic Structure to Stellar Interior Diagnostics.  Proceedings of the meeting held 17-21 September, 2017 in Niepołomice, Poland. Proceedings of the Polish Astronomical Society, Vol. 6. Edited by R. Smolec, K. Kinemuchi, and R.I. Anderson, ISBN 978-83-938279-9-2, pp.308-309, 
+6, 308.  
+https://ui.adsabs.harvard.edu/abs/2018pas6.conf..308N 
+
+Zhang, C.-P., Liu, T., Yuan, J., Sanhueza, P., Traficante, A., Li, G.-X., Li, D., Tatematsu, K., Wang, K., Lee, C. W., Samal, M. R., Eden, D., Marston, A., Liu, X.-L., Zhou, J.-J., Li, P. S., Koch, P. M., Xu, J.-L., Wu, Y., Juvela, M., Zhang, T., Alina, D., Goldsmith, P. F., Tóth, L. V., Wang, J.-J., & Kim, K.-T., 
+2018, 
+The TOP-SCOPE Survey of PGCCs: PMO and SCUBA-2 Observations of 64 PGCCs in the Second Galactic Quadrant, 
+The Astrophysical Journal Supplement Series, Volume 236, Issue 2, article id. 49, 20 pp. (2018)., 
+236, 49.  
+https://ui.adsabs.harvard.edu/abs/2018ApJS..236...49Z 
+
+Shi, X., Hu, X., Mottola, S., Sierks, H., Keller, H. U., Rose, M., Güttler, C., Fulle, M., Fornasier, S., Agarwal, J., Pajola, M., Tubiana, C., Bodewits, D., Barbieri, C., Lamy, P. L., Rodrigo, R., Koschny, D., Barucci, M. A., Bertaux, J.-L., Bertini, I., Boudreault, S., Cremonese, G., Da Deppo, V., Davidsson, B., Debei, S., De Cecco, M., Deller, J., Groussin, O., Gutiérrez, P. J., Hviid, S. F., Ip, W.-H., Jorda, L., Knollenberg, J., Kovacs, G., Kramm, J.-R., Kührt, E., Küppers, M., Lara, L. M., Lazzarin, M., Lopez-Moreno, J. J., Marzari, F., Naletto, G., Oklay, N., Toth, I., & Vincent, J.-B., 
+2018, 
+Coma morphology of comet 67P controlled by insolation over irregular nucleus, 
+Nature Astronomy, Volume 2, p. 562-567, 
+2, 562.  
+https://ui.adsabs.harvard.edu/abs/2018NatAs...2..562S 
+
+Fulle, M., Bertini, I., Della Corte, V., Güttler, C., Ivanovski, S., La Forgia, F., Lasue, J., Levasseur-Regourd, A. C., Marzari, F., Moreno, F., Mottola, S., Naletto, G., Palumbo, P., Rinaldi, G., Rotundi, A., Sierks, H., Barbieri, C., Lamy, P. L., Rodrigo, R., Koschny, D., Rickman, H., Barucci, M. A., Bertaux, J.-L., Bodewits, D., Cremonese, G., Da Deppo, V., Davidsson, B., Debei, S., De Cecco, M., Deller, J., Fornasier, S., Groussin, O., Gutiérrez, P. J., Hviid, H. S., Ip, W. H., Jorda, L., Keller, H. U., Knollenberg, J., Kramm, J. R., Kührt, E., Küppers, M., Lara, M. L., Lazzarin, M., López-Moreno, J. J., Shi, X., Thomas, N., & Tubiana, C., 
+2018, 
+The phase function and density of the dust observed at comet 67P/Churyumov-Gerasimenko, 
+Monthly Notices of the Royal Astronomical Society, Volume 476, Issue 2, p.2835-2839, 
+476, 2835.  
+https://ui.adsabs.harvard.edu/abs/2018MNRAS.476.2835F 
+
+Müller-Sánchez, F., Hicks, E. K. S., Malkan, M., Davies, R., Yu, P. C., Shaver, S., & Davis, B., 
+2018, 
+The Keck/OSIRIS Nearby AGN Survey (KONA). I. The Nuclear K-band Properties of Nearby AGN, 
+The Astrophysical Journal, Volume 858, Issue 1, article id. 48, 19 pp. (2018)., 
+858, 48.  
+https://ui.adsabs.harvard.edu/abs/2018ApJ...858...48M 
+
+Ngeow, C.-C., Bhardwaj, A., & Kanbur, S. M., 
+2018, 
+G-Band Period-Luminosity Relation For Galactic Cepheids Based on Gaia DR1 Measurements, 
+Astrometry and Astrophysics in the Gaia sky, Proceedings of the International Astronomical Union, IAU Symposium, Volume 330, pp. 337-338, 
+330, 337.  
+https://ui.adsabs.harvard.edu/abs/2018IAUS..330..337N 
+
+Huang, P.-C., Chen, W.-P., Hu, C.-L., Burkhonov, O., Ehgamberdiev, S., Liu, J., Naito, H., Pakstiene, E., Qvam, J. K. T., Rätz, S., & Semkov, E., 
+2018, 
+Young Stellar Variability of GM Cephei by Circumstellar Dust Clumps, 
+Bulletin de la Société Royale des Sciences de Liège, in Proceedings of the First Belgo-Indian Network for Astronomy &amp; Astrophysics (BINA) workshop, November 2016, held in Nainital, India, Vol. 87, pp 145-149, 
+87, 145.  
+https://ui.adsabs.harvard.edu/abs/2018BSRSL..87..145H 
+
+Pittori, C., Lucarelli, F., Verrecchia, F., Raiteri, C. M., Villata, M., Vittorini, V., Tavani, M., Puccetti, S., Perri, M., Donnarumma, I., Vercellone, S., Acosta-Pulido, J. A., Bachev, R., Benítez, E., Borman, G. A., Carnerero, M. I., Carosati, D., Chen, W. P., Ehgamberdiev, S. A., Goded, A., Grishina, T. S., Hiriart, D., Hsiao, H. Y., Jorstad, S. G., Kimeridze, G. N., Kopatskaya, E. N., Kurtanidze, O. M., Kurtanidze, S. O., Larionov, V. M., Larionova, L. V., Marscher, A. P., Mirzaqulov, D. O., Morozova, D. A., Nilsson, K., Samal, M. R., Sigua, L. A., Spassov, B., Strigachev, A., Takalo, L. O., Antonelli, L. A., Bulgarelli, A., Cattaneo, P., Colafrancesco, S., Giommi, P., Longo, F., Morselli, A., & Paoletti, F., 
+2018, 
+The Bright γ-ray Flare of 3C 279 in 2015 June: AGILE Detection and Multifrequency Follow-up Observations, 
+The Astrophysical Journal, Volume 856, Issue 2, article id. 99, 9 pp. (2018)., 
+856, 99.  
+https://ui.adsabs.harvard.edu/abs/2018ApJ...856...99P 
+
+Juvela, M., He, J., Pattle, K., Liu, T., Bendo, G., Eden, D. J., Fehér, O., Michel, F., Fuller, G., Hirano, N., Kim, K.-T., Li, D., Liu, S.-Y., Malinen, J., Marshall, D. J., Paradis, D., Parsons, H., Pelkonen, V.-M., Rawlings, M. G., Ristorcelli, I., Samal, M. R., Tatematsu, K., Thompson, M., Traficante, A., Wang, K., Ward-Thompson, D., Wu, Y., Yi, H.-W., & Yoo, H., 
+2018, 
+Herschel and SCUBA-2 observations of dust emission in a sample of Planck cold clumps, 
+Astronomy &amp; Astrophysics, Volume 612, id.A71, 38 pp., 
+612, A71.  
+https://ui.adsabs.harvard.edu/abs/2018A&A...612A..71J 
+
+Blagorodnova, N., Neill, J. D., Walters, R., Kulkarni, S. R., Fremling, C., Ben-Ami, S., Dekany, R. G., Fucik, J. R., Konidaris, N., Nash, R., Ngeow, C.-C., Ofek, E. O., O' Sullivan, D., Quimby, R., Ritter, A., & Vyhmeister, K. E., 
+2018, 
+The SED Machine: A Robotic Spectrograph for Fast Transient Classification, 
+Publications of the Astronomical Society of the Pacific, Volume 130, Issue 985, pp. 035003 (2018)., 
+130, 035003.  
+https://ui.adsabs.harvard.edu/abs/2018PASP..130c5003B 
+
+Chen, I.-C., Hwang, C.-Y., Kaiser, N., Magnier, E. A., Metcalfe, N., & Waters, C., 
+2018, 
+Color Variabilities of Spectrally Defined Red QSOs at z = 0.3-1.2, 
+The Astrophysical Journal, Volume 855, Issue 1, article id. 66, 19 pp. (2018)., 
+855, 66.  
+https://ui.adsabs.harvard.edu/abs/2018ApJ...855...66C 
+
+Johnstone, D., Herczeg, G. J., Mairs, S., Hatchell, J., Bower, G. C., Kirk, H., Lane, J., Bell, G. S., Graves, S., Aikawa, Y., Chen, H.-R. V., Chen, W.-P., Kang, M., Kang, S.-J., Lee, J.-E., Morata, O., Pon, A., Scicluna, P., Scholz, A., Takahashi, S., Yoo, H., & JCMT Transient Team, 
+2018, 
+The JCMT Transient Survey: Stochastic and Secular Variability of Protostars and Disks In the Submillimeter Region Observed over 18 Months, 
+The Astrophysical Journal, Volume 854, Issue 1, article id. 31, 21 pp. (2018)., 
+854, 31.  
+https://ui.adsabs.harvard.edu/abs/2018ApJ...854...31J 
+
+Yu, P.-C., Yu, C.-H., Lee, C.-D., Lin, C.-C., Hsia, C.-H., Chang, C.-K., Chen, I.-C., Ngeow, C.-C., Ip, W.-H., Chen, W.-P., Laher, R., Surace, J., & Kulkarni, S. R., 
+2018, 
+Searching for Be Stars in the Open Clusters with PTF/iPTF. I. Cluster Sample and Be Star Candidates, 
+The Astronomical Journal, Volume 155, Issue 2, article id. 91, 17 pp. (2018)., 
+155, 91.  
+https://ui.adsabs.harvard.edu/abs/2018AJ....155...91Y 
+
+Li, K.-F., Lin, L.-C., Bui, X.-H., & Liang, M.-C., 
+2018, 
+The 11 Year Solar Cycle Response of the Equatorial Ionization Anomaly Observed by GPS Radio Occultation, 
+Journal of Geophysical Research: Space Physics, Volume 123, Issue 1, pp. 848-861, 
+123, 848.  
+https://ui.adsabs.harvard.edu/abs/2018JGRA..123..848L 
+
+Lee, C.-H., & Chiang, P.-S., 
+2018, 
+Evidence that the Planetary Candidate CVSO30c is a Background Star from Optical, Seeing-limited Data, 
+The Astrophysical Journal Letters, Volume 852, Issue 2, article id. L24, 5 pp. (2018)., 
+852, L24.  
+https://ui.adsabs.harvard.edu/abs/2018ApJ...852L..24L 
+
+Guo, Z., Herczeg, G. J., Jose, J., Fu, J., Chiang, P.-S., Grankin, K., Michel, R., Kesh Yadav, R., Liu, J., Chen, W.-. ping ., Li, G., Xue, H., Niu, H., Subramaniam, A., Sharma, S., Prasert, N., Flores-Fajardo, N., Castro, A., & Altamirano, L., 
+2018, 
+Star-Disk Interactions in Multiband Photometric Monitoring of the Classical T Tauri Star GI Tau, 
+The Astrophysical Journal, Volume 852, Issue 1, article id. 56, 15 pp. (2018)., 
+852, 56.  
+https://ui.adsabs.harvard.edu/abs/2018ApJ...852...56G 
+
+Panwar, N., Pandey, A. K., Samal, M. R., Battinelli, P., Ogura, K., Ojha, D. K., Chen, W. P., & Singh, H. P., 
+2018, 
+Young Cluster Berkeley 59: Properties, Evolution, and Star Formation, 
+The Astronomical Journal, Volume 155, Issue 1, article id. 44, 12 pp. (2018)., 
+155, 44.  
+https://ui.adsabs.harvard.edu/abs/2018AJ....155...44P 
+
+Kasliwal, M. M., Nakar, E., Singer, L. P., Kaplan, D. L., Cook, D. O., Van Sistine, A., Lau, R. M., Fremling, C., Gottlieb, O., Jencson, J. E., Adams, S. M., Feindt, U., Hotokezaka, K., Ghosh, S., Perley, D. A., Yu, P.-C., Piran, T., Allison, J. R., Anupama, G. C., Balasubramanian, A., Bannister, K. W., Bally, J., Barnes, J., Barway, S., Bellm, E., Bhalerao, V., Bhattacharya, D., Blagorodnova, N., Bloom, J. S., Brady, P. R., Cannella, C., Chatterjee, D., Cenko, S. B., Cobb, B. E., Copperwheat, C., Corsi, A., De, K., Dobie, D., Emery, S. W. K., Evans, P. A., Fox, O. D., Frail, D. A., Frohmaier, C., Goobar, A., Hallinan, G., Harrison, F., Helou, G., Hinderer, T., Ho, A. Y. Q., Horesh, A., Ip, W.-H., Itoh, R., Kasen, D., Kim, H., Kuin, N. P. M., Kupfer, T., Lynch, C., Madsen, K., Mazzali, P. A., Miller, A. A., Mooley, K., Murphy, T., Ngeow, C.-C., Nichols, D., Nissanke, S., Nugent, P., Ofek, E. O., Qi, H., Quimby, R. M., Rosswog, S., Rusu, F., Sadler, E. M., Schmidt, P., Sollerman, J., Steele, I., Williamson, A. R., Xu, Y., Yan, L., Yatsu, Y., Zhang, C., & Zhao, W., 
+2017, 
+Illuminating gravitational waves: A concordant picture of photons from a neutron star merger, 
+Science, Volume 358, Issue 6370, pp. 1559-1565 (2017)., 
+358, 1559.  
+https://ui.adsabs.harvard.edu/abs/2017Sci...358.1559K 
+
+Raiteri, C. M., Villata, M., Acosta-Pulido, J. A., Agudo, I., Arkharov, A. A., Bachev, R., Baida, G. V., Benítez, E., Borman, G. A., Boschin, W., Bozhilov, V., Butuzova, M. S., Calcidese, P., Carnerero, M. I., Carosati, D., Casadio, C., Castro-Segura, N., Chen, W.-P., Damljanovic, G., D'Ammando, F., di Paola, A., Echevarría, J., Efimova, N. V., Ehgamberdiev, S. A., Espinosa, C., Fuentes, A., Giunta, A., Gómez, J. L., Grishina, T. S., Gurwell, M. A., Hiriart, D., Jermak, H., Jordan, B., Jorstad, S. G., Joshi, M., Kopatskaya, E. N., Kuratov, K., Kurtanidze, O. M., Kurtanidze, S. O., Lähteenmäki, A., Larionov, V. M., Larionova, E. G., Larionova, L. V., Lázaro, C., Lin, C. S., Malmrose, M. P., Marscher, A. P., Matsumoto, K., McBreen, B., Michel, R., Mihov, B., Minev, M., Mirzaqulov, D. O., Mokrushina, A. A., Molina, S. N., Moody, J. W., Morozova, D. A., Nazarov, S. V., Nikolashvili, M. G., Ohlert, J. M., Okhmat, D. N., Ovcharov, E., Pinna, F., Polakis, T. A., Protasio, C., Pursimo, T., Redondo-Lorenzo, F. J., Rizzi, N., Rodriguez-Coira, G., Sadakane, K., Sadun, A. C., Samal, M. R., Savchenko, S. S., Semkov, E., Skiff, B. A., Slavcheva-Mihova, L., Smith, P. S., Steele, I. A., Strigachev, A., Tammi, J., Thum, C., Tornikoski, M., Troitskaya, Y. V., Troitsky, I. S., Vasilyev, A. A., & Vince, O., 
+2017, 
+Blazar spectral variability as explained by a twisted inhomogeneous jet, 
+Nature, Volume 552, Issue 7685, pp. 374-377 (2017)., 
+552, 374.  
+https://ui.adsabs.harvard.edu/abs/2017Natur.552..374R 
+
+Carnerero, M. I., Raiteri, C. M., Villata, M., Acosta-Pulido, J. A., Larionov, V. M., Smith, P. S., D'Ammando, F., Agudo, I., Arévalo, M. J., Bachev, R., Barnes, J., Boeva, S., Bozhilov, V., Carosati, D., Casadio, C., Chen, W. P., Damljanovic, G., Eswaraiah, E., Forné, E., Gantchev, G., Gómez, J. L., González-Morales, P. A., Griñón-Marín, A. B., Grishina, T. S., Holden, M., Ibryamov, S., Joner, M. D., Jordan, B., Jorstad, S. G., Joshi, M., Kopatskaya, E. N., Koptelova, E., Kurtanidze, O. M., Kurtanidze, S. O., Larionova, E. G., Larionova, L. V., Latev, G., Lázaro, C., Ligustri, R., Lin, H. C., Marscher, A. P., Martínez-Lombilla, C., McBreen, B., Mihov, B., Molina, S. N., Moody, J. W., Morozova, D. A., Nikolashvili, M. G., Nilsson, K., Ovcharov, E., Pace, C., Panwar, N., Pastor Yabar, A., Pearson, R. L., Pinna, F., Protasio, C., Rizzi, N., Redondo-Lorenzo, F. J., Rodríguez-Coira, G., Ros, J. A., Sadun, A. C., Savchenko, S. S., Semkov, E., Slavcheva-Mihova, L., Smith, N., Strigachev, A., Troitskaya, Y. V., Troitsky, I. S., Vasilyev, A. A., & Vince, O., 
+2017, 
+Dissecting the long-term emission behaviour of the BL Lac object Mrk 421, 
+Monthly Notices of the Royal Astronomical Society, Volume 472, Issue 4, p.3789-3804, 
+472, 3789.  
+https://ui.adsabs.harvard.edu/abs/2017MNRAS.472.3789C 
+
+Chen, Y.-C., & Hwang, C.-Y., 
+2017, 
+Morphology of Seyfert galaxies, 
+Astrophysics and Space Science, Volume 362, Issue 12, article id.230, 10 pp., 
+362, 230.  
+https://ui.adsabs.harvard.edu/abs/2017Ap&SS.362..230C 
+
+Chen, T.-W., Schady, P., Xiao, L., Eldridge, J. J., Schweyer, T., Lee, C.-H., Yu, P.-C., Smartt, S. J., & Inserra, C., 
+2017, 
+Spatially Resolved MaNGA Observations of the Host Galaxy of Superluminous Supernova 2017egm, 
+The Astrophysical Journal Letters, Volume 849, Issue 1, article id. L4, 7 pp. (2017)., 
+849, L4.  
+https://ui.adsabs.harvard.edu/abs/2017ApJ...849L...4C 
+
+Mairs, S., Johnstone, D., Kirk, H., Lane, J., Bell, G. S., Graves, S., Herczeg, G. J., Scicluna, P., Bower, G. C., Chen, H.-R. V., Hatchell, J., Aikawa, Y., Chen, W.-P., Kang, M., Kang, S.-J., Lee, J.-E., Morata, O., Pon, A., Scholz, A., Takahashi, S., Yoo, H., & JCMT Transient Team, 
+2017, 
+The JCMT Transient Survey: Identifying Submillimeter Continuum Variability over Several Year Timescales Using Archival JCMT Gould Belt Survey Observations, 
+The Astrophysical Journal, Volume 849, Issue 2, article id. 107, 22 pp. (2017)., 
+849, 107.  
+https://ui.adsabs.harvard.edu/abs/2017ApJ...849..107M 
+
+Herczeg, G. J., Johnstone, D., Mairs, S., Hatchell, J., Lee, J.-E., Bower, G. C., Chen, H.-R. V., Aikawa, Y., Yoo, H., Kang, S.-J., Kang, M., Chen, W.-P., Williams, J. P., Bae, J., Dunham, M. M., Vorobyov, E. I., Zhu, Z., Rao, R., Kirk, H., Takahashi, S., Morata, O., Lacaille, K., Lane, J., Pon, A., Scholz, A., Samal, M. R., Bell, G. S., Graves, S., Lee, E. 'lisa M., Parsons, H., He, Y., Zhou, J., Kim, M.-R., Chapman, S., Drabek-Maunder, E., Chung, E. J., Eyres, S. P. S., Forbrich, J., Hillenbrand, L. A., Inutsuka, S.-. ichiro ., Kim, G., Kim, K. H., Kuan, Y.-J., Kwon, W., Lai, S.-P., Lalchand, B., Lee, C. W., Lee, C.-F., Long, F., Lyo, A.-R., Qian, L., Scicluna, P., Soam, A., Stamatellos, D., Takakuwa, S., Tang, Y.-W., Wang, H., & Wang, Y., 
+2017, 
+How Do Stars Gain Their Mass? A JCMT/SCUBA-2 Transient Survey of Protostars in Nearby Star-forming Regions, 
+The Astrophysical Journal, Volume 849, Issue 1, article id. 43, 14 pp. (2017)., 
+849, 43.  
+https://ui.adsabs.harvard.edu/abs/2017ApJ...849...43H 
+
+Preusker, F., Scholten, F., Matz, K.-D., Roatsch, T., Hviid, S. F., Mottola, S., Knollenberg, J., Kührt, E., Pajola, M., Oklay, N., Vincent, J.-B., Davidsson, B., A'Hearn, M. F., Agarwal, J., Barbieri, C., Barucci, M. A., Bertaux, J.-L., Bertini, I., Cremonese, G., Da Deppo, V., Debei, S., De Cecco, M., Fornasier, S., Fulle, M., Groussin, O., Gutiérrez, P. J., Güttler, C., Ip, W.-H., Jorda, L., Keller, H. U., Koschny, D., Kramm, J. R., Küppers, M., Lamy, P., Lara, L. M., Lazzarin, M., Lopez Moreno, J. J., Marzari, F., Massironi, M., Naletto, G., Rickman, H., Rodrigo, R., Sierks, H., Thomas, N., & Tubiana, C., 
+2017, 
+The global meter-level shape model of comet 67P/Churyumov-Gerasimenko, 
+Astronomy &amp; Astrophysics, Volume 607, id.L1, 5 pp., 
+607, L1.  
+https://ui.adsabs.harvard.edu/abs/2017A&A...607L...1P 
+
+Liang, M.-C., Mahata, S., Laskar, A. H., Thiemens, M. H., & Newman, S., 
+2017, 
+Oxygen isotope anomaly in tropospheric CO<SUB>2</SUB> and implications for CO<SUB>2</SUB> residence time in the atmosphere and gross primary productivity, 
+Scientific Reports, Volume 7, id. 13180, 
+7, 13180.  
+https://ui.adsabs.harvard.edu/abs/2017NatSR...713180L 
+
+Abbott, B. P., Abbott, R., Abbott, T. D., Acernese, F., Ackley, K., Adams, C., Adams, T., Addesso, P., Adhikari, R. X., Adya, V. B., Affeldt, C., Afrough, M., Agarwal, B., Agathos, M., Agatsuma, K., Aggarwal, N., Aguiar, O. D., Aiello, L., Ain, A., Ajith, P., Allen, B., Allen, G., Allocca, A., Altin, P. A., Amato, A., Ananyeva, A., Anderson, S. B., Anderson, W. G., Angelova, S. V., Antier, S., Appert, S., Arai, K., Araya, M. C., Areeda, J. S., Arnaud, N., Arun, K. G., Ascenzi, S., Ashton, G., Ast, M., Aston, S. M., Astone, P., Atallah, D. V., Aufmuth, P., Aulbert, C., AultONeal, K., Austin, C., Avila-Alvarez, A., Babak, S., Bacon, P., Bader, M. K. M., Bae, S., Baker, P. T., Baldaccini, F., Ballardin, G., Ballmer, S. W., Banagiri, S., Barayoga, J. C., Barclay, S. E., Barish, B. C., Barker, D., Barkett, K., Barone, F., Barr, B., Barsotti, L., Barsuglia, M., Barta, D., Barthelmy, S. D., Bartlett, J., Bartos, I., Bassiri, R., Basti, A., Batch, J. C., Bawaj, M., Bayley, J. C., Bazzan, M., Bécsy, B., Beer, C., Bejger, M., Belahcene, I., Bell, A. S., Berger, B. K., Bergmann, G., Bero, J. J., Berry, C. P. L., Bersanetti, D., Bertolini, A., Betzwieser, J., Bhagwat, S., Bhandare, R., Bilenko, I. A., Billingsley, G., Billman, C. R., Birch, J., Birney, R., Birnholtz, O., Biscans, S., Biscoveanu, S., Bisht, A., Bitossi, M., Biwer, C., Bizouard, M. A., Blackburn, J. K., Blackman, J., Blair, C. D., Blair, D. G., Blair, R. M., Bloemen, S., Bock, O., Bode, N., Boer, M., Bogaert, G., Bohe, A., Bondu, F., Bonilla, E., Bonnand, R., Boom, B. A., Bork, R., Boschi, V., Bose, S., Bossie, K., Bouffanais, Y., Bozzi, A., Bradaschia, C., Brady, P. R., Branchesi, M., Brau, J. E., Briant, T., Brillet, A., Brinkmann, M., Brisson, V., Brockill, P., Broida, J. E., Brooks, A. F., Brown, D. A., Brown, D. D., Brunett, S., Buchanan, C. C., Buikema, A., Bulik, T., Bulten, H. J., Buonanno, A., Buskulic, D., Buy, C., Byer, R. L., Cabero, M., Cadonati, L., Cagnoli, G., Cahillane, C., Calderón Bustillo, J., Callister, T. A., Calloni, E., Camp, J. B., Canepa, M., Canizares, P., Cannon, K. C., Cao, H., Cao, J., Capano, C. D., Capocasa, E., Carbognani, F., Caride, S., Carney, M. F., Casanueva Diaz, J., Casentini, C., Caudill, S., Cavaglià, M., Cavalier, F., Cavalieri, R., Cella, G., Cepeda, C. B., Cerdá-Durán, P., Cerretani, G., Cesarini, E., Chamberlin, S. J., Chan, M., Chao, S., Charlton, P., Chase, E., Chassande-Mottin, E., Chatterjee, D., Chatziioannou, K., Cheeseboro, B. D., Chen, H. Y., Chen, X., Chen, Y., Cheng, H.-P., Chia, H., Chincarini, A., Chiummo, A., Chmiel, T., Cho, H. S., Cho, M., Chow, J. H., Christensen, N., Chu, Q., Chua, A. J. K., Chua, S., Chung, A. K. W., Chung, S., Ciani, G., Ciolfi, R., Cirelli, C. E., Cirone, A., Clara, F., Clark, J. A., Clearwater, P., Cleva, F., Cocchieri, C., Coccia, E., Cohadon, P.-F., Cohen, D., Colla, A., Collette, C. G., Cominsky, L. R., Constancio, M., Conti, L., Cooper, S. J., Corban, P., Corbitt, T. R., Cordero-Carrión, I., Corley, K. R., Cornish, N., Corsi, A., Cortese, S., Costa, C. A., Coughlin, M. W., Coughlin, S. B., Coulon, J.-P., Countryman, S. T., Couvares, P., Covas, P. B., Cowan, E. E., Coward, D. M., Cowart, M. J., Coyne, D. C., Coyne, R., Creighton, J. D. E., Creighton, T. D., Cripe, J., Crowder, S. G., Cullen, T. J., Cumming, A., Cunningham, L., Cuoco, E., Dal Canton, T., Dálya, G., Danilishin, S. L., D'Antonio, S., Danzmann, K., Dasgupta, A., Da Silva Costa, C. F., Dattilo, V., Dave, I., Davier, M., Davis, D., Daw, E. J., Day, B., De, S., DeBra, D., Degallaix, J., De Laurentis, M., Deléglise, S., Del Pozzo, W., Demos, N., Denker, T., Dent, T., De Pietri, R., Dergachev, V., De Rosa, R., DeRosa, R. T., De Rossi, C., DeSalvo, R., de Varona, O., Devenson, J., Dhurandhar, S., Díaz, M. C., Di Fiore, L., Di Giovanni, M., Di Girolamo, T., Di Lieto, A., Di Pace, S., Di Palma, I., Di Renzo, F., Doctor, Z., Dolique, V., Donovan, F., Dooley, K. L., Doravari, S., Dorrington, I., Douglas, R., Dovale Álvarez, M., Downes, T. P., Drago, M., Dreissigacker, C., Driggers, J. C., Du, Z., Ducrot, M., Dupej, P., Dwyer, S. E., Edo, T. B., Edwards, M. C., Effler, A., Ehrens, P., Eichholz, J., Eikenberry, S. S., Eisenstein, R. A., Essick, R. C., Estevez, D., Etienne, Z. B., Etzel, T., Evans, M., Evans, T. M., Factourovich, M., Fafone, V., Fair, H., Fairhurst, S., Fan, X., Farinon, S., Farr, B., Farr, W. M., Fauchon-Jones, E. J., Favata, M., Fays, M., Fee, C., Fehrmann, H., Feicht, J., Fejer, M. M., Fernandez-Galiana, A., Ferrante, I., Ferreira, E. C., Ferrini, F., Fidecaro, F., Finstad, D., Fiori, I., Fiorucci, D., Fishbach, M., Fisher, R. P., Fitz-Axen, M., Flaminio, R., Fletcher, M., Fong, H., Font, J. A., Forsyth, P. W. F., Forsyth, S. S., Fournier, J.-D., Frasca, S., Frasconi, F., Frei, Z., Freise, A., Frey, R., Frey, V., Fries, E. M., Fritschel, P., Frolov, V. V., Fulda, P., Fyffe, M., Gabbard, H., Gadre, B. U., Gaebel, S. M., Gair, J. R., Gammaitoni, L., Ganija, M. R., Gaonkar, S. G., Garcia-Quiros, C., Garufi, F., Gateley, B., Gaudio, S., Gaur, G., Gayathri, V., Gehrels, N., Gemme, G., Genin, E., Gennai, A., George, D., George, J., Gergely, L., Germain, V., Ghonge, S., Ghosh, A., Ghosh, A., Ghosh, S., Giaime, J. A., Giardina, K. D., Giazotto, A., Gill, K., Glover, L., Goetz, E., Goetz, R., Gomes, S., Goncharov, B., González, G., Gonzalez Castro, J. M., Gopakumar, A., Gorodetsky, M. L., Gossan, S. E., Gosselin, M., Gouaty, R., Grado, A., Graef, C., Granata, M., Grant, A., Gras, S., Gray, C., Greco, G., Green, A. C., Gretarsson, E. M., Griswold, B., Groot, P., Grote, H., Grunewald, S., Gruning, P., Guidi, G. M., Guo, X., Gupta, A., Gupta, M. K., Gushwa, K. E., Gustafson, E. K., Gustafson, R., Halim, O., Hall, B. R., Hall, E. D., Hamilton, E. Z., Hammond, G., Haney, M., Hanke, M. M., Hanks, J., Hanna, C., Hannam, M. D., Hannuksela, O. A., Hanson, J., Hardwick, T., Harms, J., Harry, G. M., Harry, I. W., Hart, M. J., Haster, C.-J., Haughian, K., Healy, J., Heidmann, A., Heintze, M. C., Heitmann, H., Hello, P., Hemming, G., Hendry, M., Heng, I. S., Hennig, J., Heptonstall, A. W., Heurs, M., Hild, S., Hinderer, T., Hoak, D., Hofman, D., Holt, K., Holz, D. E., Hopkins, P., Horst, C., Hough, J., Houston, E. A., Howell, E. J., Hreibi, A., Hu, Y. M., Huerta, E. A., Huet, D., Hughey, B., Husa, S., Huttner, S. H., Huynh-Dinh, T., Indik, N., Inta, R., Intini, G., Isa, H. N., Isac, J.-M., Isi, M., Iyer, B. R., Izumi, K., Jacqmin, T., Jani, K., Jaranowski, P., Jawahar, S., Jiménez-Forteza, F., Johnson, W. W., Jones, D. I., Jones, R., Jonker, R. J. G., Ju, L., Junker, J., Kalaghatgi, C. V., Kalogera, V., Kamai, B., Kandhasamy, S., Kang, G., Kanner, J. B., Kapadia, S. J., Karki, S., Karvinen, K. S., Kasprzack, M., Katolik, M., Katsavounidis, E., Katzman, W., Kaufer, S., Kawabe, K., Kéfélian, F., Keitel, D., Kemball, A. J., Kennedy, R., Kent, C., Key, J. S., Khalili, F. Y., Khan, I., Khan, S., Khan, Z., Khazanov, E. A., Kijbunchoo, N., Kim, C., Kim, J. C., Kim, K., Kim, W., Kim, W. S., Kim, Y.-M., Kimbrell, S. J., King, E. J., King, P. J., Kinley-Hanlon, M., Kirchhoff, R., Kissel, J. S., Kleybolte, L., Klimenko, S., Knowles, T. D., Koch, P., Koehlenbeck, S. M., Koley, S., Kondrashov, V., Kontos, A., Korobko, M., Korth, W. Z., Kowalska, I., Kozak, D. B., Krämer, C., Kringel, V., Krishnan, B., Królak, A., Kuehn, G., Kumar, P., Kumar, R., Kumar, S., Kuo, L., Kutynia, A., Kwang, S., Lackey, B. D., Lai, K. H., Landry, M., Lang, R. N., Lange, J., Lantz, B., Lanza, R. K., Larson, S. L., Lartaux-Vollard, A., Lasky, P. D., Laxen, M., Lazzarini, A., Lazzaro, C., Leaci, P., Leavey, S., Lee, C. H., Lee, H. K., Lee, H. M., Lee, H. W., Lee, K., Lehmann, J., Lenon, A., Leonardi, M., Leroy, N., Letendre, N., Levin, Y., Li, T. G. F., Linker, S. D., Littenberg, T. B., Liu, J., Lo, R. K. L., Lockerbie, N. A., London, L. T., Lord, J. E., Lorenzini, M., Loriette, V., Lormand, M., Losurdo, G., Lough, J. D., Lousto, C. O., Lovelace, G., Lück, H., Lumaca, D., Lundgren, A. P., Lynch, R., Ma, Y., Macas, R., Macfoy, S., Machenschalk, B., MacInnis, M., Macleod, D. M., Magaña Hernandez, I., Magaña-Sandoval, F., Magaña Zertuche, L., Magee, R. M., Majorana, E., Maksimovic, I., Man, N., Mandic, V., Mangano, V., Mansell, G. L., Manske, M., Mantovani, M., Marchesoni, F., Marion, F., Márka, S., Márka, Z., Markakis, C., Markosyan, A. S., Markowitz, A., Maros, E., Marquina, A., Marsh, P., Martelli, F., Martellini, L., Martin, I. W., Martin, R. M., Martynov, D. V., Mason, K., Massera, E., Masserot, A., Massinger, T. J., Masso-Reid, M., Mastrogiovanni, S., Matas, A., Matichard, F., Matone, L., Mavalvala, N., Mazumder, N., McCarthy, R., McClelland, D. E., McCormick, S., McCuller, L., McGuire, S. C., McIntyre, G., McIver, J., McManus, D. J., McNeill, L., McRae, T., McWilliams, S. T., Meacher, D., Meadors, G. D., Mehmet, M., Meidam, J., Mejuto-Villa, E., Melatos, A., Mendell, G., Mercer, R. A., Merilh, E. L., Merzougui, M., Meshkov, S., Messenger, C., Messick, C., Metzdorff, R., Meyers, P. M., Miao, H., Michel, C., Middleton, H., Mikhailov, E. E., Milano, L., Miller, A. L., Miller, B. B., Miller, J., Millhouse, M., Milovich-Goff, M. C., Minazzoli, O., Minenkov, Y., Ming, J., Mishra, C., Mitra, S., Mitrofanov, V. P., Mitselmakher, G., Mittleman, R., Moffa, D., Moggi, A., Mogushi, K., Mohan, M., Mohapatra, S. R. P., Montani, M., Moore, C. J., Moraru, D., Moreno, G., Morriss, S. R., Mours, B., Mow-Lowry, C. M., Mueller, G., Muir, A. W., Mukherjee, A., Mukherjee, D., Mukherjee, S., Mukund, N., Mullavey, A., Munch, J., Muñiz, E. A., Muratore, M., Murray, P. G., Napier, K., Nardecchia, I., Naticchioni, L., Nayak, R. K., Neilson, J., Nelemans, G., Nelson, T. J. N., Nery, M., Neunzert, A., Nevin, L., Newport, J. M., Newton, G., Ng, K. K. Y., Nguyen, P., Nguyen, T. T., Nichols, D., Nielsen, A. B., Nissanke, S., Nitz, A., Noack, A., Nocera, F., Nolting, D., North, C., Nuttall, L. K., Oberling, J., O'Dea, G. D., Ogin, G. H., Oh, J. J., Oh, S. H., Ohme, F., Okada, M. A., Oliver, M., Oppermann, P., Oram, R. J., O'Reilly, B., Ormiston, R., Ortega, L. F., O'Shaughnessy, R., Ossokine, S., Ottaway, D. J., Overmier, H., Owen, B. J., Pace, A. E., Page, J., Page, M. A., Pai, A., Pai, S. A., Palamos, J. R., Palashov, O., Palomba, C., Pal-Singh, A., Pan, H., Pan, H.-W., Pang, B., Pang, P. T. H., Pankow, C., Pannarale, F., Pant, B. C., Paoletti, F., Paoli, A., Papa, M. A., Parida, A., Parker, W., Pascucci, D., Pasqualetti, A., Passaquieti, R., Passuello, D., Patil, M., Patricelli, B., Pearlstone, B. L., Pedraza, M., Pedurand, R., Pekowsky, L., Pele, A., Penn, S., Perez, C. J., Perreca, A., Perri, L. M., Pfeiffer, H. P., Phelps, M., Piccinni, O. J., Pichot, M., Piergiovanni, F., Pierro, V., Pillant, G., Pinard, L., Pinto, I. M., Pirello, M., Pitkin, M., Poe, M., Poggiani, R., Popolizio, P., Porter, E. K., Post, A., Powell, J., Prasad, J., Pratt, J. W. W., Pratten, G., Predoi, V., Prestegard, T., Price, L. R., Prijatelj, M., Principe, M., Privitera, S., Prodi, G. A., Prokhorov, L. G., Puncken, O., Punturo, M., Puppo, P., Pürrer, M., Qi, H., Quetschke, V., Quintero, E. A., Quitzow-James, R., Raab, F. J., Rabeling, D. S., Radkins, H., Raffai, P., Raja, S., Rajan, C., Rajbhandari, B., Rakhmanov, M., Ramirez, K. E., Ramos-Buades, A., Rapagnani, P., Raymond, V., Razzano, M., Read, J., Regimbau, T., Rei, L., Reid, S., Reitze, D. H., Ren, W., Reyes, S. D., Ricci, F., Ricker, P. M., Rieger, S., Riles, K., Rizzo, M., Robertson, N. A., Robie, R., Robinet, F., Rocchi, A., Rolland, L., Rollins, J. G., Roma, V. J., Romano, R., Romel, C. L., Romie, J. H., Rosińska, D., Ross, M. P., Rowan, S., Rüdiger, A., Ruggi, P., Rutins, G., Ryan, K., Sachdev, S., Sadecki, T., Sadeghian, L., Sakellariadou, M., Salconi, L., Saleem, M., Salemi, F., Samajdar, A., Sammut, L., Sampson, L. M., Sanchez, E. J., Sanchez, L. E., Sanchis-Gual, N., Sandberg, V., Sanders, J. R., Sassolas, B., Sathyaprakash, B. S., Saulson, P. R., Sauter, O., Savage, R. L., Sawadsky, A., Schale, P., Scheel, M., Scheuer, J., Schmidt, J., Schmidt, P., Schnabel, R., Schofield, R. M. S., Schönbeck, A., Schreiber, E., Schuette, D., Schulte, B. W., Schutz, B. F., Schwalbe, S. G., Scott, J., Scott, S. M., Seidel, E., Sellers, D., Sengupta, A. S., Sentenac, D., Sequino, V., Sergeev, A., Shaddock, D. A., Shaffer, T. J., Shah, A. A., Shahriar, M. S., Shaner, M. B., Shao, L., Shapiro, B., Shawhan, P., Sheperd, A., Shoemaker, D. H., Shoemaker, D. M., Siellez, K., Siemens, X., Sieniawska, M., Sigg, D., Silva, A. D., Singer, L. P., Singh, A., Singhal, A., Sintes, A. M., Slagmolen, B. J. J., Smith, B., Smith, J. R., Smith, R. J. E., Somala, S., Son, E. J., Sonnenberg, J. A., Sorazu, B., Sorrentino, F., Souradeep, T., Spencer, A. P., Srivastava, A. K., Staats, K., Staley, A., Steinke, M., Steinlechner, J., Steinlechner, S., Steinmeyer, D., Stevenson, S. P., Stone, R., Stops, D. J., Strain, K. A., Stratta, G., Strigin, S. E., Strunk, A., Sturani, R., Stuver, A. L., Summerscales, T. Z., Sun, L., Sunil, S., Suresh, J., Sutton, P. J., Swinkels, B. L., Szczepańczyk, M. J., Tacca, M., Tait, S. C., Talbot, C., Talukder, D., Tanner, D. B., Tápai, M., Taracchini, A., Tasson, J. D., Taylor, J. A., Taylor, R., Tewari, S. V., Theeg, T., Thies, F., Thomas, E. G., Thomas, M., Thomas, P., Thorne, K. A., Thorne, K. S., Thrane, E., Tiwari, S., Tiwari, V., Tokmakov, K. V., Toland, K., Tonelli, M., Tornasi, Z., Torres-Forné, A., Torrie, C. I., Töyrä, D., Travasso, F., Traylor, G., Trinastic, J., Tringali, M. C., Trozzo, L., Tsang, K. W., Tse, M., Tso, R., Tsukada, L., Tsuna, D., Tuyenbayev, D., Ueno, K., Ugolini, D., Unnikrishnan, C. S., Urban, A. L., Usman, S. A., Vahlbruch, H., Vajente, G., Valdes, G., van Bakel, N., van Beuzekom, M., van den Brand, J. F. J., Van Den Broeck, C., Vander-Hyde, D. C., van der Schaaf, L., van Heijningen, J. V., van Veggel, A. A., Vardaro, M., Varma, V., Vass, S., Vasúth, M., Vecchio, A., Vedovato, G., Veitch, J., Veitch, P. J., Venkateswara, K., Venugopalan, G., Verkindt, D., Vetrano, F., Viceré, A., Viets, A. D., Vinciguerra, S., Vine, D. J., Vinet, J.-Y., Vitale, S., Vo, T., Vocca, H., Vorvick, C., Vyatchanin, S. P., Wade, A. R., Wade, L. E., Wade, M., Walet, R., Walker, M., Wallace, L., Walsh, S., Wang, G., Wang, H., Wang, J. Z., Wang, W. H., Wang, Y. F., Ward, R. L., Warner, J., Was, M., Watchi, J., Weaver, B., Wei, L.-W., Weinert, M., Weinstein, A. J., Weiss, R., Wen, L., Wessel, E. K., Wessels, P., Westerweck, J., Westphal, T., Wette, K., Whelan, J. T., Whitcomb, S. E., Whiting, B. F., Whittle, C., Wilken, D., Williams, D., Williams, R. D., Williamson, A. R., Willis, J. L., Willke, B., Wimmer, M. H., Winkler, W., Wipf, C. C., Wittel, H., Woan, G., Woehler, J., Wofford, J., Wong, K. W. K., Worden, J., Wright, J. L., Wu, D. S., Wysocki, D. M., Xiao, S., Yamamoto, H., Yancey, C. C., Yang, L., Yap, M. J., Yazback, M., Yu, H., Yu, H., Yvert, M., Zadrożny, A., Zanolin, M., Zelenova, T., Zendri, J.-P., Zevin, M., Zhang, L., Zhang, M., Zhang, T., Zhang, Y.-H., Zhao, C., Zhou, M., Zhou, Z., Zhu, S. J., Zhu, X. J., Zimmerman, A. B., Zucker, M. E., Zweizig, J., LIGO Scientific Collaboration, Virgo Collaboration, Wilson-Hodge, C. A., Bissaldi, E., Blackburn, L., Briggs, M. S., Burns, E., Cleveland, W. H., Connaughton, V., Gibby, M. H., Giles, M. M., Goldstein, A., Hamburg, R., Jenke, P., Hui, C. M., Kippen, R. M., Kocevski, D., McBreen, S., Meegan, C. A., Paciesas, W. S., Poolakkil, S., Preece, R. D., Racusin, J., Roberts, O. J., Stanbro, M., Veres, P., von Kienlin, A., GBM, F., Savchenko, V., Ferrigno, C., Kuulkers, E., Bazzano, A., Bozzo, E., Brandt, S., Chenevez, J., Courvoisier, T. J.-L., Diehl, R., Domingo, A., Hanlon, L., Jourdain, E., Laurent, P., Lebrun, F., Lutovinov, A., Martin-Carrillo, A., Mereghetti, S., Natalucci, L., Rodi, J., Roques, J.-P., Sunyaev, R., Ubertini, P., INTEGRAL, Aartsen, M. G., Ackermann, M., Adams, J., Aguilar, J. A., Ahlers, M., Ahrens, M., Samarai, I. A., Altmann, D., Andeen, K., Anderson, T., Ansseau, I., Anton, G., Argüelles, C., Auffenberg, J., Axani, S., Bagherpour, H., Bai, X., Barron, J. P., Barwick, S. W., Baum, V., Bay, R., Beatty, J. J., Becker Tjus, J., Bernardini, E., Besson, D. Z., Binder, G., Bindig, D., Blaufuss, E., Blot, S., Bohm, C., Börner, M., Bos, F., Bose, D., Böser, S., Botner, O., Bourbeau, E., Bourbeau, J., Bradascio, F., Braun, J., Brayeur, L., Brenzke, M., Bretz, H.-P., Bron, S., Brostean-Kaiser, J., Burgman, A., Carver, T., Casey, J., Casier, M., Cheung, E., Chirkin, D., Christov, A., Clark, K., Classen, L., Coenders, S., Collin, G. H., Conrad, J. M., Cowen, D. F., Cross, R., Day, M., de André, J. P. A. M., De Clercq, C., DeLaunay, J. J., Dembinski, H., De Ridder, S., Desiati, P., de Vries, K. D., de Wasseige, G., de With, M., DeYoung, T., Díaz-Vélez, J. C., di Lorenzo, V., Dujmovic, H., Dumm, J. P., Dunkman, M., Dvorak, E., Eberhardt, B., Ehrhardt, T., Eichmann, B., Eller, P., Evenson, P. A., Fahey, S., Fazely, A. R., Felde, J., Filimonov, K., Finley, C., Flis, S., Franckowiak, A., Friedman, E., Fuchs, T., Gaisser, T. K., Gallagher, J., Gerhardt, L., Ghorbani, K., Giang, W., Glauch, T., Glüsenkamp, T., Goldschmidt, A., Gonzalez, J. G., Grant, D., Griffith, Z., Haack, C., Hallgren, A., Halzen, F., Hanson, K., Hebecker, D., Heereman, D., Helbing, K., Hellauer, R., Hickford, S., Hignight, J., Hill, G. C., Hoffman, K. D., Hoffmann, R., Hokanson-Fasig, B., Hoshina, K., Huang, F., Huber, M., Hultqvist, K., Hünnefeld, M., In, S., Ishihara, A., Jacobi, E., Japaridze, G. S., Jeong, M., Jero, K., Jones, B. J. P., Kalaczynski, P., Kang, W., Kappes, A., Karg, T., Karle, A., Kauer, M., Keivani, A., Kelley, J. L., Kheirandish, A., Kim, J., Kim, M., Kintscher, T., Kiryluk, J., Kittler, T., Klein, S. R., Kohnen, G., Koirala, R., Kolanoski, H., Köpke, L., Kopper, C., Kopper, S., Koschinsky, J. P., Koskinen, D. J., Kowalski, M., Krings, K., Kroll, M., Krückl, G., Kunnen, J., Kunwar, S., Kurahashi, N., Kuwabara, T., Kyriacou, A., Labare, M., Lanfranchi, J. L., Larson, M. J., Lauber, F., Lesiak-Bzdak, M., Leuermann, M., Liu, Q. R., Lu, L., Lünemann, J., Luszczak, W., Madsen, J., Maggi, G., Mahn, K. B. M., Mancina, S., Maruyama, R., Mase, K., Maunu, R., McNally, F., Meagher, K., Medici, M., Meier, M., Menne, T., Merino, G., Meures, T., Miarecki, S., Micallef, J., Momenté, G., Montaruli, T., Moore, R. W., Moulai, M., Nahnhauer, R., Nakarmi, P., Naumann, U., Neer, G., Niederhausen, H., Nowicki, S. C., Nygren, D. R., Obertacke Pollmann, A., Olivas, A., O'Murchadha, A., Palczewski, T., Pandya, H., Pankova, D. V., Peiffer, P., Pepper, J. A., Pérez de los Heros, C., Pieloth, D., Pinat, E., Price, P. B., Przybylski, G. T., Raab, C., Rädel, L., Rameez, M., Rawlins, K., Rea, I. C., Reimann, R., Relethford, B., Relich, M., Resconi, E., Rhode, W., Richman, M., Robertson, S., Rongen, M., Rott, C., Ruhe, T., Ryckbosch, D., Rysewyk, D., Sälzer, T., Sanchez Herrera, S. E., Sandrock, A., Sandroos, J., Santander, M., Sarkar, S., Sarkar, S., Satalecka, K., Schlunder, P., Schmidt, T., Schneider, A., Schoenen, S., Schöneberg, S., Schumacher, L., Seckel, D., Seunarine, S., Soedingrekso, J., Soldin, D., Song, M., Spiczak, G. M., Spiering, C., Stachurska, J., Stamatikos, M., Stanev, T., Stasik, A., Stettner, J., Steuer, A., Stezelberger, T., Stokstad, R. G., Stössl, A., Strotjohann, N. L., Stuttard, T., Sullivan, G. W., Sutherland, M., Taboada, I., Tatar, J., Tenholt, F., Ter-Antonyan, S., Terliuk, A., Tešić, G., Tilav, S., Toale, P. A., Tobin, M. N., Toscano, S., Tosi, D., Tselengidou, M., Tung, C. F., Turcati, A., Turley, C. F., Ty, B., Unger, E., Usner, M., Vandenbroucke, J., Van Driessche, W., van Eijndhoven, N., Vanheule, S., van Santen, J., Vehring, M., Vogel, E., Vraeghe, M., Walck, C., Wallace, A., Wallraff, M., Wandler, F. D., Wandkowsky, N., Waza, A., Weaver, C., Weiss, M. J., Wendt, C., Werthebach, J., Whelan, B. J., Wiebe, K., Wiebusch, C. H., Wille, L., Williams, D. R., Wills, L., Wolf, M., Wood, T. R., Woolsey, E., Woschnagg, K., Xu, D. L., Xu, X. W., Xu, Y., Yanez, J. P., Yodh, G., Yoshida, S., Yuan, T., Zoll, M., IceCube Collaboration, Balasubramanian, A., Mate, S., Bhalerao, V., Bhattacharya, D., Vibhute, A., Dewangan, G. C., Rao, A. R., Vadawale, S. V., AstroSat Cadmium Zinc Telluride Imager Team, Svinkin, D. S., Hurley, K., Aptekar, R. L., Frederiks, D. D., Golenetskii, S. V., Kozlova, A. V., Lysenko, A. L., Oleynik, P. P., Tsvetkova, A. E., Ulanov, M. V., Cline, T., IPN Collaboration, Li, T. P., Xiong, S. L., Zhang, S. N., Lu, F. J., Song, L. M., Cao, X. L., Chang, Z., Chen, G., Chen, L., Chen, T. X., Chen, Y., Chen, Y. B., Chen, Y. P., Cui, W., Cui, W. W., Deng, J. K., Dong, Y. W., Du, Y. Y., Fu, M. X., Gao, G. H., Gao, H., Gao, M., Ge, M. Y., Gu, Y. D., Guan, J., Guo, C. C., Han, D. W., Hu, W., Huang, Y., Huo, J., Jia, S. M., Jiang, L. H., Jiang, W. C., Jin, J., Jin, Y. J., Li, B., Li, C. K., Li, G., Li, M. S., Li, W., Li, X., Li, X. B., Li, X. F., Li, Y. G., Li, Z. J., Li, Z. W., Liang, X. H., Liao, J. Y., Liu, C. Z., Liu, G. Q., Liu, H. W., Liu, S. Z., Liu, X. J., Liu, Y., Liu, Y. N., Lu, B., Lu, X. F., Luo, T., Ma, X., Meng, B., Nang, Y., Nie, J. Y., Ou, G., Qu, J. L., Sai, N., Sun, L., Tan, Y., Tao, L., Tao, W. H., Tuo, Y. L., Wang, G. F., Wang, H. Y., Wang, J., Wang, W. S., Wang, Y. S., Wen, X. Y., Wu, B. B., Wu, M., Xiao, G. C., Xu, H., Xu, Y. P., Yan, L. L., Yang, J. W., Yang, S., Yang, Y. J., Zhang, A. M., Zhang, C. L., Zhang, C. M., Zhang, F., Zhang, H. M., Zhang, J., Zhang, Q., Zhang, S., Zhang, T., Zhang, W., Zhang, W. C., Zhang, W. Z., Zhang, Y., Zhang, Y., Zhang, Y. F., Zhang, Y. J., Zhang, Z., Zhang, Z. L., Zhao, H. S., Zhao, J. L., Zhao, X. F., Zheng, S. J., Zhu, Y., Zhu, Y. X., Zou, C. L., Insight-HXMT Collaboration, Albert, A., André, M., Anghinolfi, M., Ardid, M., Aubert, J.-J., Aublin, J., Avgitas, T., Baret, B., Barrios-Martí, J., Basa, S., Belhorma, B., Bertin, V., Biagi, S., Bormuth, R., Bourret, S., Bouwhuis, M. C., Brânzaș, H., Bruijn, R., Brunner, J., Busto, J., Capone, A., Caramete, L., Carr, J., Celli, S., Cherkaoui El Moursli, R., Chiarusi, T., Circella, M., Coelho, J. A. B., Coleiro, A., Coniglione, R., Costantini, H., Coyle, P., Creusot, A., Díaz, A. F., Deschamps, A., De Bonis, G., Distefano, C., Di Palma, I., Domi, A., Donzaud, C., Dornic, D., Drouhin, D., Eberl, T., El Bojaddaini, I., El Khayati, N., Elsässer, D., Enzenhöfer, A., Ettahiri, A., Fassi, F., Felis, I., Fusco, L. A., Gay, P., Giordano, V., Glotin, H., Grégoire, T., Ruiz, R. G., Graf, K., Hallmann, S., van Haren, H., Heijboer, A. J., Hello, Y., Hernández-Rey, J. J., Hössl, J., Hofestädt, J., Hugon, C., Illuminati, G., James, C. W., de Jong, M., Jongen, M., Kadler, M., Kalekin, O., Katz, U., Kiessling, D., Kouchner, A., Kreter, M., Kreykenbohm, I., Kulikovskiy, V., Lachaud, C., Lahmann, R., Lefèvre, D., Leonora, E., Lotze, M., Loucatos, S., Marcelin, M., Margiotta, A., Marinelli, A., Martínez-Mora, J. A., Mele, R., Melis, K., Michael, T., Migliozzi, P., Moussa, A., Navas, S., Nezri, E., Organokov, M., Păvălaș, G. E., Pellegrino, C., Perrina, C., Piattelli, P., Popa, V., Pradier, T., Quinn, L., Racca, C., Riccobene, G., Sánchez-Losa, A., Saldaña, M., Salvadori, I., Samtleben, D. F. E., Sanguineti, M., Sapienza, P., Sieger, C., Spurio, M., Stolarczyk, T., Taiuti, M., Tayalati, Y., Trovato, A., Turpin, D., Tönnis, C., Vallage, B., Van Elewyck, V., Versari, F., Vivolo, D., Vizzoca, A., Wilms, J., Zornoza, J. D., Zúñiga, J., ANTARES Collaboration, Beardmore, A. P., Breeveld, A. A., Burrows, D. N., Cenko, S. B., Cusumano, G., D'Aì, A., de Pasquale, M., Emery, S. W. K., Evans, P. A., Giommi, P., Gronwall, C., Kennea, J. A., Krimm, H. A., Kuin, N. P. M., Lien, A., Marshall, F. E., Melandri, A., Nousek, J. A., Oates, S. R., Osborne, J. P., Pagani, C., Page, K. L., Palmer, D. M., Perri, M., Siegel, M. H., Sbarufatti, B., Tagliaferri, G., Tohuvavohu, A., Swift Collaboration, Tavani, M., Verrecchia, F., Bulgarelli, A., Evangelista, Y., Pacciani, L., Feroci, M., Pittori, C., Giuliani, A., Del Monte, E., Donnarumma, I., Argan, A., Trois, A., Ursi, A., Cardillo, M., Piano, G., Longo, F., Lucarelli, F., Munar-Adrover, P., Fuschino, F., Labanti, C., Marisaldi, M., Minervini, G., Fioretti, V., Parmiggiani, N., Gianotti, F., Trifoglio, M., Di Persio, G., Antonelli, L. A., Barbiellini, G., Caraveo, P., Cattaneo, P. W., Costa, E., Colafrancesco, S., D'Amico, F., Ferrari, A., Morselli, A., Paoletti, F., Picozza, P., Pilia, M., Rappoldi, A., Soffitta, P., Vercellone, S., AGILE Team, Foley, R. J., Coulter, D. A., Kilpatrick, C. D., Drout, M. R., Piro, A. L., Shappee, B. J., Siebert, M. R., Simon, J. D., Ulloa, N., Kasen, D., Madore, B. F., Murguia-Berthier, A., Pan, Y.-C., Prochaska, J. X., Ramirez-Ruiz, E., Rest, A., Rojas-Bravo, C., 1M2H Team, Berger, E., Soares-Santos, M., Annis, J., Alexander, K. D., Allam, S., Balbinot, E., Blanchard, P., Brout, D., Butler, R. E., Chornock, R., Cook, E. R., Cowperthwaite, P., Diehl, H. T., Drlica-Wagner, A., Drout, M. R., Durret, F., Eftekhari, T., Finley, D. A., Fong, W., Frieman, J. A., Fryer, C. L., García-Bellido, J., Gruendl, R. A., Hartley, W., Herner, K., Kessler, R., Lin, H., Lopes, P. A. A., Lourenço, A. C. C., Margutti, R., Marshall, J. L., Matheson, T., Medina, G. E., Metzger, B. D., Muñoz, R. R., Muir, J., Nicholl, M., Nugent, P., Palmese, A., Paz-Chinchón, F., Quataert, E., Sako, M., Sauseda, M., Schlegel, D. J., Scolnic, D., Secco, L. F., Smith, N., Sobreira, F., Villar, V. A., Vivas, A. K., Wester, W., Williams, P. K. G., Yanny, B., Zenteno, A., Zhang, Y., Abbott, T. M. C., Banerji, M., Bechtol, K., Benoit-Lévy, A., Bertin, E., Brooks, D., Buckley-Geer, E., Burke, D. L., Capozzi, D., Carnero Rosell, A., Carrasco Kind, M., Castander, F. J., Crocce, M., Cunha, C. E., D'Andrea, C. B., da Costa, L. N., Davis, C., DePoy, D. L., Desai, S., Dietrich, J. P., Eifler, T. F., Fernandez, E., Flaugher, B., Fosalba, P., Gaztanaga, E., Gerdes, D. W., Giannantonio, T., Goldstein, D. A., Gruen, D., Gschwend, J., Gutierrez, G., Honscheid, K., James, D. J., Jeltema, T., Johnson, M. W. G., Johnson, M. D., Kent, S., Krause, E., Kron, R., Kuehn, K., Lahav, O., Lima, M., Maia, M. A. G., March, M., Martini, P., McMahon, R. G., Menanteau, F., Miller, C. J., Miquel, R., Mohr, J. J., Nichol, R. C., Ogando, R. L. C., Plazas, A. A., Romer, A. K., Roodman, A., Rykoff, E. S., Sanchez, E., Scarpine, V., Schindler, R., Schubnell, M., Sevilla-Noarbe, I., Sheldon, E., Smith, M., Smith, R. C., Stebbins, A., Suchyta, E., Swanson, M. E. C., Tarle, G., Thomas, R. C., Troxel, M. A., Tucker, D. L., Vikram, V., Walker, A. R., Wechsler, R. H., Weller, J., Carlin, J. L., Gill, M. S. S., Li, T. S., Marriner, J., Neilsen, E., Dark Energy Camera GW-EM Collaboration, DES Collaboration, Haislip, J. B., Kouprianov, V. V., Reichart, D. E., Sand, D. J., Tartaglia, L., Valenti, S., Yang, S., DLT40 Collaboration, Benetti, S., Brocato, E., Campana, S., Cappellaro, E., Covino, S., D'Avanzo, P., D'Elia, V., Getman, F., Ghirlanda, G., Ghisellini, G., Limatola, L., Nicastro, L., Palazzi, E., Pian, E., Piranomonte, S., Possenti, A., Rossi, A., Salafia, O. S., Tomasella, L., Amati, L., Antonelli, L. A., Bernardini, M. G., Bufano, F., Capaccioli, M., Casella, P., Dadina, M., De Cesare, G., Di Paola, A., Giuffrida, G., Giunta, A., Israel, G. L., Lisi, M., Maiorano, E., Mapelli, M., Masetti, N., Pescalli, A., Pulone, L., Salvaterra, R., Schipani, P., Spera, M., Stamerra, A., Stella, L., Testa, V., Turatto, M., Vergani, D., Aresu, G., Bachetti, M., Buffa, F., Burgay, M., Buttu, M., Caria, T., Carretti, E., Casasola, V., Castangia, P., Carboni, G., Casu, S., Concu, R., Corongiu, A., Deiana, G. L., Egron, E., Fara, A., Gaudiomonte, F., Gusai, V., Ladu, A., Loru, S., Leurini, S., Marongiu, L., Melis, A., Melis, G., Migoni, C., Milia, S., Navarrini, A., Orlati, A., Ortu, P., Palmas, S., Pellizzoni, A., Perrodin, D., Pisanu, T., Poppi, S., Righini, S., Saba, A., Serra, G., Serrau, M., Stagni, M., Surcis, G., Vacca, V., Vargiu, G. P., Hunt, L. K., Jin, Z. P., Klose, S., Kouveliotou, C., Mazzali, P. A., Møller, P., Nava, L., Piran, T., Selsing, J., Vergani, S. D., Wiersema, K., Toma, K., Higgins, A. B., Mundell, C. G., di Serego Alighieri, S., Gótz, D., Gao, W., Gomboc, A., Kaper, L., Kobayashi, S., Kopac, D., Mao, J., Starling, R. L. C., Steele, I., van der Horst, A. J., GRAWITA: GRAvitational Wave Inaf TeAm, Acero, F., Atwood, W. B., Baldini, L., Barbiellini, G., Bastieri, D., Berenji, B., Bellazzini, R., Bissaldi, E., Blandford, R. D., Bloom, E. D., Bonino, R., Bottacini, E., Bregeon, J., Buehler, R., Buson, S., Cameron, R. A., Caputo, R., Caraveo, P. A., Cavazzuti, E., Chekhtman, A., Cheung, C. C., Chiang, J., Ciprini, S., Cohen-Tanugi, J., Cominsky, L. R., Costantin, D., Cuoco, A., D'Ammando, F., de Palma, F., Digel, S. W., Di Lalla, N., Di Mauro, M., Di Venere, L., Dubois, R., Fegan, S. J., Focke, W. B., Franckowiak, A., Fukazawa, Y., Funk, S., Fusco, P., Gargano, F., Gasparrini, D., Giglietto, N., Giordano, F., Giroletti, M., Glanzman, T., Green, D., Grondin, M.-H., Guillemot, L., Guiriec, S., Harding, A. K., Horan, D., Jóhannesson, G., Kamae, T., Kensei, S., Kuss, M., La Mura, G., Latronico, L., Lemoine-Goumard, M., Longo, F., Loparco, F., Lovellette, M. N., Lubrano, P., Magill, J. D., Maldera, S., Manfreda, A., Mazziotta, M. N., McEnery, J. E., Meyer, M., Michelson, P. F., Mirabal, N., Monzani, M. E., Moretti, E., Morselli, A., Moskalenko, I. V., Negro, M., Nuss, E., Ojha, R., Omodei, N., Orienti, M., Orlando, E., Palatiello, M., Paliya, V. S., Paneque, D., Pesce-Rollins, M., Piron, F., Porter, T. A., Principe, G., Rainò, S., Rando, R., Razzano, M., Razzaque, S., Reimer, A., Reimer, O., Reposeur, T., Rochester, L. S., Saz Parkinson, P. M., Sgrò, C., Siskind, E. J., Spada, F., Spandre, G., Suson, D. J., Takahashi, M., Tanaka, Y., Thayer, J. G., Thayer, J. B., Thompson, D. J., Tibaldo, L., Torres, D. F., Torresi, E., Troja, E., Venters, T. M., Vianello, G., Zaharijas, G., Fermi Large Area Telescope Collaboration, Allison, J. R., Bannister, K. W., Dobie, D., Kaplan, D. L., Lenc, E., Lynch, C., Murphy, T., Sadler, E. M., Australia Telescope Compact Array, A., Hotan, A., James, C. W., Oslowski, S., Raja, W., Shannon, R. M., Whiting, M., Australian SKA Pathfinder, A., Arcavi, I., Howell, D. A., McCully, C., Hosseinzadeh, G., Hiramatsu, D., Poznanski, D., Barnes, J., Zaltzman, M., Vasylyev, S., Maoz, D., Las Cumbres Observatory Group, Cooke, J., Bailes, M., Wolf, C., Deller, A. T., Lidman, C., Wang, L., Gendre, B., Andreoni, I., Ackley, K., Pritchard, T. A., Bessell, M. S., Chang, S.-W., Möller, A., Onken, C. A., Scalzo, R. A., Ridden-Harper, R., Sharp, R. G., Tucker, B. E., Farrell, T. J., Elmer, E., Johnston, S., Venkatraman Krishnan, V., Keane, E. F., Green, J. A., Jameson, A., Hu, L., Ma, B., Sun, T., Wu, X., Wang, X., Shang, Z., Hu, Y., Ashley, M. C. B., Yuan, X., Li, X., Tao, C., Zhu, Z., Zhang, H., Suntzeff, N. B., Zhou, J., Yang, J., Orange, B., Morris, D., Cucchiara, A., Giblin, T., Klotz, A., Staff, J., Thierry, P., Schmidt, B. P., OzGrav, (Deeper, D., Wider, program, F., AST3, CAASTRO Collaborations, Tanvir, N. R., Levan, A. J., Cano, Z., de Ugarte-Postigo, A., González-Fernández, C., Greiner, J., Hjorth, J., Irwin, M., Krühler, T., Mandel, I., Milvang-Jensen, B., O'Brien, P., Rol, E., Rosetti, S., Rosswog, S., Rowlinson, A., Steeghs, D. T. H., Thöne, C. C., Ulaczyk, K., Watson, D., Bruun, S. H., Cutter, R., Figuera Jaimes, R., Fujii, Y. I., Fruchter, A. S., Gompertz, B., Jakobsson, P., Hodosan, G., Jèrgensen, U. G., Kangas, T., Kann, D. A., Rabus, M., Schrøder, S. L., Stanway, E. R., Wijers, R. A. M. J., VINROUGE Collaboration, Lipunov, V. M., Gorbovskoy, E. S., Kornilov, V. G., Tyurina, N. V., Balanutsa, P. V., Kuznetsov, A. S., Vlasenko, D. M., Podesta, R. C., Lopez, C., Podesta, F., Levato, H. O., Saffe, C., Mallamaci, C. C., Budnev, N. M., Gress, O. A., Kuvshinov, D. A., Gorbunov, I. A., Vladimirov, V. V., Zimnukhov, D. S., Gabovich, A. V., Yurkov, V. V., Sergienko, Y. P., Rebolo, R., Serra-Ricart, M., Tlatov, A. G., Ishmuhametova, Y. V., MASTER Collaboration, Abe, F., Aoki, K., Aoki, W., Asakura, Y., Baar, S., Barway, S., Bond, I. A., Doi, M., Finet, F., Fujiyoshi, T., Furusawa, H., Honda, S., Itoh, R., Kanda, N., Kawabata, K. S., Kawabata, M., Kim, J. H., Koshida, S., Kuroda, D., Lee, C.-H., Liu, W., Matsubayashi, K., Miyazaki, S., Morihana, K., Morokuma, T., Motohara, K., Murata, K. L., Nagai, H., Nagashima, H., Nagayama, T., Nakaoka, T., Nakata, F., Ohsawa, R., Ohshima, T., Ohta, K., Okita, H., Saito, T., Saito, Y., Sako, S., Sekiguchi, Y., Sumi, T., Tajitsu, A., Takahashi, J., Takayama, M., Tamura, Y., Tanaka, I., Tanaka, M., Terai, T., Tominaga, N., Tristram, P. J., Uemura, M., Utsumi, Y., Yamaguchi, M. S., Yasuda, N., Yoshida, M., Zenko, T., J-GEM, Adams, S. M., Anupama, G. C., Bally, J., Barway, S., Bellm, E., Blagorodnova, N., Cannella, C., Chandra, P., Chatterjee, D., Clarke, T. E., Cobb, B. E., Cook, D. O., Copperwheat, C., De, K., Emery, S. W. K., Feindt, U., Foster, K., Fox, O. D., Frail, D. A., Fremling, C., Frohmaier, C., Garcia, J. A., Ghosh, S., Giacintucci, S., Goobar, A., Gottlieb, O., Grefenstette, B. W., Hallinan, G., Harrison, F., Heida, M., Helou, G., Ho, A. Y. Q., Horesh, A., Hotokezaka, K., Ip, W.-H., Itoh, R., Jacobs, B., Jencson, J. E., Kasen, D., Kasliwal, M. M., Kassim, N. E., Kim, H., Kiran, B. S., Kuin, N. P. M., Kulkarni, S. R., Kupfer, T., Lau, R. M., Madsen, K., Mazzali, P. A., Miller, A. A., Miyasaka, H., Mooley, K., Myers, S. T., Nakar, E., Ngeow, C.-C., Nugent, P., Ofek, E. O., Palliyaguru, N., Pavana, M., Perley, D. A., Peters, W. M., Pike, S., Piran, T., Qi, H., Quimby, R. M., Rana, J., Rosswog, S., Rusu, F., Sadler, E. M., Van Sistine, A., Sollerman, J., Xu, Y., Yan, L., Yatsu, Y., Yu, P.-C., Zhang, C., Zhao, W., GROWTH, JAGWAR, Caltech-NRAO, TTU-NRAO, NuSTAR Collaborations, Chambers, K. C., Huber, M. E., Schultz, A. S. B., Bulger, J., Flewelling, H., Magnier, E. A., Lowe, T. B., Wainscoat, R. J., Waters, C., Willman, M., Pan-STARRS, Ebisawa, K., Hanyu, C., Harita, S., Hashimoto, T., Hidaka, K., Hori, T., Ishikawa, M., Isobe, N., Iwakiri, W., Kawai, H., Kawai, N., Kawamuro, T., Kawase, T., Kitaoka, Y., Makishima, K., Matsuoka, M., Mihara, T., Morita, T., Morita, K., Nakahira, S., Nakajima, M., Nakamura, Y., Negoro, H., Oda, S., Sakamaki, A., Sasaki, R., Serino, M., Shidatsu, M., Shimomukai, R., Sugawara, Y., Sugita, S., Sugizaki, M., Tachibana, Y., Takao, Y., Tanimoto, A., Tomida, H., Tsuboi, Y., Tsunemi, H., Ueda, Y., Ueno, S., Yamada, S., Yamaoka, K., Yamauchi, M., Yatabe, F., Yoneyama, T., Yoshii, T., MAXI Team, Coward, D. M., Crisp, H., Macpherson, D., Andreoni, I., Laugier, R., Noysena, K., Klotz, A., Gendre, B., Thierry, P., Turpin, D., Consortium, T., Im, M., Choi, C., Kim, J., Yoon, Y., Lim, G., Lee, S.-K., Lee, C.-U., Kim, S.-L., Ko, S.-W., Joe, J., Kwon, M.-K., Kim, P.-J., Lim, S.-K., Choi, J.-S., KU Collaboration, Fynbo, J. P. U., Malesani, D., Xu, D., Optical Telescope, N., Smartt, S. J., Jerkstrand, A., Kankare, E., Sim, S. A., Fraser, M., Inserra, C., Maguire, K., Leloudas, G., Magee, M., Shingles, L. J., Smith, K. W., Young, D. R., Kotak, R., Gal-Yam, A., Lyman, J. D., Homan, D. S., Agliozzo, C., Anderson, J. P., Angus, C. R., Ashall, C., Barbarino, C., Bauer, F. E., Berton, M., Botticella, M. T., Bulla, M., Cannizzaro, G., Cartier, R., Cikota, A., Clark, P., De Cia, A., Della Valle, M., Dennefeld, M., Dessart, L., Dimitriadis, G., Elias-Rosa, N., Firth, R. E., Flörs, A., Frohmaier, C., Galbany, L., González-Gaitán, S., Gromadzki, M., Gutiérrez, C. P., Hamanowicz, A., Harmanen, J., Heintz, K. E., Hernandez, M.-S., Hodgkin, S. T., Hook, I. M., Izzo, L., James, P. A., Jonker, P. G., Kerzendorf, W. E., Kostrzewa-Rutkowska, Z., Kromer, M., Kuncarayakti, H., Lawrence, A., Manulis, I., Mattila, S., McBrien, O., Müller, A., Nordin, J., O'Neill, D., Onori, F., Palmerio, J. T., Pastorello, A., Patat, F., Pignata, G., Podsiadlowski, P., Razza, A., Reynolds, T., Roy, R., Ruiter, A. J., Rybicki, K. A., Salmon, L., Pumo, M. L., Prentice, S. J., Seitenzahl, I. R., Smith, M., Sollerman, J., Sullivan, M., Szegedi, H., Taddia, F., Taubenberger, S., Terreran, G., Van Soelen, B., Vos, J., Walton, N. A., Wright, D. E., Wyrzykowski, Ł., Yaron, O., pre="(">ePESSTO, . <author ., Chen, T.-W., Krühler, T., Schady, P., Wiseman, P., Greiner, J., Rau, A., Schweyer, T., Klose, S., Nicuesa Guelbenzu, A., GROND, Palliyaguru, N. T., Tech University, T., Shara, M. M., Williams, T., Vaisanen, P., Potter, S. B., Romero Colmenero, E., Crawford, S., Buckley, D. A. H., Mao, J., SALT Group, Díaz, M. C., Macri, L. M., García Lambas, D., Mendes de Oliveira, C., Nilo Castellón, J. L., Ribeiro, T., Sánchez, B., Schoenell, W., Abramo, L. R., Akras, S., Alcaniz, J. S., Artola, R., Beroiz, M., Bonoli, S., Cabral, J., Camuccio, R., Chavushyan, V., Coelho, P., Colazo, C., Costa-Duarte, M. V., Cuevas Larenas, H., Domínguez Romero, M., Dultzin, D., Fernández, D., García, J., Girardini, C., Gonçalves, D. R., Gonçalves, T. S., Gurovich, S., Jiménez-Teja, Y., Kanaan, A., Lares, M., Lopes de Oliveira, R., López-Cruz, O., Melia, R., Molino, A., Padilla, N., Peñuela, T., Placco, V. M., Quiñones, C., Ramírez Rivera, A., Renzi, V., Riguccini, L., Ríos-López, E., Rodriguez, H., Sampedro, L., Schneiter, M., Sodré, L., Starck, M., Torres-Flores, S., Tornatore, M., Zadrożny, A., Castillo, M., TOROS: Transient Robotic Observatory of the South Collaboration, Castro-Tirado, A. J., Tello, J. C., Hu, Y.-D., Zhang, B.-B., Cunniffe, R., Castellón, A., Hiriart, D., Caballero-García, M. D., Jelínek, M., Kubánek, P., Pérez del Pulgar, C., Park, I. H., Jeong, S., Castro Cerón, J. M., Pandey, S. B., Yock, P. C., Querel, R., Fan, Y., Wang, C., BOOTES Collaboration, Beardsley, A., Brown, I. S., Crosse, B., Emrich, D., Franzen, T., Gaensler, B. M., Horsley, L., Johnston-Hollitt, M., Kenney, D., Morales, M. F., Pallot, D., Sokolowski, M., Steele, K., Tingay, S. J., Trott, C. M., Walker, M., Wayth, R., Williams, A., Wu, C., Murchison Widefield Array, M., Yoshida, A., Sakamoto, T., Kawakubo, Y., Yamaoka, K., Takahashi, I., Asaoka, Y., Ozawa, S., Torii, S., Shimizu, Y., Tamura, T., Ishizaki, W., Cherry, M. L., Ricciarini, S., Penacchioni, A. V., Marrocchesi, P. S., CALET Collaboration, Pozanenko, A. S., Volnova, A. A., Mazaeva, E. D., Minaev, P. Y., Krugov, M. A., Kusakin, A. V., Reva, I. V., Moskvitin, A. S., Rumyantsev, V. V., Inasaridze, R., Klunko, E. V., Tungalag, N., Schmalz, S. E., Burhonov, O., IKI-GW Follow-up Collaboration, Abdalla, H., Abramowski, A., Aharonian, F., Ait Benkhali, F., Angüner, E. O., Arakawa, M., Arrieta, M., Aubert, P., Backes, M., Balzer, A., Barnard, M., Becherini, Y., Becker Tjus, J., Berge, D., Bernhard, S., Bernlöhr, K., Blackwell, R., Böttcher, M., Boisson, C., Bolmont, J., Bonnefoy, S., Bordas, P., Bregeon, J., Brun, F., Brun, P., Bryan, M., Büchele, M., Bulik, T., Capasso, M., Caroff, S., Carosi, A., Casanova, S., Cerruti, M., Chakraborty, N., Chaves, R. C. G., Chen, A., Chevalier, J., Colafrancesco, S., Condon, B., Conrad, J., Davids, I. D., Decock, J., Deil, C., Devin, J., deWilt, P., Dirson, L., Djannati-Ataï, A., Donath, A., O'C. Drury, L., Dutson, K., Dyks, J., Edwards, T., Egberts, K., Emery, G., Ernenwein, J.-P., Eschbach, S., Farnier, C., Fegan, S., Fernandes, M. V., Fiasson, A., Fontaine, G., Funk, S., Füssling, M., Gabici, S., Gallant, Y. A., Garrigoux, T., Gaté, F., Giavitto, G., Giebels, B., Glawion, D., Glicenstein, J. F., Gottschall, D., Grondin, M.-H., Hahn, J., Haupt, M., Hawkes, J., Heinzelmann, G., Henri, G., Hermann, G., Hinton, J. A., Hofmann, W., Hoischen, C., Holch, T. L., Holler, M., Horns, D., Ivascenko, A., Iwasaki, H., Jacholkowska, A., Jamrozy, M., Jankowsky, D., Jankowsky, F., Jingo, M., Jouvin, L., Jung-Richardt, I., Kastendieck, M. A., Katarzyński, K., Katsuragawa, M., Kerszberg, D., Khangulyan, D., Khélifi, B., King, J., Klepser, S., Klochkov, D., Kluźniak, W., Komin, N., Kosack, K., Krakau, S., Kraus, M., Krüger, P. P., Laffon, H., Lamanna, G., Lau, J., Lees, J.-P., Lefaucheur, J., Lemière, A., Lemoine-Goumard, M., Lenain, J.-P., Leser, E., Lohse, T., Lorentz, M., Liu, R., Lypova, I., Malyshev, D., Marandon, V., Marcowith, A., Mariaud, C., Marx, R., Maurin, G., Maxted, N., Mayer, M., Meintjes, P. J., Meyer, M., Mitchell, A. M. W., Moderski, R., Mohamed, M., Mohrmann, L., Morå, K., Moulin, E., Murach, T., Nakashima, S., de Naurois, M., Ndiyavala, H., Niederwanger, F., Niemiec, J., Oakes, L., O'Brien, P., Odaka, H., Ohm, S., Ostrowski, M., Oya, I., Padovani, M., Panter, M., Parsons, R. D., Pekeur, N. W., Pelletier, G., Perennes, C., Petrucci, P.-O., Peyaud, B., Piel, Q., Pita, S., Poireau, V., Poon, H., Prokhorov, D., Prokoph, H., Pühlhofer, G., Punch, M., Quirrenbach, A., Raab, S., Rauth, R., Reimer, A., Reimer, O., Renaud, M., de los Reyes, R., Rieger, F., Rinchiuso, L., Romoli, C., Rowell, G., Rudak, B., Rulten, C. B., Sahakian, V., Saito, S., Sanchez, D. A., Santangelo, A., Sasaki, M., Schlickeiser, R., Schüssler, F., Schulz, A., Schwanke, U., Schwemmer, S., Seglar-Arroyo, M., Settimo, M., Seyffert, A. S., Shafi, N., Shilon, I., Shiningayamwe, K., Simoni, R., Sol, H., Spanier, F., Spir-Jacob, M., Stawarz, Ł., Steenkamp, R., Stegmann, C., Steppa, C., Sushch, I., Takahashi, T., Tavernet, J.-P., Tavernier, T., Taylor, A. M., Terrier, R., Tibaldo, L., Tiziani, D., Tluczykont, M., Trichard, C., Tsirou, M., Tsuji, N., Tuffs, R., Uchiyama, Y., van der Walt, D. J., van Eldik, C., van Rensburg, C., van Soelen, B., Vasileiadis, G., Veh, J., Venter, C., Viana, A., Vincent, P., Vink, J., Voisin, F., Völk, H. J., Vuillaume, T., Wadiasingh, Z., Wagner, S. J., Wagner, P., Wagner, R. M., White, R., Wierzcholska, A., Willmann, P., Wörnlein, A., Wouters, D., Yang, R., Zaborov, D., Zacharias, M., Zanin, R., Zdziarski, A. A., Zech, A., Zefi, F., Ziegler, A., Zorn, J., Żywucka, N., H. E. S. S. Collaboration, Fender, R. P., Broderick, J. W., Rowlinson, A., Wijers, R. A. M. J., Stewart, A. J., ter Veen, S., Shulevski, A., LOFAR Collaboration, Kavic, M., Simonetti, J. H., League, C., Tsai, J., Obenberger, K. S., Nathaniel, K., Taylor, G. B., Dowell, J. D., Liebling, S. L., Estes, J. A., Lippert, M., Sharma, I., Vincent, P., Farella, B., Wavelength Array, L. L., Abeysekara, A. U., Albert, A., Alfaro, R., Alvarez, C., Arceo, R., Arteaga-Velázquez, J. C., Avila Rojas, D., Ayala Solares, H. A., Barber, A. S., Becerra Gonzalez, J., Becerril, A., Belmont-Moreno, E., BenZvi, S. Y., Berley, D., Bernal, A., Braun, J., Brisbois, C., Caballero-Mora, K. S., Capistrán, T., Carramiñana, A., Casanova, S., Castillo, M., Cotti, U., Cotzomi, J., Coutiño de León, S., De León, C., De la Fuente, E., Diaz Hernandez, R., Dichiara, S., Dingus, B. L., DuVernois, M. A., Díaz-Vélez, J. C., Ellsworth, R. W., Engel, K., Enríquez-Rivera, O., Fiorino, D. W., Fleischhack, H., Fraija, N., García-González, J. A., Garfias, F., Gerhardt, M., Gonzõlez Muñoz, A., González, M. M., Goodman, J. A., Hampel-Arias, Z., Harding, J. P., Hernandez, S., Hernandez-Almada, A., Hona, B., Hüntemeyer, P., Iriarte, A., Jardin-Blicq, A., Joshi, V., Kaufmann, S., Kieda, D., Lara, A., Lauer, R. J., Lennarz, D., León Vargas, H., Linnemann, J. T., Longinotti, A. L., Raya, G. L., Luna-García, R., López-Coto, R., Malone, K., Marinelli, S. S., Martinez, O., Martinez-Castellanos, I., Martínez-Castro, J., Martínez-Huerta, H., Matthews, J. A., Miranda-Romagnoli, P., Moreno, E., Mostafá, M., Nellen, L., Newbold, M., Nisa, M. U., Noriega-Papaqui, R., Pelayo, R., Pretz, J., Pérez-Pérez, E. G., Ren, Z., Rho, C. D., Rivière, C., Rosa-González, D., Rosenberg, M., Ruiz-Velasco, E., Salazar, H., Salesa Greus, F., Sandoval, A., Schneider, M., Schoorlemmer, H., Sinnis, G., Smith, A. J., Springer, R. W., Surajbali, P., Tibolla, O., Tollefson, K., Torres, I., Ukwatta, T. N., Weisgarber, T., Westerhoff, S., Wisher, I. G., Wood, J., Yapici, T., Yodh, G. B., Younk, P. W., Zhou, H., Álvarez, J. D., HAWC Collaboration, Aab, A., Abreu, P., Aglietta, M., Albuquerque, I. F. M., Albury, J. M., Allekotte, I., Almela, A., Alvarez Castillo, J., Alvarez-Muñiz, J., Anastasi, G. A., Anchordoqui, L., Andrada, B., Andringa, S., Aramo, C., Arsene, N., Asorey, H., Assis, P., Avila, G., Badescu, A. M., Balaceanu, A., Barbato, F., Barreira Luz, R. J., Becker, K. H., Bellido, J. A., Berat, C., Bertaina, M. E., Bertou, X., Biermann, P. L., Biteau, J., Blaess, S. G., Blanco, A., Blazek, J., Bleve, C., Boháčová, M., Bonifazi, C., Borodai, N., Botti, A. M., Brack, J., Brancus, I., Bretz, T., Bridgeman, A., Briechle, F. L., Buchholz, P., Bueno, A., Buitink, S., Buscemi, M., Caballero-Mora, K. S., Caccianiga, L., Cancio, A., Canfora, F., Caruso, R., Castellina, A., Catalani, F., Cataldi, G., Cazon, L., Chavez, A. G., Chinellato, J. A., Chudoba, J., Clay, R. W., Cobos Cerutti, A. C., Colalillo, R., Coleman, A., Collica, L., Coluccia, M. R., Conceição, R., Consolati, G., Contreras, F., Cooper, M. J., Coutu, S., Covault, C. E., Cronin, J., D'Amico, S., Daniel, B., Dasso, S., Daumiller, K., Dawson, B. R., Day, J. A., de Almeida, R. M., de Jong, S. J., De Mauro, G., de Mello Neto, J. R. T., De Mitri, I., de Oliveira, J., de Souza, V., Debatin, J., Deligny, O., Díaz Castro, M. L., Diogo, F., Dobrigkeit, C., D'Olivo, J. C., Dorosti, Q., Dos Anjos, R. C., Dova, M. T., Dundovic, A., Ebr, J., Engel, R., Erdmann, M., Erfani, M., Escobar, C. O., Espadanal, J., Etchegoyen, A., Falcke, H., Farmer, J., Farrar, G., Fauth, A. C., Fazzini, N., Feldbusch, F., Fenu, F., Fick, B., Figueira, J. M., Filipčič, A., Freire, M. M., Fujii, T., Fuster, A., Gaïor, R., García, B., Gaté, F., Gemmeke, H., Gherghel-Lascu, A., Ghia, P. L., Giaccari, U., Giammarchi, M., Giller, M., Głas, D., Glaser, C., Golup, G., Gómez Berisso, M., Gómez Vitale, P. F., González, N., Gorgi, A., Gottowik, M., Grillo, A. F., Grubb, T. D., Guarino, F., Guedes, G. P., Halliday, R., Hampel, M. R., Hansen, P., Harari, D., Harrison, T. A., Harvey, V. M., Haungs, A., Hebbeker, T., Heck, D., Heimann, P., Herve, A. E., Hill, G. C., Hojvat, C., Holt, E., Homola, P., Hörandel, J. R., Horvath, P., Hrabovský, M., Huege, T., Hulsman, J., Insolia, A., Isar, P. G., Jandt, I., Johnsen, J. A., Josebachuili, M., Jurysek, J., Kääpä, A., Kampert, K. H., Keilhauer, B., Kemmerich, N., Kemp, J., Kieckhafer, R. M., Klages, H. O., Kleifges, M., Kleinfeller, J., Krause, R., Krohm, N., Kuempel, D., Kukec Mezek, G., Kunka, N., Kuotb Awad, A., Lago, B. L., LaHurd, D., Lang, R. G., Lauscher, M., Legumina, R., Leigui de Oliveira, M. A., Letessier-Selvon, A., Lhenry-Yvon, I., Link, K., Lo Presti, D., Lopes, L., López, R., López Casado, A., Lorek, R., Luce, Q., Lucero, A., Malacari, M., Mallamaci, M., Mandat, D., Mantsch, P., Mariazzi, A. G., Maris, I. C., Marsella, G., Martello, D., Martinez, H., Martínez Bravo, O., Masías Meza, J. J., Mathes, H. J., Mathys, S., Matthews, J., Matthiae, G., Mayotte, E., Mazur, P. O., Medina, C., Medina-Tanco, G., Melo, D., Menshikov, A., Merenda, K.-D., Michal, S., Micheletti, M. I., Middendorf, L., Miramonti, L., Mitrica, B., Mockler, D., Mollerach, S., Montanet, F., Morello, C., Morlino, G., Müller, A. L., Müller, G., Muller, M. A., Müller, S., Mussa, R., Naranjo, I., Nguyen, P. H., Niculescu-Oglinzanu, M., Niechciol, M., Niemietz, L., Niggemann, T., Nitz, D., Nosek, D., Novotny, V., Nožka, L., Núñez, L. A., Oikonomou, F., Olinto, A., Palatka, M., Pallotta, J., Papenbreer, P., Parente, G., Parra, A., Paul, T., Pech, M., Pedreira, F., Pȩkala, J., Peña-Rodriguez, J., Pereira, L. A. S., Perlin, M., Perrone, L., Peters, C., Petrera, S., Phuntsok, J., Pierog, T., Pimenta, M., Pirronello, V., Platino, M., Plum, M., Poh, J., Porowski, C., Prado, R. R., Privitera, P., Prouza, M., Quel, E. J., Querchfeld, S., Quinn, S., Ramos-Pollan, R., Rautenberg, J., Ravignani, D., Ridky, J., Riehn, F., Risse, M., Ristori, P., Rizi, V., Rodrigues de Carvalho, W., Rodriguez Fernandez, G., Rodriguez Rojo, J., Roncoroni, M. J., Roth, M., Roulet, E., Rovero, A. C., Ruehl, P., Saffi, S. J., Saftoiu, A., Salamida, F., Salazar, H., Saleh, A., Salina, G., Sánchez, F., Sanchez-Lucas, P., Santos, E. M., Santos, E., Sarazin, F., Sarmento, R., Sarmiento-Cano, C., Sato, R., Schauer, M., Scherini, V., Schieler, H., Schimp, M., Schmidt, D., Scholten, O., Schovánek, P., Schröder, F. G., Schröder, S., Schulz, A., Schumacher, J., Sciutto, S. J., Segreto, A., Shadkam, A., Shellard, R. C., Sigl, G., Silli, G., Šmída, R., Snow, G. R., Sommers, P., Sonntag, S., Soriano, J. F., Squartini, R., Stanca, D., Stanič, S., Stasielak, J., Stassi, P., Stolpovskiy, M., Strafella, F., Streich, A., Suarez, F., Suarez-Durán, M., Sudholz, T., Suomijärvi, T., Supanitsky, A. D., Šupík, J., Swain, J., Szadkowski, Z., Taboada, A., Taborda, O. A., Timmermans, C., Todero Peixoto, C. J., Tomankova, L., Tomé, B., Torralba Elipe, G., Travnicek, P., Trini, M., Tueros, M., Ulrich, R., Unger, M., Urban, M., Valdés Galicia, J. F., Valiño, I., Valore, L., van Aar, G., van Bodegom, P., van den Berg, A. M., van Vliet, A., Varela, E., Vargas Cárdenas, B., Vázquez, R. A., Veberič, D., Ventura, C., Vergara Quispe, I. D., Verzi, V., Vicha, J., Villaseñor, L., Vorobiov, S., Wahlberg, H., Wainberg, O., Walz, D., Watson, A. A., Weber, M., Weindl, A., Wiedeński, M., Wiencke, L., Wilczyński, H., Wirtz, M., Wittkowski, D., Wundheiler, B., Yang, L., Yushkov, A., Zas, E., Zavrtanik, D., Zavrtanik, M., Zepeda, A., Zimmermann, B., Ziolkowski, M., Zong, Z., Zuccarello, F., Pierre Auger Collaboration, Kim, S., Schulze, S., Bauer, F. E., Corral-Santana, J. M., de Gregorio-Monsalvo, I., González-López, J., Hartmann, D. H., Ishwara-Chandra, C. H., Martín, S., Mehner, A., Misra, K., Michałowski, M. J., Resmi, L., ALMA Collaboration, Paragi, Z., Agudo, I., An, T., Beswick, R., Casadio, C., Frey, S., Jonker, P., Kettenis, M., Marcote, B., Moldon, J., Szomoru, A., van Langevelde, H. J., Yang, J., Euro VLBI Team, Cwiek, A., Cwiok, M., Czyrkowski, H., Dabrowski, R., Kasprowicz, G., Mankiewicz, L., Nawrocki, K., Opiela, R., Piotrowski, L. W., Wrochna, G., Zaremba, M., Żarnecki, A. F., Pi of the Sky Collaboration, Haggard, D., Nynka, M., Ruan, J. J., Chandra Team at McGill University, Bland, P. A., Booler, T., Devillepoix, H. A. R., de Gois, J. S., Hancock, P. J., Howie, R. M., Paxman, J., Sansom, E. K., Towner, M. C., Desert Fireball Network, D., Tonry, J., Coughlin, M., Stubbs, C. W., Denneau, L., Heinze, A., Stalder, B., Weiland, H., ATLAS, Eatough, R. P., Kramer, M., Kraus, A., Time Resolution Universe Survey, H., Troja, E., Piro, L., Becerra González, J., Butler, N. R., Fox, O. D., Khandrika, H. G., Kutyrev, A., Lee, W. H., Ricci, R., Ryan, R. E., Sánchez-Ramírez, R., Veilleux, S., Watson, A. M., Wieringa, M. H., Burgess, J. M., van Eerten, H., Fontes, C. J., Fryer, C. L., Korobkin, O., Wollaeger, R. T., RIMAS, RATIR, Camilo, F., Foley, A. R., Goedhart, S., Makhathini, S., Oozeer, N., Smirnov, O. M., Fender, R. P., Woudt, P. A., & South Africa/MeerKAT, S., 
+2017, 
+Multi-messenger Observations of a Binary Neutron Star Merger, 
+The Astrophysical Journal Letters, Volume 848, Issue 2, article id. L12, 59 pp. (2017)., 
+848, L12.  
+https://ui.adsabs.harvard.edu/abs/2017ApJ...848L..12A 
+
+Bhattacharya, S., Mishra, I., Vaidya, K., & Chen, W. P., 
+2017, 
+Disintegration of the Aged Open Cluster Berkeley 17, 
+The Astrophysical Journal, Volume 847, Issue 2, article id. 138, 7 pp. (2017)., 
+847, 138.  
+https://ui.adsabs.harvard.edu/abs/2017ApJ...847..138B 
+
+Yuan, W., Macri, L. M., He, S., Huang, J. Z., Kanbur, S. M., & Ngeow, C.-C., 
+2017, 
+Large Magellanic Cloud Near-infrared Synoptic Survey. V. Period-Luminosity Relations of Miras, 
+The Astronomical Journal, Volume 154, Issue 4, article id. 149, 10 pp. (2017)., 
+154, 149.  
+https://ui.adsabs.harvard.edu/abs/2017AJ....154..149Y 
+
+Yang, M. T.-C., Chou, Y., Ngeow, C.-C., Hu, C.-P., Su, Y.-H., Prince, T. A., Kulkarni, S. R., Levitan, D., Laher, R., Surace, J., Drake, A. J., Djorgovski, S. G., Mahabal, A. A., Graham, M. J., & Donalek, C., 
+2017, 
+Long-term Periodicities of Cataclysmic Variables with Synoptic Surveys, 
+Publications of the Astronomical Society of the Pacific, Volume 129, Issue 979, pp. 094202 (2017)., 
+129, 094202.  
+https://ui.adsabs.harvard.edu/abs/2017PASP..129i4202Y 
+
+Drolshagen, E., Ott, T., Koschny, D., Güttler, C., Tubiana, C., Agarwal, J., Sierks, H., Barbieri, C., Lamy, P. I., Rodrigo, R., Rickman, H., A'Hearn, M. F., Barucci, M. A., Bertaux, J.-L., Bertini, I., Cremonese, G., da Deppo, V., Davidsson, B., Debei, S., de Cecco, M., Deller, J., Feller, C., Fornasier, S., Fulle, M., Gicquel, A., Groussin, O., Gutiérrez, P. J., Hofmann, M., Hviid, S. F., Ip, W.-H., Jorda, L., Keller, H. U., Knollenberg, J., Kramm, J. R., Kührt, E., Küppers, M., Lara, L. M., Lazzarin, M., Lopez Moreno, J. J., Marzari, F., Naletto, G., Oklay, N., Shi, X., Thomas, N., & Poppe, B., 
+2017, 
+Distance determination method of dust particles using Rosetta OSIRIS NAC and WAC data, 
+Planetary and Space Science, Volume 143, p. 256-264., 
+143, 256.  
+https://ui.adsabs.harvard.edu/abs/2017P&SS..143..256D 
+
+Kiew, C.-Y., Hwang, C.-Y., & Zainal Abidin, Z., 
+2017, 
+Erratum: Constraints on the dark matter neutralinos from the radio emissions of galaxy clusters, 
+Monthly Notices of the Royal Astronomical Society, Volume 470, Issue 3, p.2834-2834, 
+470, 2834.  
+https://ui.adsabs.harvard.edu/abs/2017MNRAS.470.2834K 
+
+Ngeow, C.-C., 
+2017, 
+Applying survival analysis on the Cepheid period-luminosity relation at 70 μm, 
+Wide-Field Variability Surveys: A 21st Century Perspective - 22nd Los Alamos Stellar Pulsation - Conference Series Meeting, San Pedro de Atacama, Chile, Edited by Catelan, M.; Gieren, W.; EPJ Web of Conferences, Volume 152, id.07012, 
+152, 07012.  
+https://ui.adsabs.harvard.edu/abs/2017EPJWC.15207012N 
+
+Bhardwaj, A., Kanbur, S. M., Marconi, M., Rejkuba, M., Singh, H. P., & Ngeow, C.-C., 
+2017, 
+Multiwavelength light curve parameters of Cepheid variables, 
+Wide-Field Variability Surveys: A 21st Century Perspective - 22nd Los Alamos Stellar Pulsation - Conference Series Meeting, San Pedro de Atacama, Chile, Edited by Catelan, M.; Gieren, W.; EPJ Web of Conferences, Volume 152, id.01010, 
+152, 01010.  
+https://ui.adsabs.harvard.edu/abs/2017EPJWC.15201010B 
+
+Ngeow, C.-C., 
+2017, 
+Pulsating star products from the Palomar Transient Factory: Ultra-long period Cepheids in M31 and RR Lyrae in Kepler field, 
+Wide-Field Variability Surveys: A 21st Century Perspective - 22nd Los Alamos Stellar Pulsation - Conference Series Meeting, San Pedro de Atacama, Chile, Edited by Catelan, M.; Gieren, W.; EPJ Web of Conferences, Volume 152, id.01004, 
+152, 01004.  
+https://ui.adsabs.harvard.edu/abs/2017EPJWC.15201004N 
+
+Jian, H.-Y., Lin, L., Lin, K.-Y., Foucaud, S., Chen, C.-W., Chiueh, T., Bower, R. G., Cole, S., Chen, W.-P., Burgett, W. S., Draper, P. W., Flewelling, H., Huber, M. E., Kaiser, N., Kudritzki, R.-P., Magnier, E. A., Metcalfe, N., Wainscoat, R. J., & Waters, C., 
+2017, 
+The Pan-STARRS1 Medium-deep Survey: Star Formation Quenching in Group and Cluster Environments, 
+The Astrophysical Journal, Volume 845, Issue 1, article id. 74, 16 pp. (2017)., 
+845, 74.  
+https://ui.adsabs.harvard.edu/abs/2017ApJ...845...74J 
+
+Hu, X., Shi, X., Sierks, H., Fulle, M., Blum, J., Keller, H. U., Kührt, E., Davidsson, B., Güttler, C., Gundlach, B., Pajola, M., Bodewits, D., Vincent, J.-B., Oklay, N., Massironi, M., Fornasier, S., Tubiana, C., Groussin, O., Boudreault, S., Höfner, S., Mottola, S., Barbieri, C., Lamy, P. L., Rodrigo, R., Koschny, D., Rickman, H., A'Hearn, M., Agarwal, J., Barucci, M. A., Bertaux, J.-L., Bertini, I., Cremonese, G., Da Deppo, V., Debei, S., De Cecco, M., Deller, J., El-Maarry, M. R., Gicquel, A., Gutierrez-Marques, P., Gutiérrez, P. J., Hofmann, M., Hviid, S. F., Ip, W.-H., Jorda, L., Knollenberg, J., Kovacs, G., Kramm, J.-R., Küppers, M., Lara, L. M., Lazzarin, M., Lopez-Moreno, J. J., Marzari, F., Naletto, G., & Thomas, N., 
+2017, 
+Seasonal erosion and restoration of the dust cover on comet 67P/Churyumov-Gerasimenko as observed by OSIRIS onboard Rosetta, 
+Astronomy &amp; Astrophysics, Volume 604, id.A114, 31 pp., 
+604, A114.  
+https://ui.adsabs.harvard.edu/abs/2017A&A...604A.114H 
+
+Bertini, I., La Forgia, F., Tubiana, C., Güttler, C., Fulle, M., Moreno, F., Frattin, E., Kovacs, G., Pajola, M., Sierks, H., Barbieri, C., Lamy, P., Rodrigo, R., Koschny, D., Rickman, H., Keller, H. U., Agarwal, J., A'Hearn, M. F., Barucci, M. A., Bertaux, J.-L., Bodewits, D., Cremonese, G., Da Deppo, V., Davidsson, B., Debei, S., De Cecco, M., Drolshagen, E., Ferrari, S., Ferri, F., Fornasier, S., Gicquel, A., Groussin, O., Gutierrez, P. J., Hasselmann, P. H., Hviid, S. F., Ip, W.-H., Jorda, L., Knollenberg, J., Kramm, J. R., Kührt, E., Küppers, M., Lara, L. M., Lazzarin, M., Lin, Z.-Y., Moreno, J. J. L., Lucchetti, A., Marzari, F., Massironi, M., Mottola, S., Naletto, G., Oklay, N., Ott, T., Penasa, L., Thomas, N., & Vincent, J.-B., 
+2017, 
+The scattering phase function of comet 67P/Churyumov-Gerasimenko coma as seen from the Rosetta/OSIRIS instrument, 
+Monthly Notices of the Royal Astronomical Society, Volume 469, Issue Suppl_2, p.S404-S415, 
+469, S404.  
+https://ui.adsabs.harvard.edu/abs/2017MNRAS.469S.404B 
+
+Schmitt, M. I., Tubiana, C., Güttler, C., Sierks, H., Vincent, J.-B., El-Maarry, M. R., Bodewits, D., Mottola, S., Fornasier, S., Hofmann, M., Barbieri, C., Lamy, P. L., Rodrigo, R., Koschny, D., Rickman, H., A'Hearn, M. F., Agarwal, J., Barucci, M. A., Bertaux, J.-L., Bertini, I., Cremonese, G., Da Deppo, V., Davidsson, B., Debei, S., De Cecco, M., Deller, J., Fulle, M., Gicquel, A., Groussin, O., Gutiérrez, P. J., Hviid, S. F., Ip, W.-H., Jorda, L., Keller, H. U., Knollenberg, J., Kramm, J. R., Kührt, E., Küppers, M., Lara, L. M., Lazzarin, M., López-Moreno, J. J., Marzari, F., Naletto, G., Oklay, N., Pajola, M., Prasanna, D., Shi, X., Scholten, F., Toth, I., & Thomas, N., 
+2017, 
+Long-term monitoring of comet 67P/Churyumov-Gerasimenko's jets with OSIRIS onboard Rosetta, 
+Monthly Notices of the Royal Astronomical Society, Volume 469, Issue Suppl_2, p.S380-S385, 
+469, S380.  
+https://ui.adsabs.harvard.edu/abs/2017MNRAS.469S.380S 
+
+Güttler, C., Hasselmann, P. H., Li, Y., Fulle, M., Tubiana, C., Kovacs, G., Agarwal, J., Sierks, H., Fornasier, S., Hofmann, M., Gutiérrez Marqués, P., Ott, T., Drolshagen, E., Bertini, I., Barbieri, C., Lamy, P. L., Rodrigo, R., Koschny, D., Rickman, H., A'Hearn, M. F., Barucci, M. A., Bodewits, D., Bertaux, J.-L., Boudreault, S., Cremonese, G., Da Deppo, V., Davidsson, B., Debei, S., De Cecco, M., Deller, J., Geiger, B., Groussin, O., Gutiérrez, P. J., Hviid, S. F., Ip, W.-H., Jorda, L., Keller, H. U., Knollenberg, J., Kramm, J. R., Kührt, E., Küppers, M., Lara, L. M., Lazzarin, M., López-Moreno, J. J., Marzari, F., Mottola, S., Naletto, G., Oklay, N., Pajola, M., Shi, X., Thomas, N., & Vincent, J.-B., 
+2017, 
+Characterization of dust aggregates in the vicinity of the Rosetta spacecraft, 
+Monthly Notices of the Royal Astronomical Society, Volume 469, Issue Suppl_2, p.S312-S320, 
+469, S312.  
+https://ui.adsabs.harvard.edu/abs/2017MNRAS.469S.312G 
+
+Hu, X., Shi, X., Sierks, H., Blum, J., Oberst, J., Fulle, M., Kührt, E., Güttler, C., Gundlach, B., Keller, H. U., Mottola, S., Pajola, M., Barbieri, C., Lamy, P. L., Rodrigo, R., Koschny, D., Rickman, H., Agarwal, J., A'Hearn, M. F., Barucci, M. A., Bertaux, J.-L., Bertini, I., Boudreault, S., Büttner, I., Cremonese, G., Da Deppo, V., Davidsson, B., Debei, S., De Cecco, M., Deller, J., Fornasier, S., Groussin, O., Gutiérrez, P. J., Gutiérrez-Marqués, P., Hall, I., Hofmann, M., Hviid, S. F., Ip, W.-H., Jorda, L., Knollenberg, J., Kovacs, G., Kramm, J. R., Küppers, M., Lara, L. M., Lazzarin, M., López-Moreno, J. J., Marzari, F., Naletto, G., Oklay, N., Richards, M. L., Ripken, J., Thomas, N., Tubiana, C., & Vincent, J.-B., 
+2017, 
+Thermal modelling of water activity on comet 67P/Churyumov-Gerasimenko with global dust mantle and plural dust-to-ice ratio, 
+Monthly Notices of the Royal Astronomical Society, Volume 469, Issue Suppl_2, p.S295-S311, 
+469, S295.  
+https://ui.adsabs.harvard.edu/abs/2017MNRAS.469S.295H 
+
+Ott, T., Drolshagen, E., Koschny, D., Güttler, C., Tubiana, C., Frattin, E., Agarwal, J., Sierks, H., Bertini, I., Barbieri, C., Lamy, P. I., Rodrigo, R., Rickman, H., A'Hearn, M. F., Barucci, M. A., Bertaux, J.-L., Boudreault, S., Cremonese, G., Da Deppo, V., Davidsson, B., Debei, S., De Cecco, M., Deller, J., Feller, C., Fornasier, S., Fulle, M., Geiger, B., Gicquel, A., Groussin, O., Gutiérrez, P. J., Hofmann, M., Hviid, S. F., Ip, W.-H., Jorda, L., Keller, H. U., Knollenberg, J., Kovacs, G., Kramm, J. R., Kührt, E., Küppers, M., Lara, L. M., Lazzarin, M., Lin, Z.-Y., López-Moreno, J. J., Marzari, F., Mottola, S., Naletto, G., Oklay, N., Pajola, M., Shi, X., Thomas, N., Vincent, J.-B., & Poppe, B., 
+2017, 
+Dust mass distribution around comet 67P/Churyumov-Gerasimenko determined via parallax measurements using Rosetta's OSIRIS cameras, 
+Monthly Notices of the Royal Astronomical Society, Volume 469, Issue Suppl_2, p.S276-S284, 
+469, S276.  
+https://ui.adsabs.harvard.edu/abs/2017MNRAS.469S.276O 
+
+Frattin, E., Cremonese, G., Simioni, E., Bertini, I., Lazzarin, M., Ott, T., Drolshagen, E., La Forgia, F., Sierks, H., Barbieri, C., Lamy, P., Rodrigo, R., Koschny, D., Rickman, H., Keller, H. U., Agarwal, J., A'Hearn, M. F., Barucci, M. A., Bertaux, J.-L., Da Deppo, V., Davidsson, B., Debei, S., De Cecco, M., Deller, J., Ferrari, S., Ferri, F., Fornasier, S., Fulle, M., Gicquel, A., Groussin, O., Gutierrez, P. J., Güttler, C., Hofmann, M., Hviid, S. F., Ip, W.-H., Jorda, L., Knollenberg, J., Kramm, J.-R., Kührt, E., Küppers, M., Lara, L. M., Lopez Moreno, J. J., Lucchetti, A., Marzari, F., Massironi, M., Mottola, S., Naletto, G., Oklay, N., Pajola, M., Penasa, L., Shi, X., Thomas, N., Tubiana, C., & Vincent, J.-B., 
+2017, 
+Post-perihelion photometry of dust grains in the coma of 67P Churyumov-Gerasimenko, 
+Monthly Notices of the Royal Astronomical Society, Volume 469, Issue Suppl_2, p.S195-S203, 
+469, S195.  
+https://ui.adsabs.harvard.edu/abs/2017MNRAS.469S.195F 
+
+Panwar, N., Samal, M. R., Pandey, A. K., Jose, J., Chen, W. P., Ojha, D. K., Ogura, K., Singh, H. P., & Yadav, R. K., 
+2017, 
+Low-mass young stellar population and star formation history of the cluster IC 1805 in the W4 H II region, 
+Monthly Notices of the Royal Astronomical Society, Volume 468, Issue 3, p.2684-2698, 
+468, 2684.  
+https://ui.adsabs.harvard.edu/abs/2017MNRAS.468.2684P 
+
+Hu, C.-P., Chou, Y., Ng, C.-Y., Lin, L. C.-C., & Yen, D. C.-C., 
+2017, 
+Evolution of Spin, Orbital, and Superorbital Modulations of 4U 0114+650, 
+The Astrophysical Journal, Volume 844, Issue 1, article id. 16, 10 pp. (2017)., 
+844, 16.  
+https://ui.adsabs.harvard.edu/abs/2017ApJ...844...16H 
+
+Griv, E., Jiang, I.-G., Hou, L.-G., & Ngeow, C.-C., 
+2017, 
+The nearby spiral density-wave structure of the Galaxy: Line-of-sight and longitudinal velocities of 61 masers, 
+Astronomische Nachrichten, Volume 338, Issue 6, pp. 729-739, 
+338, 729.  
+https://ui.adsabs.harvard.edu/abs/2017AN....338..729G 
+
+Ahnen, M. L., Ansoldi, S., Antonelli, L. A., Antoranz, P., Babic, A., Banerjee, B., Bangale, P., Barres de Almeida, U., Barrio, J. A., Becerra González, J., Bednarek, W., Bernardini, E., Berti, A., Biasuzzi, B., Biland, A., Blanch, O., Bonnefoy, S., Bonnoli, G., Borracci, F., Bretz, T., Buson, S., Carosi, A., Chatterjee, A., Clavero, R., Colin, P., Colombo, E., Contreras, J. L., Cortina, J., Covino, S., Da Vela, P., Dazzi, F., De Angelis, A., De Lotto, B., de Oña Wilhelmi, E., Di Pierro, F., Doert, M., Domínguez, A., Dominis Prester, D., Dorner, D., Doro, M., Einecke, S., Eisenacher Glawion, D., Elsaesser, D., Engelkemeier, M., Fallah Ramazani, V., Fernández-Barral, A., Fidalgo, D., Fonseca, M. V., Font, L., Frantzen, K., Fruck, C., Galindo, D., García López, R. J., Garczarczyk, M., Garrido Terrats, D., Gaug, M., Giammaria, P., Godinović, N., González Muñoz, A., Gora, D., Guberman, D., Hadasch, D., Hahn, A., Hanabata, Y., Hayashida, M., Herrera, J., Hose, J., Hrupec, D., Hughes, G., Idec, W., Kodani, K., Konno, Y., Kubo, H., Kushida, J., La Barbera, A., Lelas, D., Lindfors, E., Lombardi, S., Longo, F., López, M., López-Coto, R., Majumdar, P., Makariev, M., Mallot, K., Maneva, G., Manganaro, M., Mannheim, K., Maraschi, L., Marcote, B., Mariotti, M., Martínez, M., Mazin, D., Menzel, U., Miranda, J. M., Mirzoyan, R., Moralejo, A., Moretti, E., Nakajima, D., Neustroev, V., Niedzwiecki, A., Nievas Rosillo, M., Nilsson, K., Nishijima, K., Noda, K., Nogués, L., Overkemping, A., Paiano, S., Palacio, J., Palatiello, M., Paneque, D., Paoletti, R., Paredes, J. M., Paredes-Fortuny, X., Pedaletti, G., Peresano, M., Perri, L., Persic, M., Poutanen, J., Prada Moroni, P. G., Prandini, E., Puljak, I., Reichardt, I., Rhode, W., Ribó, M., Rico, J., Rodriguez Garcia, J., Saito, T., Satalecka, K., Schröder, S., Schultz, C., Schweizer, T., Shore, S. N., Sillanpää, A., Sitarek, J., Snidaric, I., Sobczynska, D., Stamerra, A., Steinbring, T., Strzys, M., Surić, T., Takalo, L., Tavecchio, F., Temnikov, P., Terzić, T., Tescaro, D., Teshima, M., Thaele, J., Torres, D. F., Toyama, T., Treves, A., Vanzo, G., Verguilov, V., Vovk, I., Ward, J. E., Will, M., Wu, M. H., Zanin, R., Abeysekara, A. U., Archambault, S., Archer, A., Benbow, W., Bird, R., Buchovecky, M., Buckley, J. H., Bugaev, V., Connolly, M. P., Cui, W., Dickinson, H. J., Falcone, A., Feng, Q., Finley, J. P., Fleischhack, H., Flinders, A., Fortson, L., Gillanders, G. H., Griffin, S., Grube, J., Hütten, M., Hanna, D., Holder, J., Humensky, T. B., Kaaret, P., Kar, P., Kelley-Hoskins, N., Kertzman, M., Kieda, D., Krause, M., Krennrich, F., Lang, M. J., Maier, G., McCann, A., Moriarty, P., Mukherjee, R., Nieto, D., O'Brien, S., Ong, R. A., Otte, N., Park, N., Perkins, J., Pichel, A., Pohl, M., Popkow, A., Pueschel, E., Quinn, J., Ragan, K., Reynolds, P. T., Richards, G. T., Roache, E., Rovero, A. C., Rulten, C., Sadeh, I., Santander, M., Sembroski, G. H., Shahinyan, K., Telezhinsky, I., Tucci, J. V., Tyler, J., Wakely, S. P., Weinstein, A., Wilcox, P., Wilhelm, A., Williams, D. A., Zitzer, B., Razzaque, S., Villata, M., Raiteri, C. M., Aller, H. D., Aller, M. F., Larionov, V. M., Arkharov, A. A., Blinov, D. A., Efimova, N. V., Grishina, T. S., Hagen-Thorn, V. A., Kopatskaya, E. N., Larionova, L. V., Larionova, E. G., Morozova, D. A., Troitsky, I. S., Ligustri, R., Calcidese, P., Berdyugin, A., Kurtanidze, O. M., Nikolashvili, M. G., Kimeridze, G. N., Sigua, L. A., Kurtanidze, S. O., Chigladze, R. A., Chen, W. P., Koptelova, E., Sakamoto, T., Sadun, A. C., Moody, J. W., Pace, C., Pearson, R., Yatsu, Y., Mori, Y., Carraminyana, A., Carrasco, L., de la Fuente, E., Norris, J. P., Smith, P. S., Wehrle, A., Gurwell, M. A., Zook, A., Pagani, C., Perri, M., Capalbi, M., Cesarini, A., Krimm, H. A., Kovalev, Y. Y., Kovalev, Y. A., Ros, E., Pushkarev, A. B., Lister, M. L., Sokolovsky, K. V., Kadler, M., Piner, G., Lähteenmäki, A., Tornikoski, M., Angelakis, E., Krichbaum, T. P., Nestoras, I., Fuhrmann, L., Zensus, J. A., Cassaro, P., Orlati, A., Maccaferri, G., Leto, P., Giroletti, M., Richards, J. L., Max-Moerbeck, W., & Readhead, A. C. S., 
+2017, 
+Multiband variability studies and novel broadband SED modeling of Mrk 501 in 2009, 
+Astronomy &amp; Astrophysics, Volume 603, id.A31, 30 pp., 
+603, A31.  
+https://ui.adsabs.harvard.edu/abs/2017A&A...603A..31A 
+
+Chen, W. P., Bhattacharya, S., Mishra, I., Vaidya, K., & Lalchand, B., 
+2017, 
+Tidal disruption of the aged open cluster Berkeley 17, 
+Journal of Physics: Conference Series, Volume 869, Issue 1, article id. 012093 (2017)., 
+869, 012093.  
+https://ui.adsabs.harvard.edu/abs/2017JPhCS.869a2093C 
+
+Kiew, C.-Y., Hwang, C.-Y., & Zainal Abibin, Z., 
+2017, 
+Constraints on the dark matter neutralinos from the radio emissions of galaxy clusters, 
+Monthly Notices of the Royal Astronomical Society, Volume 467, Issue 3, p.2924-2933, 
+467, 2924.  
+https://ui.adsabs.harvard.edu/abs/2017MNRAS.467.2924K 
+
+Ngeow, C.-C., & Luo, S.-C., 
+2017, 
+Limiting magnitudes and night sky brightness at the Langkawi National Observatory based on observations of standard stars, 
+Journal of Physics: Conference Series, Volume 852, Issue 1, article id. 012002 (2017)., 
+852, 012002.  
+https://ui.adsabs.harvard.edu/abs/2017JPhCS.852a2002N 
+
+Tang, J.-J., Goto, T., Ohyama, Y., Chen, W.-P., Walter, F., Venemans, B., Chambers, K. C., Bañados, E., Decarli, R., Fan, X., Farina, E., Mazzucchelli, C., Kaiser, N., & Magnier, E. A., 
+2017, 
+A quasar discovered at redshift 6.6 from Pan-STARRS1, 
+Monthly Notices of the Royal Astronomical Society, Volume 466, Issue 4, p.4568-4572, 
+466, 4568.  
+https://ui.adsabs.harvard.edu/abs/2017MNRAS.466.4568T 
+
+Raiteri, C. M., Nicastro, F., Stamerra, A., Villata, M., Larionov, V. M., Blinov, D., Acosta-Pulido, J. A., Arévalo, M. J., Arkharov, A. A., Bachev, R., Borman, G. A., Carnerero, M. I., Carosati, D., Cecconi, M., Chen, W.-P., Damljanovic, G., Di Paola, A., Ehgamberdiev, S. A., Frasca, A., Giroletti, M., González-Morales, P. A., Griñon-Marín, A. B., Grishina, T. S., Huang, P.-C., Ibryamov, S., Klimanov, S. A., Kopatskaya, E. N., Kurtanidze, O. M., Kurtanidze, S. O., Lähteenmäki, A., Larionova, E. G., Larionova, L. V., Lázaro, C., Leto, G., Liodakis, I., Martínez-Lombilla, C., Mihov, B., Mirzaqulov, D. O., Mokrushina, A. A., Moody, J. W., Morozova, D. A., Nazarov, S. V., Nikolashvili, M. G., Ohlert, J. M., Panopoulou, G. V., Pastor Yabar, A., Pinna, F., Protasio, C., Rizzi, N., Sadun, A. C., Savchenko, S. S., Semkov, E., Sigua, L. A., Slavcheva-Mihova, L., Strigachev, A., Tornikoski, M., Troitskaya, Y. V., Troitsky, I. S., Vasilyev, A. A., Vera, R. J. C., Vince, O., & Zanmar Sanchez, R., 
+2017, 
+Synchrotron emission from the blazar PG 1553+113. An analysis of its flux and polarization variability, 
+Monthly Notices of the Royal Astronomical Society, Volume 466, Issue 3, p.3762-3774, 
+466, 3762.  
+https://ui.adsabs.harvard.edu/abs/2017MNRAS.466.3762R 
+
+Bhardwaj, A., Kanbur, S. M., Marconi, M., Rejkuba, M., Singh, H. P., & Ngeow, C.-C., 
+2017, 
+A comparative study of multiwavelength theoretical and observed light curves of Cepheid variables, 
+Monthly Notices of the Royal Astronomical Society, Volume 466, Issue 3, p.2805-2824, 
+466, 2805.  
+https://ui.adsabs.harvard.edu/abs/2017MNRAS.466.2805B 
+
+Hsu, J.-K., Liang, M.-C., & Ip, W.-H., 
+2017, 
+A model study of the vertical distributions and escape fluxes of the major and minor species in Titan's thermosphere under different conditions, 
+19th EGU General Assembly, EGU2017, proceedings from the conference held 23-28 April, 2017 in Vienna, Austria., p.6054,  6054.  
+https://ui.adsabs.harvard.edu/abs/2017EGUGA..19.6054H 
+
+Bhardwaj, A., Macri, L. M., Rejkuba, M., Kanbur, S. M., Ngeow, C.-C., & Singh, H. P., 
+2017, 
+Large Magellanic Cloud Near-infrared Synoptic Survey. IV. Leavitt Laws for Type II Cepheid Variables, 
+The Astronomical Journal, Volume 153, Issue 4, article id. 154, 16 pp. (2017)., 
+153, 154.  
+https://ui.adsabs.harvard.edu/abs/2017AJ....153..154B 
+
+Huang, J. C., & Hwang, C. Y., 
+2017, 
+An Adaptive Homomorphic Aperture Photometry Algorithm for Merging Galaxies, 
+Publications of the Astronomical Society of the Pacific, Volume 129, Issue 973, pp. 034001 (2017)., 
+129, 034001.  
+https://ui.adsabs.harvard.edu/abs/2017PASP..129c4001H 
+
+Lin, C.-C., Chen, W.-P., Hou, J., Chen, L., & Shao, Z., 
+2017, 
+Identifying and Characterizing Stellar Clusters Toward the Galactic Anti-Center from Pan-STARRS1 Survey, 
+Formation, evolution, and survival of massive star clusters, Proceedings of the International Astronomical Union, IAU Symposium, Volume 316, pp. 163-164, 
+316, 163.  
+https://ui.adsabs.harvard.edu/abs/2017IAUS..316..163L 
+
+Griv, E., Hou, L.-G., Jiang, I.-G., & Ngeow, C.-C., 
+2017, 
+The nearby spiral density-wave structure of the Galaxy: line-of-sight and longitudinal velocities of 223 Cepheids, 
+Monthly Notices of the Royal Astronomical Society, Volume 464, Issue 4, p.4495-4508, 
+464, 4495.  
+https://ui.adsabs.harvard.edu/abs/2017MNRAS.464.4495G 
+
+Jose, J., Herczeg, G. J., Samal, M. R., Fang, Q., & Panwar, N., 
+2017, 
+The Low-mass Population in the Young Cluster Stock 8: Stellar Properties and Initial Mass Function, 
+The Astrophysical Journal, Volume 836, Issue 1, article id. 98, 13 pp. (2017)., 
+836, 98.  
+https://ui.adsabs.harvard.edu/abs/2017ApJ...836...98J 
+
+Gezari, S., Hung, T., Cenko, S. B., Blagorodnova, N., Yan, L., Kulkarni, S. R., Mooley, K., Kong, A. K. H., Cantwell, T. M., Yu, P. C., Cao, Y., Fremling, C., Neill, J. D., Ngeow, C.-C., Nugent, P. E., & Wozniak, P., 
+2017, 
+iPTF Discovery of the Rapid “Turn-on” of a Luminous Quasar, 
+The Astrophysical Journal, Volume 835, Issue 2, article id. 144, 11 pp. (2017)., 
+835, 144.  
+https://ui.adsabs.harvard.edu/abs/2017ApJ...835..144G 
+
+Vaidya, K., Bhattacharya, S., Panwar, V., Samal, M., Chen, W.-P., & Ojha, D. K., 
+2017, 
+Star formation toward IRAS 10427-6032, 
+Memorie della Societa Astronomica Italiana, v.88, p.846 (2017), 
+88, 846.  
+https://ui.adsabs.harvard.edu/abs/2017MmSAI..88..846V 
+
+Ngeow, C.-C., Kanbur, S. M., Bhardwaj, A., Schrecengost, Z., & Singh, H. P., 
+2017, 
+Period-Color and Amplitude-Color Relations at Maximum and Minimum Light for RR Lyrae Stars in the SDSS Stripe 82 Region, 
+The Astrophysical Journal, Volume 834, Issue 2, article id. 160, 12 pp. (2017)., 
+834, 160.  
+https://ui.adsabs.harvard.edu/abs/2017ApJ...834..160N 
+

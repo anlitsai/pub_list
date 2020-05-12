@@ -1,0 +1,278 @@
+D'Ammando, F., et al., 2019, Investigating the multiwavelength behaviour of the flat spectrum radio quasar CTA 102 during 2013-2017, Monthly Notices of the Royal Astronomical Society, Volume 490, Issue 4, p.5300-5316, 490, 5300. 
+
+Lucchetti, A., et al., 2019, The Rocky-Like Behavior of Cometary Landslides on 67P/Churyumov-Gerasimenko, Geophysical Research Letters, Volume 46, Issue 24, pp. 14,336-14,346, 46, 14,336. 
+
+Deb, S., et al., 2019, Morphology of the Small Magellanic Cloud using multiwavelength photometry of classical Cepheids, Monthly Notices of the Royal Astronomical Society, Volume 489, Issue 3, p.3725-3738, 489, 3725. 
+
+Raiteri, C. M., et al., 2019, The beamed jet and quasar core of the distant blazar 4C 71.07, Monthly Notices of the Royal Astronomical Society, Volume 489, Issue 2, p.1837-1849, 489, 1837. 
+
+Urata, Y., et al., 2019, First Detection of Radio Linear Polarization in a Gamma-Ray Burst Afterglow, The Astrophysical Journal Letters, Volume 884, Issue 2, article id. L58, 7 pp. (2019)., 884, L58. 
+
+Bhardwaj, A., et al., 2019, Multiwavelength Period-Luminosity and Period-Luminosity-Color Relations at Maximum Light for Mira Variables in the Magellanic Clouds, The Astrophysical Journal, Volume 884, Issue 1, article id. 20, 14 pp. (2019)., 884, 20. 
+
+Tubiana, C., et al., 2019, Diurnal variation of dust and gas production in comet 67P/Churyumov-Gerasimenko at the inbound equinox as seen by OSIRIS and VIRTIS-M on board Rosetta, Astronomy &amp; Astrophysics, Volume 630, id.A23, 14 pp., 630, A23. 
+
+Biver, N., et al., 2019, Long-term monitoring of the outgassing and composition of comet 67P/Churyumov-Gerasimenko with the Rosetta/MIRO instrument, Astronomy &amp; Astrophysics, Volume 630, id.A19, 58 pp., 630, A19. 
+
+Tognon, G., et al., 2019, Spectrophotometric variegation of the layering in comet 67P/Churyumov-Gerasimenko as seen by OSIRIS, Astronomy &amp; Astrophysics, Volume 630, id.A16, 12 pp., 630, A16. 
+
+Cambianica, P., et al., 2019, Quantitative analysis of isolated boulder fields on comet 67P/Churyumov-Gerasimenko, Astronomy &amp; Astrophysics, Volume 630, id.A15, 15 pp., 630, A15. 
+
+Fornasier, S., et al., 2019, Surface evolution of the Anhur region on comet 67P/Churyumov-Gerasimenko from high-resolution OSIRIS images, Astronomy &amp; Astrophysics, Volume 630, id.A13, 18 pp., 630, A13. 
+
+Masoumzadeh, N., et al., 2019, Phase-curve analysis of comet 67P/Churyumov-Gerasimenko at small phase angles, Astronomy &amp; Astrophysics, Volume 630, id.A11, 10 pp., 630, A11. 
+
+Feller, C., et al., 2019, Rosetta/OSIRIS observations of the 67P nucleus during the April 2016 flyby: high-resolution spectrophotometry, Astronomy &amp; Astrophysics, Volume 630, id.A9, 20 pp., 630, A9. 
+
+Hasselmann, P. H., et al., 2019, Pronounced morphological changes in a southern active zone on comet 67P/Churyumov-Gerasimenko, Astronomy &amp; Astrophysics, Volume 630, id.A8, 19 pp., 630, A8. 
+
+Fornasier, S., et al., 2019, Linking surface morphology, composition, and activity on the nucleus of 67P/Churyumov-Gerasimenko, Astronomy &amp; Astrophysics, Volume 630, id.A7, 26 pp., 630, A7. 
+
+Koptelova, E., et al., 2019, Rapidly Accreting Black Hole of the Lyα-luminous Quasar PSOJ006.1240+39.2219, The Astrophysical Journal, Volume 882, Issue 2, article id. 144, 11 pp. (2019)., 882, 144. 
+
+Ohmori, N., et al., 2019, Spectral properties of gamma-ray bursts observed by the Suzaku wide-band all-sky monitor, Publications of the Astronomical Society of Japan, Volume 71, Issue 4, id.76, 71, 76. 
+
+Koptelova, E., et al., 2019, A Luminous Molecular Gas Pair beyond Redshift 7, The Astrophysical Journal Letters, Volume 880, Issue 2, article id. L19, 5 pp. (2019)., 880, L19. 
+
+Liu, P.-Y., et al., 2019, An Investigation on the Origin of Centaurs’ Color-Inclination Relation, The Astrophysical Journal, Volume 880, Issue 2, article id. 71, 15 pp. (2019)., 880, 71. 
+
+Ye, Q., et al., 2019, Toward Efficient Detection of Small Near-Earth Asteroids Using the Zwicky Transient Facility (ZTF), Publications of the Astronomical Society of the Pacific, Volume 131, Issue 1001, pp. 078002 (2019)., 131, 078002. 
+
+Graham, M. J., et al., 2019, The Zwicky Transient Facility: Science Objectives, Publications of the Astronomical Society of the Pacific, Volume 131, Issue 1001, pp. 078001 (2019)., 131, 078001. 
+
+Bhardwaj, A., et al., 2019, Variability of young stellar objects in the star-forming region Pelican Nebula, Astronomy &amp; Astrophysics, Volume 627, id.A135, 16 pp., 627, A135. 
+
+Bellm, E. C., et al., 2019, The Zwicky Transient Facility: Surveys and Scheduler, Publications of the Astronomical Society of the Pacific, Volume 131, Issue 1000, pp. 068003 (2019)., 131, 068003. 
+
+Huang, K., et al., 2019, ALMA Polarimetry of AT2018cow, The Astrophysical Journal Letters, Volume 878, Issue 1, article id. L25, 5 pp. (2019)., 878, L25. 
+
+Hsu, J.-K., et al., 2019, Estimates of the Atmospheric Escape Rates of CH<SUB>4</SUB> from Titan, The Astrophysical Journal, Volume 878, Issue 1, article id. 3, 8 pp. (2019)., 878, 3. 
+
+Coudé, S., et al., 2019, The JCMT BISTRO Survey: The Magnetic Field of the Barnard 1 Star-forming Region, The Astrophysical Journal, Volume 877, Issue 2, article id. 88, 17 pp. (2019)., 877, 88. 
+
+Chen, Y.-C., et al., 2019, Emission line luminosity distributions of Seyfert 2 galaxies, Monthly Notices of the Royal Astronomical Society, Volume 485, Issue 3, p.3402-3408, 485, 3402. 
+
+Eden, D. J., et al., 2019, SCOPE: SCUBA-2 Continuum Observations of Pre-protostellar Evolution - survey description and compact source catalogue, Monthly Notices of the Royal Astronomical Society, Volume 485, Issue 2, p.2895-2908, 485, 2895. 
+
+Pajola, M., et al., 2019, Multidisciplinary analysis of the Hapi region located on Comet 67P/Churyumov-Gerasimenko, Monthly Notices of the Royal Astronomical Society, Volume 485, Issue 2, p.2139-2154, 485, 2139. 
+
+Liu, J., et al., 2019, The JCMT BISTRO Survey: The Magnetic Field in the Starless Core ρ Ophiuchus C, The Astrophysical Journal, Volume 877, Issue 1, article id. 43, 17 pp. (2019)., 877, 43. 
+
+Wang, J.-W., et al., 2019, JCMT BISTRO Survey: Magnetic Fields within the Hub-filament Structure in IC 5146, The Astrophysical Journal, Volume 876, Issue 1, article id. 42, 19 pp. (2019)., 876, 42. 
+
+Ye, Q., et al., 2019, Multiple Outbursts of Asteroid (6478) Gault, The Astrophysical Journal Letters, Volume 874, Issue 2, article id. L16, 8 pp. (2019)., 874, L16. 
+
+Bhattacharya, S., et al., 2019, The blue straggler population of the old open cluster Berkeley 17, Astronomy &amp; Astrophysics, Volume 624, id.A26, 6 pp., 624, A26. 
+
+Mahabal, A., et al., 2019, Machine Learning for the Zwicky Transient Facility, Publications of the Astronomical Society of the Pacific, Volume 131, Issue 997, pp. 038002 (2019)., 131, 038002. 
+
+Chang, C.-K., et al., 2019, Searching for Super-fast Rotators Using the Pan-STARRS 1, The Astrophysical Journal Supplement Series, Volume 241, Issue 1, article id. 6, 15 pp. (2019)., 241, 6. 
+
+Lin, C.-L., et al., 2019, A Comparative Study of the Magnetic Activities of Low-mass Stars from M-type to G-type, The Astrophysical Journal, Volume 873, Issue 1, article id. 97, 21 pp. (2019)., 873, 97. 
+
+Angelopoulos, V., et al., 2019, The Space Physics Environment Data Analysis System (SPEDAS), Space Science Reviews, Volume 215, Issue 1, article id. 9, 46 pp., 215, 9. 
+
+Bellm, E. C., et al., 2019, The Zwicky Transient Facility: System Overview, Performance, and First Results, Publications of the Astronomical Society of the Pacific, Volume 131, Issue 995, pp. 018002 (2019)., 131, 018002. 
+
+Griv, E., et al., 2019, The Lin-Shu type density-wave structure of the Galaxy: Line-of-sight velocities of selected 37354 RAVE DR5 stars, New Astronomy, Volume 66, p. 1-8., 66, 1. 
+
+Bertini, I., et al., 2019, The backscattering ratio of comet 67P/Churyumov-Gerasimenko dust coma as seen by OSIRIS onboard Rosetta, Monthly Notices of the Royal Astronomical Society, Volume 482, Issue 3, p.2924-2933, 482, 2924. 
+
+Wei, C.-E., et al., 2019, The Effect of Carbon Grain Destruction on the Chemical Structure of Protoplanetary Disks, The Astrophysical Journal, Volume 870, Issue 2, article id. 129, 21 pp. (2019)., 870, 129. 
+
+Thomas, N., et al., 2018, Regional unit definition for the nucleus of comet 67P/Churyumov-Gerasimenko on the SHAP7 model, Planetary and Space Science, Volume 164, p. 19-36., 164, 19. 
+
+Chen, Y.-C., et al., 2018, Morphology of Seyfert Galaxies, Astronomy Reports, Volume 62, Issue 12, pp.853-858, 62, 853. 
+
+Chen, W.-S., et al., 2018, The mean zonal wind effect on the long-term variation of ultra-fast Kelvin waves in the mesosphere and lower thermosphere and in the upper stratosphere, Journal of Atmospheric and Solar-Terrestrial Physics, Volume 179, p. 459-467., 179, 459. 
+
+Sirunyan, A. M., et al., 2018, Measurement of the top quark mass with lepton+jets final states using p p collisions at √{s}=13 {TeV}, The European Physical Journal C, Volume 78, Issue 11, article id. 891, 27 pp., 78, 891. 
+
+Chang, H.-Y., et al., 2018, Hyperflares of M Dwarfs, The Astrophysical Journal, Volume 867, Issue 1, article id. 78, 9 pp. (2018)., 867, 78. 
+
+Moreno, F., et al., 2018, Models of Rosetta/OSIRIS 67P Dust Coma Phase Function, The Astronomical Journal, Volume 156, Issue 5, article id. 237, 7 pp. (2018)., 156, 237. 
+
+Hsieh, H. H., et al., 2018, The 2016 Reactivations of the Main-belt Comets 238P/Read and 288P/(300163) 2006 VW<SUB>139</SUB>, The Astronomical Journal, Volume 156, Issue 5, article id. 223, 18 pp. (2018)., 156, 223. 
+
+Waite, J. H., et al., 2018, Chemical interactions between Saturn's atmosphere and its rings, Science, Volume 362, Issue 6410, id.aat2382 (2018)., 362, aat2382. 
+
+Ferrari, S., et al., 2018, The big lobe of 67P/Churyumov-Gerasimenko comet: morphological and spectrophotometric evidences of layering as from OSIRIS data, Monthly Notices of the Royal Astronomical Society, Volume 479, Issue 2, p.1555-1568, 479, 1555. 
+
+Gerig, S.-B., et al., 2018, On deviations from free-radial outflow in the inner coma of comet 67P/Churyumov-Gerasimenko, Icarus, Volume 311, p. 1-22., 311, 1. 
+
+Lee, C. D., et al., 2018, A Multicolor Study of Polarization Variability in Isolated B[e] Stars HD 45677 and HD 50138, The Astronomical Journal, Volume 156, Issue 3, article id. 115, 11 pp. (2018)., 156, 115. 
+
+Vaidya, K., et al., 2018, Star formation toward the H II region IRAS 10427-6032, New Astronomy, Volume 63, p. 27-37., 63, 27. 
+
+Deb, S., et al., 2018, Geometry of the Large Magellanic Cloud using multiwavelength photometry of classical Cepheids, Monthly Notices of the Royal Astronomical Society, Volume 478, Issue 2, p.2526-2540, 478, 2526. 
+
+Marshall, D., et al., 2018, Thermal inertia and roughness of the nucleus of comet 67P/Churyumov-Gerasimenko from MIRO and VIRTIS observations, Astronomy &amp; Astrophysics, Volume 616, id.A122, 13 pp., 616, A122. 
+
+Morganson, E., et al., 2018, The Dark Energy Survey Image Processing Pipeline, Publications of the Astronomical Society of the Pacific, Volume 130, Issue 989, pp. 074501 (2018)., 130, 074501. 
+
+Samal, M. R., et al., 2018, YSO jets in the Galactic plane from UWISH2 - V. Jets and outflows in M17, Monthly Notices of the Royal Astronomical Society, Volume 477, Issue 4, p.4577-4595, 477, 4577. 
+
+Soam, A., et al., 2018, Magnetic Fields toward Ophiuchus-B Derived from SCUBA-2 Polarization Measurements, The Astrophysical Journal, Volume 861, Issue 1, article id. 65, 13 pp. (2018)., 861, 65. 
+
+Amati, L., et al., 2018, The THESEUS space mission concept: science case, design and expected performances, Advances in Space Research, Volume 62, Issue 1, p. 191-244., 62, 191. 
+
+Zhang, C.-P., et al., 2018, The TOP-SCOPE Survey of PGCCs: PMO and SCUBA-2 Observations of 64 PGCCs in the Second Galactic Quadrant, The Astrophysical Journal Supplement Series, Volume 236, Issue 2, article id. 49, 20 pp. (2018)., 236, 49. 
+
+Shi, X., et al., 2018, Coma morphology of comet 67P controlled by insolation over irregular nucleus, Nature Astronomy, Volume 2, p. 562-567, 2, 562. 
+
+Fulle, M., et al., 2018, The phase function and density of the dust observed at comet 67P/Churyumov-Gerasimenko, Monthly Notices of the Royal Astronomical Society, Volume 476, Issue 2, p.2835-2839, 476, 2835. 
+
+Bannister, M. T., et al., 2018, OSSOS. VII. 800+ Trans-Neptunian Objects—The Complete Data Release, The Astrophysical Journal Supplement Series, Volume 236, Issue 1, article id. 18, 19 pp. (2018)., 236, 18. 
+
+Kwon, J., et al., 2018, A First Look at BISTRO Observations of the ρ Oph-A core, The Astrophysical Journal, Volume 859, Issue 1, article id. 4, 22 pp. (2018)., 859, 4. 
+
+Deshapriya, J. D. P., et al., 2018, Exposed bright features on the comet 67P/Churyumov-Gerasimenko: distribution and evolution, Astronomy &amp; Astrophysics, Volume 613, id.A36, 14 pp., 613, A36. 
+
+Lee, C. C., et al., 2018, Effects of sporadic E-layer characteristics on spread-F generation in the nighttime midlatitude ionosphere: A climatological study, Journal of Atmospheric and Solar-Terrestrial Physics, Volume 169, p. 130-137., 169, 130. 
+
+Huang, P.-C., et al., 2018, Young Stellar Variability of GM Cephei by Circumstellar Dust Clumps, Bulletin de la Société Royale des Sciences de Liège, in Proceedings of the First Belgo-Indian Network for Astronomy &amp; Astrophysics (BINA) workshop, November 2016, held in Nainital, India, Vol. 87, pp 145-149, 87, 145. 
+
+Pittori, C., et al., 2018, The Bright γ-ray Flare of 3C 279 in 2015 June: AGILE Detection and Multifrequency Follow-up Observations, The Astrophysical Journal, Volume 856, Issue 2, article id. 99, 9 pp. (2018)., 856, 99. 
+
+Blagorodnova, N., et al., 2018, The SED Machine: A Robotic Spectrograph for Fast Transient Classification, Publications of the Astronomical Society of the Pacific, Volume 130, Issue 985, pp. 035003 (2018)., 130, 035003. 
+
+Lin, C.-H., et al., 2018, Photometric survey and taxonomic identifications of 92 near-Earth asteroids, Planetary and Space Science, Volume 152, p. 116-135., 152, 116. 
+
+Chen, I.-C., et al., 2018, Color Variabilities of Spectrally Defined Red QSOs at z = 0.3-1.2, The Astrophysical Journal, Volume 855, Issue 1, article id. 66, 19 pp. (2018)., 855, 66. 
+
+Liu, T., et al., 2018, The TOP-SCOPE Survey of Planck Galactic Cold Clumps: Survey Overview and Results of an Exemplar Source, PGCC G26.53+0.17, The Astrophysical Journal Supplement Series, Volume 234, Issue 2, article id. 28, 31 pp. (2018)., 234, 28. 
+
+Yu, P.-C., et al., 2018, Searching for Be Stars in the Open Clusters with PTF/iPTF. I. Cluster Sample and Be Star Candidates, The Astronomical Journal, Volume 155, Issue 2, article id. 91, 17 pp. (2018)., 155, 91. 
+
+Aihara, H., et al., 2018, First data release of the Hyper Suprime-Cam Subaru Strategic Program, Publications of the Astronomical Society of Japan, Volume 70, Issue SP1, id.S8, 70, S8. 
+
+Aihara, H., et al., 2018, The Hyper Suprime-Cam SSP Survey: Overview and survey design, Publications of the Astronomical Society of Japan, Volume 70, Issue SP1, id.S4, 70, S4. 
+
+Guo, Z., et al., 2018, Star-Disk Interactions in Multiband Photometric Monitoring of the Classical T Tauri Star GI Tau, The Astrophysical Journal, Volume 852, Issue 1, article id. 56, 15 pp. (2018)., 852, 56. 
+
+Panwar, N., et al., 2018, Young Cluster Berkeley 59: Properties, Evolution, and Star Formation, The Astronomical Journal, Volume 155, Issue 1, article id. 44, 12 pp. (2018)., 155, 44. 
+
+Raiteri, C. M., et al., 2017, Blazar spectral variability as explained by a twisted inhomogeneous jet, Nature, Volume 552, Issue 7685, pp. 374-377 (2017)., 552, 374. 
+
+Eswaraiah, C., et al., 2017, Understanding the Links among the Magnetic Fields, Filament, Bipolar Bubble, and Star Formation in RCW 57A Using NIR Polarimetry, The Astrophysical Journal, Volume 850, Issue 2, article id. 195, 22 pp. (2017)., 850, 195. 
+
+Chen, Y.-C., et al., 2017, Morphology of Seyfert galaxies, Astrophysics and Space Science, Volume 362, Issue 12, article id.230, 10 pp., 362, 230. 
+
+Höfner, S., et al., 2017, Thermophysics of fractures on comet 67P/Churyumov-Gerasimenko, Astronomy &amp; Astrophysics, Volume 608, id.A121, 18 pp. ,D 12/2017, 608, D. 
+
+Preusker, F., et al., 2017, The global meter-level shape model of comet 67P/Churyumov-Gerasimenko, Astronomy &amp; Astrophysics, Volume 607, id.L1, 5 pp., 607, L1. 
+
+Abbott, B. P., et al., 2017, Multi-messenger Observations of a Binary Neutron Star Merger, The Astrophysical Journal Letters, Volume 848, Issue 2, article id. L12, 59 pp. (2017)., 848, L12. 
+
+Bhattacharya, S., et al., 2017, Disintegration of the Aged Open Cluster Berkeley 17, The Astrophysical Journal, Volume 847, Issue 2, article id. 138, 7 pp. (2017)., 847, 138. 
+
+Yuan, W., et al., 2017, Large Magellanic Cloud Near-infrared Synoptic Survey. V. Period-Luminosity Relations of Miras, The Astronomical Journal, Volume 154, Issue 4, article id. 149, 10 pp. (2017)., 154, 149. 
+
+Yang, M. T.-C., et al., 2017, Long-term Periodicities of Cataclysmic Variables with Synoptic Surveys, Publications of the Astronomical Society of the Pacific, Volume 129, Issue 979, pp. 094202 (2017)., 129, 094202. 
+
+Drolshagen, E., et al., 2017, Distance determination method of dust particles using Rosetta OSIRIS NAC and WAC data, Planetary and Space Science, Volume 143, p. 256-264., 143, 256. 
+
+Kiew, C.-Y., et al., 2017, Erratum: Constraints on the dark matter neutralinos from the radio emissions of galaxy clusters, Monthly Notices of the Royal Astronomical Society, Volume 470, Issue 3, p.2834-2834, 470, 2834. 
+
+Hsieh, P.-Y., et al., 2017, Molecular Gas Feeding the Circumnuclear Disk of the Galactic Center, The Astrophysical Journal, Volume 847, Issue 1, article id. 3, 14 pp. (2017)., 847, 3. 
+
+Marschall, R., et al., 2017, Cliffs versus plains: Can ROSINA/COPS and OSIRIS data of comet 67P/Churyumov-Gerasimenko in autumn 2014 constrain inhomogeneous outgassing?, Astronomy &amp; Astrophysics, Volume 605, id.A112, 10 pp., 605, A112. 
+
+Jian, H.-Y., et al., 2017, The Pan-STARRS1 Medium-deep Survey: Star Formation Quenching in Group and Cluster Environments, The Astrophysical Journal, Volume 845, Issue 1, article id. 74, 16 pp. (2017)., 845, 74. 
+
+Hu, X., et al., 2017, Seasonal erosion and restoration of the dust cover on comet 67P/Churyumov-Gerasimenko as observed by OSIRIS onboard Rosetta, Astronomy &amp; Astrophysics, Volume 604, id.A114, 31 pp., 604, A114. 
+
+Yu, L.-L., et al., 2017, Surface thermophysical properties on the potentially hazardous asteroid (99942) Apophis, Research in Astronomy and Astrophysics, Volume 17, Issue 7, article id. 070 (2017)., 17, 070. 
+
+Penasa, L., et al., 2017, A three-dimensional modelling of the layered structure of comet 67P/Churyumov-Gerasimenko, Monthly Notices of the Royal Astronomical Society, Volume 469, Issue Suppl_2, p.S741-S754, 469, S741. 
+
+Lin, Z.-Y., et al., 2017, Investigating the physical properties of outbursts on comet 67P/Churyumov-Gerasimenko, Monthly Notices of the Royal Astronomical Society, Volume 469, Issue Suppl_2, p.S731-S740, 469, S731. 
+
+Pajola, M., et al., 2017, The pebbles/boulders size distributions on Sais: Rosetta's final landing site on comet 67P/Churyumov-Gerasimenko, Monthly Notices of the Royal Astronomical Society, Volume 469, Issue Suppl_2, p.S636-S645, 469, S636. 
+
+Agarwal, J., et al., 2017, Evidence of sub-surface energy storage in comet 67P from the outburst of 2016 July 03, Monthly Notices of the Royal Astronomical Society, Volume 469, Issue Suppl_2, p.s606-s625, 469, s606. 
+
+Oklay, N., et al., 2017, Long-term survival of surface water ice on comet 67P, Monthly Notices of the Royal Astronomical Society, Volume 469, Issue Suppl_2, p.S582-S597, 469, S582. 
+
+Hasselmann, P. H., et al., 2017, The opposition effect of 67P/Churyumov-Gerasimenko on post-perihelion Rosetta images, Monthly Notices of the Royal Astronomical Society, Volume 469, Issue Suppl_2, p.S550-S567, 469, S550. 
+
+Bertini, I., et al., 2017, The scattering phase function of comet 67P/Churyumov-Gerasimenko coma as seen from the Rosetta/OSIRIS instrument, Monthly Notices of the Royal Astronomical Society, Volume 469, Issue Suppl_2, p.S404-S415, 469, S404. 
+
+Schmitt, M. I., et al., 2017, Long-term monitoring of comet 67P/Churyumov-Gerasimenko's jets with OSIRIS onboard Rosetta, Monthly Notices of the Royal Astronomical Society, Volume 469, Issue Suppl_2, p.S380-S385, 469, S380. 
+
+Keller, H. U., et al., 2017, Seasonal mass transfer on the nucleus of comet 67P/Chuyumov-Gerasimenko, Monthly Notices of the Royal Astronomical Society, Volume 469, Issue Suppl_2, p.S357-S371, 469, S357. 
+
+Vincent, J.-B., et al., 2017, Constraints on cometary surface evolution derived from a statistical analysis of 67P's topography, Monthly Notices of the Royal Astronomical Society, Volume 469, Issue Suppl_2, p.S329-S338, 469, S329. 
+
+Güttler, C., et al., 2017, Characterization of dust aggregates in the vicinity of the Rosetta spacecraft, Monthly Notices of the Royal Astronomical Society, Volume 469, Issue Suppl_2, p.S312-S320, 469, S312. 
+
+Hu, X., et al., 2017, Thermal modelling of water activity on comet 67P/Churyumov-Gerasimenko with global dust mantle and plural dust-to-ice ratio, Monthly Notices of the Royal Astronomical Society, Volume 469, Issue Suppl_2, p.S295-S311, 469, S295. 
+
+Ott, T., et al., 2017, Dust mass distribution around comet 67P/Churyumov-Gerasimenko determined via parallax measurements using Rosetta's OSIRIS cameras, Monthly Notices of the Royal Astronomical Society, Volume 469, Issue Suppl_2, p.S276-S284, 469, S276. 
+
+Lucchetti, A., et al., 2017, Geomorphological and spectrophotometric analysis of Seth's circular niches on comet 67P/Churyumov-Gerasimenko using OSIRIS images, Monthly Notices of the Royal Astronomical Society, Volume 469, Issue Suppl_2, p.S238-S251, 469, S238. 
+
+Frattin, E., et al., 2017, Post-perihelion photometry of dust grains in the coma of 67P Churyumov-Gerasimenko, Monthly Notices of the Royal Astronomical Society, Volume 469, Issue Suppl_2, p.S195-S203, 469, S195. 
+
+Moreno, F., et al., 2017, The dust environment of comet 67P/Churyumov-Gerasimenko: results from Monte Carlo dust tail modelling applied to a large ground-based observation data set, Monthly Notices of the Royal Astronomical Society, Volume 469, Issue Suppl_2, p.S186-S194, 469, S186. 
+
+Gicquel, A., et al., 2017, Modelling of the outburst on 2015 July 29 observed with OSIRIS cameras in the Southern hemisphere of comet 67P/Churyumov-Gerasimenko, Monthly Notices of the Royal Astronomical Society, Volume 469, Issue Suppl_2, p.S178-S185, 469, S178. 
+
+Fornasier, S., et al., 2017, The highly active Anhur-Bes regions in the 67P/Churyumov-Gerasimenko comet: results from OSIRIS/ROSETTA observations, Monthly Notices of the Royal Astronomical Society, Volume 469, Issue Suppl_2, p.S93-S107, 469, S93. 
+
+Panwar, N., et al., 2017, Low-mass young stellar population and star formation history of the cluster IC 1805 in the W4 H II region, Monthly Notices of the Royal Astronomical Society, Volume 468, Issue 3, p.2684-2698, 468, 2684. 
+
+Hu, C.-P., et al., 2017, Evolution of Spin, Orbital, and Superorbital Modulations of 4U 0114+650, The Astrophysical Journal, Volume 844, Issue 1, article id. 16, 10 pp. (2017)., 844, 16. 
+
+Marshall, D. W., et al., 2017, Spatially resolved evolution of the local H<SUB>2</SUB>O production rates of comet 67P/Churyumov-Gerasimenko from the MIRO instrument on Rosetta, Astronomy &amp; Astrophysics, Volume 603, id.A87, 11 pp., 603, A87. 
+
+Ahnen, M. L., et al., 2017, Multiband variability studies and novel broadband SED modeling of Mrk 501 in 2009, Astronomy &amp; Astrophysics, Volume 603, id.A31, 30 pp., 603, A31. 
+
+Yamaoka, K., et al., 2017, Suzaku Wide-band All-sky Monitor (WAM) observations of GRBs and SGRs, Publications of the Astronomical Society of Japan, Volume 69, Issue 3, id.R2, 69, R2. 
+
+Ward-Thompson, D., et al., 2017, First Results from BISTRO: A SCUBA-2 Polarimeter Survey of the Gould Belt, The Astrophysical Journal, Volume 842, Issue 1, article id. 66, 10 pp. (2017)., 842, 66. 
+
+Tsai, A.-L., et al., 2017, Properties of Spectrally Defined Red QSOs at z = 0.3-1.2, The Astrophysical Journal, Volume 842, Issue 1, article id. 57, 11 pp. (2017)., 842, 57. 
+
+Tseng, T.-P., et al., 2017, Geocenter motion estimated from GRACE orbits: The impact of F10.7 solar flux, Advances in Space Research, Volume 59, Issue 11, p. 2819-2830., 59, 2819. 
+
+Snodgrass, C., et al., 2017, The 67P/Churyumov-Gerasimenko observation campaign in support of the Rosetta mission, Philosophical Transactions of the Royal Society A, Volume 375, Issue 2097, id.20160249, 375, 20160249. 
+
+Kiew, C.-Y., et al., 2017, Constraints on the dark matter neutralinos from the radio emissions of galaxy clusters, Monthly Notices of the Royal Astronomical Society, Volume 467, Issue 3, p.2924-2933, 467, 2924. 
+
+Chang, C.-K., et al., 2017, Confirmation of Large Super-fast Rotator (144977) 2005 EC<SUB>127</SUB>, The Astrophysical Journal Letters, Volume 840, Issue 2, article id. L22, 6 pp. (2017)., 840, L22. 
+
+Huang, K., et al., 2017, ALMA and RATIR observations of GRB 131030A, Publications of the Astronomical Society of Japan, Volume 69, Issue 2, id.20, 69, 20. 
+
+Tang, J.-J., et al., 2017, A quasar discovered at redshift 6.6 from Pan-STARRS1, Monthly Notices of the Royal Astronomical Society, Volume 466, Issue 4, p.4568-4572, 466, 4568. 
+
+Yasuda, T., et al., 2017, Hard X-ray spectral investigations of gamma-ray bursts 120521C and 130606A at high-redshift z ∼ 6, Monthly Notices of the Royal Astronomical Society, Volume 466, Issue 4, p.4558-4567, 466, 4558. 
+
+Raiteri, C. M., et al., 2017, Synchrotron emission from the blazar PG 1553+113. An analysis of its flux and polarization variability, Monthly Notices of the Royal Astronomical Society, Volume 466, Issue 3, p.3762-3774, 466, 3762. 
+
+Bhardwaj, A., et al., 2017, A comparative study of multiwavelength theoretical and observed light curves of Cepheid variables, Monthly Notices of the Royal Astronomical Society, Volume 466, Issue 3, p.2805-2824, 466, 2805. 
+
+Coulson, I. M., et al., 2017, JCMT Spectral and Continuum Imaging of Comet 252P/LINEAR, The Astronomical Journal, Volume 153, Issue 4, article id. 169, 14 pp. (2017)., 153, 169. 
+
+Bhardwaj, A., et al., 2017, Large Magellanic Cloud Near-infrared Synoptic Survey. IV. Leavitt Laws for Type II Cepheid Variables, The Astronomical Journal, Volume 153, Issue 4, article id. 154, 16 pp. (2017)., 153, 154. 
+
+Perna, D., et al., 2017, Multivariate statistical analysis of OSIRIS/Rosetta spectrophotometric data of comet 67P/Churyumov-Gerasimenko, Astronomy &amp; Astrophysics, Volume 600, id.A115, 9 pp., 600, A115. 
+
+Huang, J. C., et al., 2017, An Adaptive Homomorphic Aperture Photometry Algorithm for Merging Galaxies, Publications of the Astronomical Society of the Pacific, Volume 129, Issue 973, pp. 034001 (2017)., 129, 034001. 
+
+Pajola, M., et al., 2017, The pristine interior of comet 67P revealed by the combined Aswan outburst and cliff collapse, Nature Astronomy, Volume 1, id. 0092 (2017)., 1, 0092. 
+
+Masoumzadeh, N., et al., 2017, Opposition effect on comet 67P/Churyumov-Gerasimenko using Rosetta-OSIRIS images, Astronomy &amp; Astrophysics, Volume 599, id.A11, 8 pp., 599, A11. 
+
+Griv, E., et al., 2017, The nearby spiral density-wave structure of the Galaxy: line-of-sight and longitudinal velocities of 223 Cepheids, Monthly Notices of the Royal Astronomical Society, Volume 464, Issue 4, p.4495-4508, 464, 4495. 
+
+Chernyshov, D. O., et al., 2017, Origin of X-Ray and Gamma-Ray Emission from the Galactic Central Region, The Astrophysical Journal, Volume 835, Issue 2, article id. 194, 11 pp. (2017)., 835, 194. 
+
+Gezari, S., et al., 2017, iPTF Discovery of the Rapid “Turn-on” of a Luminous Quasar, The Astrophysical Journal, Volume 835, Issue 2, article id. 144, 11 pp. (2017)., 835, 144. 
+
+El-Maarry, M. R., et al., 2017, Regional surface morphology of comet 67P/Churyumov-Gerasimenko from Rosetta/OSIRIS images: The southern hemisphere (Corrigendum), Astronomy &amp; Astrophysics, Volume 598, id.C2, 5 pp., 598, C2. 
+
+Ngeow, C.-C., et al., 2017, Period-Color and Amplitude-Color Relations at Maximum and Minimum Light for RR Lyrae Stars in the SDSS Stripe 82 Region, The Astrophysical Journal, Volume 834, Issue 2, article id. 160, 12 pp. (2017)., 834, 160. 
+
+Chang, H.-Y., et al., 2017, LAMOST Observations of Flaring M Dwarfs in the Kepler Field, The Astrophysical Journal, Volume 834, Issue 1, article id. 92, 7 pp. (2017)., 834, 92. 
+
