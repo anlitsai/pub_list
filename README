@@ -20,6 +20,9 @@ adsurl
 %l, \n%Y, \n%T, \n%q, \n%V, %p.  \n%u \n
 
 %l, \n%F, \n%Y, \n%T, \n%Q, \n%V, %p.  \n%u \n
+%l, \t%F, \t%Y, \t%T, \t%Q, \t%V, %p.  \t%u \n
+export-custom_all.txt
+
 
 
 %F
