@@ -258,6 +258,7 @@ if os.path.exists(file_pub):
 f_pub=open(file_pub,'w')
 
 for i in range(n_paper):
+    print(i)
     paper_url=col_url[i]
     list_author_in1paper=col_author[i][:-1].split('., ',-1)
     n_author_in1paper=col_author_number[i]
@@ -283,7 +284,7 @@ for i in range(n_paper):
  
     if n_author_in1paper==1:
 #        print("1")
-        author=str(author1)        
+        author=author1
         print(paper_affi_AA)
         print(author1)
         print(author)
@@ -296,7 +297,7 @@ for i in range(n_paper):
             print("AB")
         else:
             author2=author2+'.'
-        author=author1+". and "+author2
+        author=author1+" and "+author2
         print(paper_affi_AA)
         print(author1,author2)
         print(author)
@@ -324,8 +325,24 @@ for i in range(n_paper):
 #        print(">3")
 #        author_NCU=""
         author1=list_author_in1paper[0]
+        if "AA" in paper_NCU_AA:
+            author1='{'+author1+'.}'
+            print("AA")
+        else:
+            author1=author1+'.'
         author2=list_author_in1paper[1]
-        author3=list_author_in1paper[2]      
+        if "AB" in paper_NCU_AA:
+            author2='{'+author2+'.}'
+            print("AB")
+        else:
+            author2=author2+'.'
+        author3=list_author_in1paper[2]
+        if "AC" in paper_NCU_AA:
+            author3='{'+author3+'.}'                
+            print("AC")
+        else:
+            author3=author3+'.'
+        author123=author1+", "+author2+", "+author3
         
         # NCU author after the 3rd authorship
 #        author_NCU=""
@@ -335,37 +352,37 @@ for i in range(n_paper):
         #list_more_NCU_author=[]
         author_kk=""
         if col_NCU_author4_number[i]==0:
-            author=str(author1)+".,"+str(author2)+","+str(author3)+"., and et al."
+#            author=str(author1)+", "+str(author2)+", "+str(author3)+", and et al."
+            author=author123+", and et al."
             print(author)
             print(paper_url+"\n")
 
         elif col_NCU_author4_number[i]==1:
             author_k1=col_NCU_author4[i][0]
             author4=str(author_k1)
-            author=str(author1)+","+str(author2)+","+str(author3)+"., and et al. (including "+str(author4)+". from NCU)"
-            author=author.replace('.. from','. from')            
+#            author=str(author1)+", "+str(author2)+", "+str(author3)+", and et al. (including "+str(author4)+" from NCU)"
+            author=author123+", and et al. (including "+str(author4)+" from NCU)"
+#            author=author.replace('.. from','. from')            
             print(author)            
             print(paper_url+"\n")
 
         else:
             author_k1=col_NCU_author4[i][0]
             for k in col_NCU_author4_idx[i][1:]:                
-                author_k2=col_author[i].split("., ",-1)[k]
-                author_kk=author_kk+"., "+author_k2            
+                author_k2=col_author[i].split(", ",-1)[k]
+                author_kk=author_kk+", "+author_k2            
             author4=str(author_k1)+str(author_kk)
-            author=str(author1)+", "+str(author2)+", "+str(author3)+"., and et al. (including "+str(author4)+". from NCU)"            
+#            author=str(author1)+", "+str(author2)+", "+str(author3)+", and et al. (including "+str(author4)+" from NCU)"
+            author=author123+", and et al. (including "+str(author4)+" from NCU)"            
             print(author)
             print(paper_url+"\n")
 
-    author=author.replace('..}','.}')
-    author=author.replace('..\n','.\n')
-#    author=author.replace('.. from','. from')
-    author=author.replace("(including NESS Collaboration. from NCU)","")
+#    author=author.replace("(including NESS Collaboration. from NCU)","")
     paper_journal=paper_journal.replace("&amp;","&")
     paper_journal=paper_journal.replace('Online at <A href="http://coolstars20.cfa.harvard.edu/">http://coolstars20.cfa.harvard.edu/</A>, cs20, id.8','')    
     paper_title=paper_title.replace("<SUB>","")
     paper_title=paper_title.replace("</SUB>","")
-    pub_info=author+'\n'+str(paper_year)+'\n'+paper_title+'\n'+paper_journal+'\n'+paper_url+'\n'+'\n'
+    pub_info=str(i)+'\n'+author+'\n'+str(paper_year)+'\n'+paper_title+'\n'+paper_journal+'\n'+paper_url+'\n\n'
     f_pub.write(pub_info)
 
 f_pub.close
