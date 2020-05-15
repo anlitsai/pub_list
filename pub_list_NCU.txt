@@ -1,1337 +1,955 @@
-0
-D'Ammando, F., Raiteri, C. M., Villata, M., and et al. (including Chen, W.-P, N. V., Kopatskaya from NCU)
-2019
+(1) D'Ammando, F., Raiteri, C. M., Villata, M., et al. (including {Chen, W.-P.}, {Lin, C. S.}, {Samal, M. R.} from NCU), 2019
+Monthly Notices of the Royal Astronomical Society, 490, 5300
 Investigating the multiwavelength behaviour of the flat spectrum radio quasar CTA 102 during 2013-2017
-Monthly Notices of the Royal Astronomical Society, Volume 490, Issue 4, p.5300-5316
 https://ui.adsabs.harvard.edu/abs/2019MNRAS.490.5300D
 
-1
-{Dharmawardena, T. E.}, Kemper, F., Srinivasan, S., and et al.
-2019
+(2) {Dharmawardena, T. E.}, Kemper, F., Srinivasan, S., et al., 2019
+IAU Symposium, 343, 383
 Stacking analysis of HERITAGE data to statistically study far-IR dust emission from evolved stars
-Why Galaxies Care About AGB Stars: A Continuing Challenge through Cosmic Time. Proceedings of the International Astronomical Union, Volume 343, pp. 383-384
 https://ui.adsabs.harvard.edu/abs/2019IAUS..343..383D
 
-2
-{Dharmawardena, T. E.}, Kemper, F., Scicluna, P., and et al. (including NESS Collaboration from NCU)
-2019
+(3) {Dharmawardena, T. E.}, Kemper, F., Scicluna, P., et al., 2019
+IAU Symposium, 343, 181
 Extended Dust Emission from Nearby Evolved stars
-Why Galaxies Care About AGB Stars: A Continuing Challenge through Cosmic Time. Proceedings of the International Astronomical Union, Volume 343, pp. 181-185
 https://ui.adsabs.harvard.edu/abs/2019IAUS..343..181D
 
-3
-Lucchetti, A., Penasa, L., Pajola, M., and et al. (including Ip, W.-H from NCU)
-2019
+(4) Lucchetti, A., Penasa, L., Pajola, M., et al. (including {Ip, W.-H.} from NCU), 2019
+Geophysical Research Letters, 46, 14,336
 The Rocky-Like Behavior of Cometary Landslides on 67P/Churyumov-Gerasimenko
-Geophysical Research Letters, Volume 46, Issue 24, pp. 14,336-14,346
 https://ui.adsabs.harvard.edu/abs/2019GeoRL..4614336L
 
-4
-Ho, A. Y. Q., Goldstein, D. A., Schulze, S., and et al. (including Ngeow, C.-C from NCU)
-2019
+(5) Ho, A. Y. Q., Goldstein, D. A., Schulze, S., et al. (including {Ngeow, C.-C.} from NCU), 2019
+The Astrophysical Journal, 887, 169
 Evidence for Late-stage Eruptive Mass Loss in the Progenitor to SN2018gep, a Broad-lined Ic Supernova: Pre-explosion Emission and a Rapidly Rising Luminous Transient
-The Astrophysical Journal, Volume 887, Issue 2, article id. 169, 24 pp. (2019).
 https://ui.adsabs.harvard.edu/abs/2019ApJ...887..169H
 
-5
-Deb, S., Kurbah, K., Singh, H. P., and et al. (including Ngeow, C.-C from NCU)
-2019
+(6) Deb, S., Kurbah, K., Singh, H. P., et al. (including {Ngeow, C.-C.} from NCU), 2019
+Monthly Notices of the Royal Astronomical Society, 489, 3725
 Morphology of the Small Magellanic Cloud using multiwavelength photometry of classical Cepheids
-Monthly Notices of the Royal Astronomical Society, Volume 489, Issue 3, p.3725-3738
 https://ui.adsabs.harvard.edu/abs/2019MNRAS.489.3725D
 
-6
-{Dharmawardena, T. E.}, Kemper, F., Wouterloot, J. G. A., and et al.
-2019
+(7) {Dharmawardena, T. E.}, Kemper, F., Wouterloot, J. G. A., et al., 2019
+Monthly Notices of the Royal Astronomical Society, 489, 3492
 The sub-mm variability of IRC+10216 and o Ceti
-Monthly Notices of the Royal Astronomical Society, Volume 489, Issue 3, p.3492-3505
 https://ui.adsabs.harvard.edu/abs/2019MNRAS.489.3492D
 
-7
-{Dharmawardena, T. E.}, Kemper, F., Srinivasan, S., and et al.
-2019
+(8) {Dharmawardena, T. E.}, Kemper, F., Srinivasan, S., et al., 2019
+Monthly Notices of the Royal Astronomical Society, 489, 3218
 The nearby evolved stars survey - I. JCMT/SCUBA-2 submillimetre detection of the detached shell of U Antliae
-Monthly Notices of the Royal Astronomical Society, Volume 489, Issue 3, p.3218-3231
 https://ui.adsabs.harvard.edu/abs/2019MNRAS.489.3218D
 
-8
-{Ip, W.-H.}, Lai, I.-L., and Shen, F.
-2019
+(9) {Ip, W.-H.}, Lai, I.-L., and Shen, F., 2019
+Journal of Physics Conference Series, 1332, 012007
 Nanodust in the Heliosphere
-Journal of Physics: Conference Series, Volume 1332, Issue 1, article id. 012007 (2019).
 https://ui.adsabs.harvard.edu/abs/2019JPhCS1332a2007I
 
-9
-Coughlin, M. W., Ahumada, T., Anand, S., and et al. (including Yu, P.-C, Dekany, S., S. from NCU)
-2019
+(10) Coughlin, M. W., Ahumada, T., Anand, S., et al. (including {Yu, P.-C.}, {Ngeow, C.-C.}, {Patil, A. S.}, {Tan, H.} from NCU), 2019
+The Astrophysical Journal, 885, L19
 GROWTH on S190425z: Searching Thousands of Square Degrees to Identify an Optical or Infrared Counterpart to a Binary Neutron Star Merger with the Zwicky Transient Facility and Palomar Gattini-IR
-The Astrophysical Journal Letters, Volume 885, Issue 1, article id. L19, 13 pp. (2019).
 https://ui.adsabs.harvard.edu/abs/2019ApJ...885L..19C
 
-10
-Chen, Y.-T., Gladman, B., Volk, K., and et al. (including Lin, H.-W from NCU)
-2019
+(11) Chen, Y.-T., Gladman, B., Volk, K., et al. (including {Lin, H.-W.} from NCU), 2019
+The Astronomical Journal, 158, 214
 OSSOS. XVIII. Constraining Migration Models with the 2:1 Resonance Using the Outer Solar System Origins Survey
-The Astronomical Journal, Volume 158, Issue 5, article id. 214, 17 pp. (2019).
 https://ui.adsabs.harvard.edu/abs/2019AJ....158..214C
 
-11
-Raiteri, C. M., Villata, M., Carnerero, M. I., and et al. (including Chen, W.-P, M. from NCU)
-2019
-The beamed jet and quasar core of the distant blazar 4C 71.07
-Monthly Notices of the Royal Astronomical Society, Volume 489, Issue 2, p.1837-1849
+(12) Raiteri, C. M., Villata, M., Carnerero, M. I., et al. (including {Chen, W.-P.}, {Samal, M. R.} from NCU), 2019
+Monthly Notices of the Royal Astronomical Society, 489, 1837
+The beamed jet and quasar core of the distant blazar 4C 717
 https://ui.adsabs.harvard.edu/abs/2019MNRAS.489.1837R
 
-12
-{Urata, Y.}, Toma, K., Huang, K., and et al.
-2019
+(13) {Urata, Y.}, Toma, K., Huang, K., et al., 2019
+The Astrophysical Journal, 884, L58
 First Detection of Radio Linear Polarization in a Gamma-Ray Burst Afterglow
-The Astrophysical Journal Letters, Volume 884, Issue 2, article id. L58, 7 pp. (2019).
 https://ui.adsabs.harvard.edu/abs/2019ApJ...884L..58U
 
-13
-Bhardwaj, A., Kanbur, S., He, S., and et al. (including Ngeow, C.-C, de Grijs from NCU)
-2019
+(14) Bhardwaj, A., Kanbur, S., He, S., et al. (including {Ngeow, C.-C.}, {Ou, J.-Y..} from NCU), 2019
+The Astrophysical Journal, 884, 20
 Multiwavelength Period-Luminosity and Period-Luminosity-Color Relations at Maximum Light for Mira Variables in the Magellanic Clouds
-The Astrophysical Journal, Volume 884, Issue 1, article id. 20, 14 pp. (2019).
 https://ui.adsabs.harvard.edu/abs/2019ApJ...884...20B
 
-14
-Tubiana, C., Rinaldi, G., Güttler, C., and et al. (including Ip, W.-H, De Cecco from NCU)
-2019
+(15) Tubiana, C., Rinaldi, G., Güttler, C., et al. (including {Ip, W.-H.}, {Lin, Z.-Y.} from NCU), 2019
+Astronomy and Astrophysics, 630, A23
 Diurnal variation of dust and gas production in comet 67P/Churyumov-Gerasimenko at the inbound equinox as seen by OSIRIS and VIRTIS-M on board Rosetta
-Astronomy & Astrophysics, Volume 630, id.A23, 14 pp.
 https://ui.adsabs.harvard.edu/abs/2019A&A...630A..23T
 
-15
-Lai, I.-L., {Ip, W.-H.}, Lee, J.-C., and et al. (including Lin, Z.-Y from NCU)
-2019
+(16) Lai, I.-L., {Ip, W.-H.}, Lee, J.-C., et al. (including {Lin, Z.-Y.} from NCU), 2019
+Astronomy and Astrophysics, 630, A17
 Seasonal variations in source regions of the dust jets on comet 67P/Churyumov-Gerasimenko
-Astronomy & Astrophysics, Volume 630, id.A17, 10 pp.
 https://ui.adsabs.harvard.edu/abs/2019A&A...630A..17L
 
-16
-Tognon, G., Ferrari, S., Penasa, L., and et al. (including Ip, W.-H from NCU)
-2019
+(17) Tognon, G., Ferrari, S., Penasa, L., et al. (including {Ip, W.-H.} from NCU), 2019
+Astronomy and Astrophysics, 630, A16
 Spectrophotometric variegation of the layering in comet 67P/Churyumov-Gerasimenko as seen by OSIRIS
-Astronomy & Astrophysics, Volume 630, id.A16, 12 pp.
 https://ui.adsabs.harvard.edu/abs/2019A&A...630A..16T
 
-17
-Cambianica, P., Cremonese, G., Naletto, G., and et al. (including Ip, W.-H, B. from NCU)
-2019
+(18) Cambianica, P., Cremonese, G., Naletto, G., et al. (including {Ip, W.-H.}, {Lin, Z.-Y.} from NCU), 2019
+Astronomy and Astrophysics, 630, A15
 Quantitative analysis of isolated boulder fields on comet 67P/Churyumov-Gerasimenko
-Astronomy & Astrophysics, Volume 630, id.A15, 15 pp.
 https://ui.adsabs.harvard.edu/abs/2019A&A...630A..15C
 
-18
-Fornasier, S., Feller, C., Hasselmann, P. H., and et al. (including Ip, W.-H from NCU)
-2019
+(19) Fornasier, S., Feller, C., Hasselmann, P. H., et al. (including {Ip, W.-H.} from NCU), 2019
+Astronomy and Astrophysics, 630, A13
 Surface evolution of the Anhur region on comet 67P/Churyumov-Gerasimenko from high-resolution OSIRIS images
-Astronomy & Astrophysics, Volume 630, id.A13, 18 pp.
 https://ui.adsabs.harvard.edu/abs/2019A&A...630A..13F
 
-19
-Masoumzadeh, N., Kolokolova, L., Tubiana, C., and et al. (including Ip, W.-H from NCU)
-2019
+(20) Masoumzadeh, N., Kolokolova, L., Tubiana, C., et al. (including {Ip, W.-H.} from NCU), 2019
+Astronomy and Astrophysics, 630, A11
 Phase-curve analysis of comet 67P/Churyumov-Gerasimenko at small phase angles
-Astronomy & Astrophysics, Volume 630, id.A11, 10 pp.
 https://ui.adsabs.harvard.edu/abs/2019A&A...630A..11M
 
-20
-Feller, C., Fornasier, S., Ferrari, S., and et al. (including Ip, W.-H from NCU)
-2019
+(21) Feller, C., Fornasier, S., Ferrari, S., et al. (including {Ip, W.-H.} from NCU), 2019
+Astronomy and Astrophysics, 630, A9
 Rosetta/OSIRIS observations of the 67P nucleus during the April 2016 flyby: high-resolution spectrophotometry
-Astronomy & Astrophysics, Volume 630, id.A9, 20 pp.
 https://ui.adsabs.harvard.edu/abs/2019A&A...630A...9F
 
-21
-Hasselmann, P. H., Barucci, M. A., Fornasier, S., and et al. (including Ip, W.-H from NCU)
-2019
+(22) Hasselmann, P. H., Barucci, M. A., Fornasier, S., et al. (including {Ip, W.-H.} from NCU), 2019
+Astronomy and Astrophysics, 630, A8
 Pronounced morphological changes in a southern active zone on comet 67P/Churyumov-Gerasimenko
-Astronomy & Astrophysics, Volume 630, id.A8, 19 pp.
 https://ui.adsabs.harvard.edu/abs/2019A&A...630A...8H
 
-22
-Kelley, M. S. P., Bodewits, D., Ye, Q., and et al. (including Ngeow, C.-C from NCU)
-2019
+(23) Kelley, M. S. P., Bodewits, D., Ye, Q., et al. (including {Ngeow, C.-C.} from NCU), 2019
+Research Notes of the American Astronomical Society, 3, 126
 Outbursts at Comets 46P/Wirtanen, 64P/Swift-Gehrels, and 78P/Gehrels 2 in 2018
-Research Notes of the American Astronomical Society, Volume 3, Issue 9, article id. 126 (2019).
 https://ui.adsabs.harvard.edu/abs/2019RNAAS...3..126K
 
-23
-Sato, S., {Chieh Huang, P.}, {Chen, W. P.}, and et al. (including Eswaraiah, C, W. P., Zenno, T. from NCU)
-2019
+(24) Sato, S., {Chieh Huang, P.}, {Chen, W. P.}, et al. (including {Eswaraiah, C.}, {Su, B. H.}, {Abe, S.}, {Kinoshita, D.} from NCU), 2019
+Research in Astronomy and Astrophysics, 19, 136
 Triple Range Imager and POLarimeter (TRIPOL)—a compact and economical optical imaging polarimeter for small telescopes
-Research in Astronomy and Astrophysics, Volume 19, Issue 9, article id. 136 (2019).
 https://ui.adsabs.harvard.edu/abs/2019RAA....19..136S
 
-24
-{Tian, Y.} and {Ko, C.-M.}
-2019
+(25) {Tian, Y.} and {Ko, C.-M.}, 2019
+Monthly Notices of the Royal Astronomical Society, 488, L41
 Halo acceleration relation
-Monthly Notices of the Royal Astronomical Society: Letters, Volume 488, Issue 1, p.L41-L46
 https://ui.adsabs.harvard.edu/abs/2019MNRAS.488L..41T
 
-25
-Yu, L., {Huen Ip, W.}, and Spohn, T.
-2019
+(26) Yu, L., {Huen Ip, W.}, and Spohn, T., 2019
+EPSC-DPS Joint Meeting 2019, 2019, EPSC-DPS2019-1502
 Can a cometary mechanism explain the activity of the Geminids Parent (3200) Phaethon?
-EPSC-DPS Joint Meeting 2019, held 15-20 September 2019 in Geneva, Switzerland, id. EPSC-DPS2019-1502
 https://ui.adsabs.harvard.edu/abs/2019EPSC...13.1502Y
 
-26
-Yu, L. L. and {Huen Ip, W.}
-2019
+(27) Yu, L. L. and {Huen Ip, W.}, 2019
+EPSC-DPS Joint Meeting 2019, 2019, EPSC-DPS2019-1421
 Constraints on the activity of MBC 133P/Elst-Pizarro from a thermophysical perspective
-EPSC-DPS Joint Meeting 2019, held 15-20 September 2019 in Geneva, Switzerland, id. EPSC-DPS2019-1421
 https://ui.adsabs.harvard.edu/abs/2019EPSC...13.1421Y
 
-27
-Yu, L. L., {Huen Ip, W.}, and Spohn, T.
-2019
+(28) Yu, L. L., {Huen Ip, W.}, and Spohn, T., 2019
+EPSC-DPS Joint Meeting 2019, 2019, EPSC-DPS2019-1398
 Dust-ice two layer model for volatile Sublimation and Condensation on Icy Small Bodies
-EPSC-DPS Joint Meeting 2019, held 15-20 September 2019 in Geneva, Switzerland, id. EPSC-DPS2019-1398
 https://ui.adsabs.harvard.edu/abs/2019EPSC...13.1398Y
 
-28
-Lehner, M., Wang, S.-Y., Reyes-Ruiz, M., and et al. (including Chen, W.-P from NCU)
-2019
+(29) Lehner, M., Wang, S.-Y., Reyes-Ruiz, M., et al. (including {Chen, W.-P.} from NCU), 2019
+EPSC-DPS Joint Meeting 2019, 2019, EPSC-DPS2019-1089
 Status of the Transneptunian Automated Occultation Survey (TAOS II)
-EPSC-DPS Joint Meeting 2019, held 15-20 September 2019 in Geneva, Switzerland, id. EPSC-DPS2019-1089
 https://ui.adsabs.harvard.edu/abs/2019EPSC...13.1089L
 
-29
-Lai, I.-L., Rubin, M., Wu, J.-S., and et al. (including Ip, W.-H. from NCU)
-2019
+(30) Lai, I.-L., Rubin, M., Wu, J.-S., et al. (including {Ip, W.-H..} from NCU), 2019
+EPSC-DPS Joint Meeting 2019, 2019, EPSC-DPS2019-575
 DSMC Simulation of Europa's Gas Plume
-EPSC-DPS Joint Meeting 2019, held 15-20 September 2019 in Geneva, Switzerland, id. EPSC-DPS2019-575
 https://ui.adsabs.harvard.edu/abs/2019EPSC...13..575L
 
-30
-{Koptelova, E.}, {Hwang, C.-Y.}, Malkan, M. A., and et al. (including Yu, P.-C. from NCU)
-2019
+(31) {Koptelova, E.}, {Hwang, C.-Y.}, Malkan, M. A., et al. (including {Yu, P.-C..} from NCU), 2019
+The Astrophysical Journal, 882, 144
 Rapidly Accreting Black Hole of the Lyα-luminous Quasar PSOJ006.1240+39.2219
-The Astrophysical Journal, Volume 882, Issue 2, article id. 144, 11 pp. (2019).
 https://ui.adsabs.harvard.edu/abs/2019ApJ...882..144K
 
-31
-Ohmori, N., Yamaoka, K., Yamauchi, M., and et al. (including Urata, Y from NCU)
-2019
+(32) Ohmori, N., Yamaoka, K., Yamauchi, M., et al. (including {Urata, Y.} from NCU), 2019
+Publications of the Astronomical Society of Japan, 71, 76
 Spectral properties of gamma-ray bursts observed by the Suzaku wide-band all-sky monitor
-Publications of the Astronomical Society of Japan, Volume 71, Issue 4, id.76
 https://ui.adsabs.harvard.edu/abs/2019PASJ...71...76O
 
-32
-{Koptelova, E.} and {Hwang, C.-Y.}
-2019
+(33) {Koptelova, E.} and {Hwang, C.-Y.}, 2019
+The Astrophysical Journal, 880, L19
 A Luminous Molecular Gas Pair beyond Redshift 7
-The Astrophysical Journal Letters, Volume 880, Issue 2, article id. L19, 5 pp. (2019).
 https://ui.adsabs.harvard.edu/abs/2019ApJ...880L..19K
 
-33
-{Liu, P.-Y.} and {Ip, W.-H.}
-2019
+(34) {Liu, P.-Y.} and {Ip, W.-H.}, 2019
+The Astrophysical Journal, 880, 71
 An Investigation on the Origin of Centaurs’ Color-Inclination Relation
-The Astrophysical Journal, Volume 880, Issue 2, article id. 71, 15 pp. (2019).
 https://ui.adsabs.harvard.edu/abs/2019ApJ...880...71L
 
-34
-Ye, Q., Masci, F. J., {Lin, H. W.}, and et al. (including Chang, C.-K, B., D. A., W.-H. from NCU)
-2019
+(35) Ye, Q., Masci, F. J., {Lin, H. W.}, et al. (including {Chang, C.-K.}, {Ip, W.-H.}, {Ngeow, C.-C.}, {Yeh, T.-S.} from NCU), 2019
+Publications of the Astronomical Society of the Pacific, 131, 078002
 Toward Efficient Detection of Small Near-Earth Asteroids Using the Zwicky Transient Facility (ZTF)
-Publications of the Astronomical Society of the Pacific, Volume 131, Issue 1001, pp. 078002 (2019).
 https://ui.adsabs.harvard.edu/abs/2019PASP..131g8002Y
 
-35
-Graham, M. J., Kulkarni, S. R., Bellm, E. C., and et al. (including Chang, C.-K, Franckowiak, A., S., D., Rauch from NCU)
-2019
+(36) Graham, M. J., Kulkarni, S. R., Bellm, E. C., et al. (including {Chang, C.-K.}, {Lee, C.-D.}, {Lin, H. W.}, {Ngeow, C.-C.}, {Yu, P.-C.}, {Ip, W.-H.} from NCU), 2019
+Publications of the Astronomical Society of the Pacific, 131, 078001
 The Zwicky Transient Facility: Science Objectives
-Publications of the Astronomical Society of the Pacific, Volume 131, Issue 1001, pp. 078001 (2019).
 https://ui.adsabs.harvard.edu/abs/2019PASP..131g8001G
 
-36
-Bhardwaj, A., Panwar, N., Herczeg, G. J., and et al. (including Chen, W. P from NCU)
-2019
+(37) Bhardwaj, A., Panwar, N., Herczeg, G. J., et al. (including {Chen, W. P.} from NCU), 2019
+Astronomy and Astrophysics, 627, A135
 Variability of young stellar objects in the star-forming region Pelican Nebula
-Astronomy & Astrophysics, Volume 627, id.A135, 16 pp.
 https://ui.adsabs.harvard.edu/abs/2019A&A...627A.135B
 
-37
-Bellm, E. C., Kulkarni, S. R., Barlow, T., and et al. (including Ngeow, C.-C from NCU)
-2019
+(38) Bellm, E. C., Kulkarni, S. R., Barlow, T., et al. (including {Ngeow, C.-C.} from NCU), 2019
+Publications of the Astronomical Society of the Pacific, 131, 068003
 The Zwicky Transient Facility: Surveys and Scheduler
-Publications of the Astronomical Society of the Pacific, Volume 131, Issue 1000, pp. 068003 (2019).
 https://ui.adsabs.harvard.edu/abs/2019PASP..131f8003B
 
-38
-Castro-Chacón, J. H., Reyes-Ruiz, M., Lehner, M. J., and et al. (including Chen, W.-P, Salinas-Luna from NCU)
-2019
+(39) Castro-Chacón, J. H., Reyes-Ruiz, M., Lehner, M. J., et al. (including {Chen, W.-P.}, {Huang, C.-K.} from NCU), 2019
+Publications of the Astronomical Society of the Pacific, 131, 064401
 Occultations by Small Non-spherical Trans-Neptunian Objects. I. A New Event Simulator for TAOS II
-Publications of the Astronomical Society of the Pacific, Volume 131, Issue 1000, pp. 064401 (2019).
 https://ui.adsabs.harvard.edu/abs/2019PASP..131f4401C
 
-39
-Huang, K., Shimoda, J., {Urata, Y.}, and et al.
-2019
+(40) Huang, K., Shimoda, J., {Urata, Y.}, et al., 2019
+The Astrophysical Journal, 878, L25
 ALMA Polarimetry of AT2018cow
-The Astrophysical Journal Letters, Volume 878, Issue 1, article id. L25, 5 pp. (2019).
 https://ui.adsabs.harvard.edu/abs/2019ApJ...878L..25H
 
-40
-Hsu, J.-K. and {Ip, W.-H.}
-2019
+(41) Hsu, J.-K. and {Ip, W.-H.}, 2019
+The Astrophysical Journal, 878, 3
 Estimates of the Atmospheric Escape Rates of CH4 from Titan
-The Astrophysical Journal, Volume 878, Issue 1, article id. 3, 8 pp. (2019).
 https://ui.adsabs.harvard.edu/abs/2019ApJ...878....3H
 
-41
-Coudé, S., Bastien, P., Houde, M., and et al. (including Chen, W. P from NCU)
-2019
+(42) Coudé, S., Bastien, P., Houde, M., et al. (including {Chen, W. P.} from NCU), 2019
+The Astrophysical Journal, 877, 88
 The JCMT BISTRO Survey: The Magnetic Field of the Barnard 1 Star-forming Region
-The Astrophysical Journal, Volume 877, Issue 2, article id. 88, 17 pp. (2019).
 https://ui.adsabs.harvard.edu/abs/2019ApJ...877...88C
 
-42
-Luo, T., Liang, Y., and {IP, W.-H.}
-2019
+(43) Luo, T., Liang, Y., and {IP, W.-H.}, 2019
+The Astronomical Journal, 157, 238
 Efficient Starspot Reconstruction via Light-curve Inversion with Bipartite Regularization
-The Astronomical Journal, Volume 157, Issue 6, article id. 238, 8 pp. (2019).
 https://ui.adsabs.harvard.edu/abs/2019AJ....157..238L
 
-43
-{Chen, Y.-C.} and {Hwang, C.-Y.}
-2019
+(44) {Chen, Y.-C.} and {Hwang, C.-Y.}, 2019
+Monthly Notices of the Royal Astronomical Society, 485, 3402
 Emission line luminosity distributions of Seyfert 2 galaxies
-Monthly Notices of the Royal Astronomical Society, Volume 485, Issue 3, p.3402-3408
 https://ui.adsabs.harvard.edu/abs/2019MNRAS.485.3402C
 
-44
-Eden, D. J., Liu, T., Kim, K.-T., and et al. (including Samal, M. R, Samal from NCU)
-2019
+(45) Eden, D. J., Liu, T., Kim, K.-T., et al. (including {Samal, M. R.}, {Chen, W.-P.} from NCU), 2019
+Monthly Notices of the Royal Astronomical Society, 485, 2895
 SCOPE: SCUBA-2 Continuum Observations of Pre-protostellar Evolution - survey description and compact source catalogue
-Monthly Notices of the Royal Astronomical Society, Volume 485, Issue 2, p.2895-2908
 https://ui.adsabs.harvard.edu/abs/2019MNRAS.485.2895E
 
-45
-Liu, J., Qiu, K., Berry, D., and et al. (including Chen, W. P from NCU)
-2019
+(46) Liu, J., Qiu, K., Berry, D., et al. (including {Chen, W. P.} from NCU), 2019
+The Astrophysical Journal, 877, 43
 The JCMT BISTRO Survey: The Magnetic Field in the Starless Core ρ Ophiuchus C
-The Astrophysical Journal, Volume 877, Issue 1, article id. 43, 17 pp. (2019).
 https://ui.adsabs.harvard.edu/abs/2019ApJ...877...43L
 
-46
-Tang, S.-Y., Pang, X., Yuan, Z., and et al. (including Chen, W. P from NCU)
-2019
+(47) Tang, S.-Y., Pang, X., Yuan, Z., et al. (including {Chen, W. P.} from NCU), 2019
+The Astrophysical Journal, 877, 12
 Discovery of Tidal Tails in Disrupting Open Clusters: Coma Berenices and a Neighbor Stellar Group
-The Astrophysical Journal, Volume 877, Issue 1, article id. 12, 12 pp. (2019).
 https://ui.adsabs.harvard.edu/abs/2019ApJ...877...12T
 
-47
-Wang, J.-W., Lai, S.-P., Eswaraiah, C., and et al. (including Chen, W. P from NCU)
-2019
+(48) Wang, J.-W., Lai, S.-P., Eswaraiah, C., et al. (including {Chen, W. P.} from NCU), 2019
+The Astrophysical Journal, 876, 42
 JCMT BISTRO Survey: Magnetic Fields within the Hub-filament Structure in IC 5146
-The Astrophysical Journal, Volume 876, Issue 1, article id. 42, 19 pp. (2019).
 https://ui.adsabs.harvard.edu/abs/2019ApJ...876...42W
 
-48
-Ye, Q., Kelley, M. S. P., Bodewits, D., and et al. (including Lin, Z.-Y from NCU)
-2019
+(49) Ye, Q., Kelley, M. S. P., Bodewits, D., et al. (including {Lin, Z.-Y.} from NCU), 2019
+The Astrophysical Journal, 874, L16
 Multiple Outbursts of Asteroid (6478) Gault
-The Astrophysical Journal Letters, Volume 874, Issue 2, article id. L16, 8 pp. (2019).
 https://ui.adsabs.harvard.edu/abs/2019ApJ...874L..16Y
 
-49
-Bhattacharya, S., Vaidya, K., {Chen, W. P.}, and et al.
-2019
+(50) Bhattacharya, S., Vaidya, K., {Chen, W. P.}, et al., 2019
+Astronomy and Astrophysics, 624, A26
 The blue straggler population of the old open cluster Berkeley 17
-Astronomy & Astrophysics, Volume 624, id.A26, 6 pp.
 https://ui.adsabs.harvard.edu/abs/2019A&A...624A..26B
 
-50
-Mahabal, A., Rebbapragada, U., Walters, R., and et al. (including Chang, C.-K, E. C. from NCU)
-2019
+(51) Mahabal, A., Rebbapragada, U., Walters, R., et al. (including {Chang, C.-K.}, {Lin, H. W.} from NCU), 2019
+Publications of the Astronomical Society of the Pacific, 131, 038002
 Machine Learning for the Zwicky Transient Facility
-Publications of the Astronomical Society of the Pacific, Volume 131, Issue 997, pp. 038002 (2019).
 https://ui.adsabs.harvard.edu/abs/2019PASP..131c8002M
 
-51
-Perley, D. A., Mazzali, P. A., Yan, L., and et al. (including Ngeow, C.-C, Hung from NCU)
-2019
+(52) Perley, D. A., Mazzali, P. A., Yan, L., et al. (including {Ngeow, C.-C.}, {Yu, P.-C..} from NCU), 2019
+Monthly Notices of the Royal Astronomical Society, 484, 1031
 The fast, luminous ultraviolet transient AT2018cow: extreme supernova, or disruption of a star by an intermediate-mass black hole?
-Monthly Notices of the Royal Astronomical Society, Volume 484, Issue 1, p.1031-1049
 https://ui.adsabs.harvard.edu/abs/2019MNRAS.484.1031P
 
-52
-{Chang, C.-K.}, {Lin, H.-W.}, {Ip, W.-H.}, and et al. (including Chen, W.-P, Ip from NCU)
-2019
+(53) {Chang, C.-K.}, {Lin, H.-W.}, {Ip, W.-H.}, et al. (including {Chen, W.-P.}, {Yeh, T.-S.} from NCU), 2019
+The Astrophysical Journal Supplement Series, 241, 6
 Searching for Super-fast Rotators Using the Pan-STARRS 1
-The Astrophysical Journal Supplement Series, Volume 241, Issue 1, article id. 6, 15 pp. (2019).
 https://ui.adsabs.harvard.edu/abs/2019ApJS..241....6C
 
-53
-{Lin, C.-L.}, {Ip, W.-H.}, {Hou, W.-C.}, and et al. (including Huang, L.-C, Hou from NCU)
-2019
+(54) {Lin, C.-L.}, {Ip, W.-H.}, {Hou, W.-C.}, et al. (including {Huang, L.-C.}, {Chang, H.-Y..} from NCU), 2019
+The Astrophysical Journal, 873, 97
 A Comparative Study of the Magnetic Activities of Low-mass Stars from M-type to G-type
-The Astrophysical Journal, Volume 873, Issue 1, article id. 97, 21 pp. (2019).
 https://ui.adsabs.harvard.edu/abs/2019ApJ...873...97L
 
-54
-Matonti, C., Attree, N., Groussin, O., and et al. (including Ip, W.-H from NCU)
-2019
+(55) Matonti, C., Attree, N., Groussin, O., et al. (including {Ip, W.-H.} from NCU), 2019
+Nature Geoscience, 12, 157
 Bilobate comet morphology and internal structure controlled by shear deformation
-Nature Geoscience, Volume 12, Issue 3, p.157-162
 https://ui.adsabs.harvard.edu/abs/2019NatGe..12..157M
 
-55
-{Huang, P. C.}, {Chen, W. P.}, Mugrauer, M., and et al. (including Hsiao, H. Y, R., Garai from NCU)
-2019
+(56) {Huang, P. C.}, {Chen, W. P.}, Mugrauer, M., et al. (including {Hsiao, H. Y.}, {Lin, C. S.}, {Lin, H. C.} from NCU), 2019
+The Astrophysical Journal, 871, 183
 Diagnosing the Clumpy Protoplanetary Disk of the UXor Type Young Star GM Cephei
-The Astrophysical Journal, Volume 871, Issue 2, article id. 183, 12 pp. (2019).
 https://ui.adsabs.harvard.edu/abs/2019ApJ...871..183H
 
-56
-Masci, F. J., Laher, R. R., Rusholme, B., and et al. (including Lin, H.-W from NCU)
-2019
+(57) Masci, F. J., Laher, R. R., Rusholme, B., et al. (including {Lin, H.-W.} from NCU), 2019
+Publications of the Astronomical Society of the Pacific, 131, 018003
 The Zwicky Transient Facility: Data Processing, Products, and Archive
-Publications of the Astronomical Society of the Pacific, Volume 131, Issue 995, pp. 018003 (2019).
 https://ui.adsabs.harvard.edu/abs/2019PASP..131a8003M
 
-57
-Bellm, E. C., Kulkarni, S. R., Graham, M. J., and et al. (including Chang, C.-K, Cunningham, Feeney, M., Feindt, Fremling, D. from NCU)
-2019
+(58) Bellm, E. C., Kulkarni, S. R., Graham, M. J., et al. (including {Chang, C.-K.}, {Ip, W.-H.}, {Lee, C.-D.}, {Lin, H. W.}, {Lin, Z.-Y.}, {Ngeow, C.-C.}, {Yu, P.-C.} from NCU), 2019
+Publications of the Astronomical Society of the Pacific, 131, 018002
 The Zwicky Transient Facility: System Overview, Performance, and First Results
-Publications of the Astronomical Society of the Pacific, Volume 131, Issue 995, pp. 018002 (2019).
 https://ui.adsabs.harvard.edu/abs/2019PASP..131a8002B
 
-58
-Griv, E., Jiang, I.-G., Hou, L.-G., and et al. (including Ngeow, C.-C. from NCU)
-2019
+(59) Griv, E., Jiang, I.-G., Hou, L.-G., et al. (including {Ngeow, C.-C..} from NCU), 2019
+New Astronomy, 66, 1
 The Lin-Shu type density-wave structure of the Galaxy: Line-of-sight velocities of selected 37354 RAVE DR5 stars
-New Astronomy, Volume 66, p. 1-8.
 https://ui.adsabs.harvard.edu/abs/2019NewA...66....1G
 
-59
-Yu, L. L., {Ip, W. H.}, and Spohn, T.
-2019
+(60) Yu, L. L., {Ip, W. H.}, and Spohn, T., 2019
+Monthly Notices of the Royal Astronomical Society, 482, 4243
 What mechanisms dominate the activity of Geminid Parent (3200) Phaethon?
-Monthly Notices of the Royal Astronomical Society, Volume 482, Issue 3, p.4243-4252
 https://ui.adsabs.harvard.edu/abs/2019MNRAS.482.4243Y
 
-60
-Bertini, I., La Forgia, F., Fulle, M., and et al. (including Ip, W.-H from NCU)
-2019
+(61) Bertini, I., La Forgia, F., Fulle, M., et al. (including {Ip, W.-H.} from NCU), 2019
+Monthly Notices of the Royal Astronomical Society, 482, 2924
 The backscattering ratio of comet 67P/Churyumov-Gerasimenko dust coma as seen by OSIRIS onboard Rosetta
-Monthly Notices of the Royal Astronomical Society, Volume 482, Issue 3, p.2924-2933
 https://ui.adsabs.harvard.edu/abs/2019MNRAS.482.2924B
 
-61
-Puspitarini, L., Lallement, R., {Chen, H.-C.}, and et al.
-2019
+(62) Puspitarini, L., Lallement, R., {Chen, H.-C.}, et al., 2019
+Journal of Physics Conference Series, 1127, 012046
 Extracting diffuse interstellar bands from cool star spectra: tracing Galactic ISM structures, kinematics, and properties
-Journal of Physics: Conference Series, Volume 1127, Issue 1, article id. 012046 (2019).
 https://ui.adsabs.harvard.edu/abs/2019JPhCS1127a2046P
 
-62
-Mairs, S., {Lalchand, B.}, Bower, G. C., and et al. (including Chen, W.-P from NCU)
-2019
+(63) Mairs, S., {Lalchand, B.}, Bower, G. C., et al. (including {Chen, W.-P.} from NCU), 2019
+The Astrophysical Journal, 871, 72
 The JCMT Transient Survey: An Extraordinary Submillimeter Flare in the T Tauri Binary System JW 566
-The Astrophysical Journal, Volume 871, Issue 1, article id. 72, 9 pp. (2019).
 https://ui.adsabs.harvard.edu/abs/2019ApJ...871...72M
 
-63
-Wei, C.-E., Nomura, H., Lee, J.-E., and et al. (including Ip, W.-H from NCU)
-2019
+(64) Wei, C.-E., Nomura, H., Lee, J.-E., et al. (including {Ip, W.-H.} from NCU), 2019
+The Astrophysical Journal, 870, 129
 The Effect of Carbon Grain Destruction on the Chemical Structure of Protoplanetary Disks
-The Astrophysical Journal, Volume 870, Issue 2, article id. 129, 21 pp. (2019).
 https://ui.adsabs.harvard.edu/abs/2019ApJ...870..129W
 
-64
-{Lee, C.-D. C.}, {Ngeow, C.-C.}, {Yu, P.-C.}, and et al. (including Ou, J.-Y. from NCU)
-2019
+(65) {Lee, C.-D. C.}, {Ngeow, C.-C.}, {Yu, P.-C.}, et al. (including {Ou, J.-Y..} from NCU), 2019
+American Astronomical Society Meeting Abstracts #233, 233, 3731
 ZTF Observations of the Disk Formation and Dissipation Process in the Eruptive Be Star HO Puppis
-American Astronomical Society, AAS Meeting #233, id.373.01
 https://ui.adsabs.harvard.edu/abs/2019AAS...23337301L
 
-65
-{Lee, C.-D. C.}, {Eswaraiah, C.}, {Chen, W.-P.}, and et al.
-2019
+(66) {Lee, C.-D. C.}, {Eswaraiah, C.}, {Chen, W.-P.}, et al., 2019
+American Astronomical Society Meeting Abstracts #233, 233, 3175
 A Multicolor Study of Polarization Variability in Isolated B[e] Stars HD 45677 and HD 50138
-American Astronomical Society, AAS Meeting #233, id.317.05
 https://ui.adsabs.harvard.edu/abs/2019AAS...23331705L
 
-66
-Hasegawa, S., Kuroda, D., Kitazato, K., and et al. (including Hsiao, H.-Y, Choi, Fuse from NCU)
-2018
+(67) Hasegawa, S., Kuroda, D., Kitazato, K., et al. (including {Hsiao, H.-Y.}, {Kinoshita, D.}, {Lin, C.-S.} from NCU), 2018
+Publications of the Astronomical Society of Japan, 70, 114
 Physical properties of near-Earth asteroids with a low delta-v: Survey of target candidates for the Hayabusa2 mission
-Publications of the Astronomical Society of Japan, Volume 70, Issue 6, id.114
 https://ui.adsabs.harvard.edu/abs/2018PASJ...70..114H
 
-67
-Thomas, N., El Maarry, M. R., Theologou, P., and et al. (including Ip, W. H from NCU)
-2018
+(68) Thomas, N., El Maarry, M. R., Theologou, P., et al. (including {Ip, W. H.} from NCU), 2018
+Planetary and Space Science, 164, 19
 Regional unit definition for the nucleus of comet 67P/Churyumov-Gerasimenko on the SHAP7 model
-Planetary and Space Science, Volume 164, p. 19-36.
 https://ui.adsabs.harvard.edu/abs/2018P&SS..164...19T
 
-68
-Chen, Y.-C. and {Hwang, C.-Y.}
-2018
+(69) Chen, Y.-C. and {Hwang, C.-Y.}, 2018
+Astronomy Reports, 62, 853
 Morphology of Seyfert Galaxies
-Astronomy Reports, Volume 62, Issue 12, pp.853-858
 https://ui.adsabs.harvard.edu/abs/2018ARep...62..853C
 
-69
-Chen, T.-W., Inserra, C., Fraser, M., and et al. (including Ngeow, C.-C, Smartt, Benetti from NCU)
-2018
+(70) Chen, T.-W., Inserra, C., Fraser, M., et al. (including {Ngeow, C.-C.}, {Lin, Z.-Y.}, {Yu, P.-C..} from NCU), 2018
+The Astrophysical Journal, 867, L31
 SN 2017ens: The Metamorphosis of a Luminous Broadlined Type Ic Supernova into an SN IIn
-The Astrophysical Journal Letters, Volume 867, Issue 2, article id. L31, 8 pp. (2018).
 https://ui.adsabs.harvard.edu/abs/2018ApJ...867L..31C
 
-70
-{Chang, H.-Y.}, {Lin, C.-L.}, {Ip, W.-H.}, and et al. (including Huang, L.-C, Ip, W.-H. from NCU)
-2018
+(71) {Chang, H.-Y.}, {Lin, C.-L.}, {Ip, W.-H.}, et al. (including {Huang, L.-C.}, {Hou, W.-C.}, {Yu, P.-C.} from NCU), 2018
+The Astrophysical Journal, 867, 78
 Hyperflares of M Dwarfs
-The Astrophysical Journal, Volume 867, Issue 1, article id. 78, 9 pp. (2018).
 https://ui.adsabs.harvard.edu/abs/2018ApJ...867...78C
 
-71
-Moreno, F., Guirado, D., Muñoz, O., and et al. (including Ip, W.-H from NCU)
-2018
+(72) Moreno, F., Guirado, D., Muñoz, O., et al. (including {Ip, W.-H.} from NCU), 2018
+The Astronomical Journal, 156, 237
 Models of Rosetta/OSIRIS 67P Dust Coma Phase Function
-The Astronomical Journal, Volume 156, Issue 5, article id. 237, 7 pp. (2018).
 https://ui.adsabs.harvard.edu/abs/2018AJ....156..237M
 
-72
-Hsieh, H. H., Ishiguro, M., Kim, Y., and et al. (including Lin, Z.-Y from NCU)
-2018
+(73) Hsieh, H. H., Ishiguro, M., Kim, Y., et al. (including {Lin, Z.-Y.} from NCU), 2018
+The Astronomical Journal, 156, 223
 The 2016 Reactivations of the Main-belt Comets 238P/Read and 288P/(300163) 2006 VW139
-The Astronomical Journal, Volume 156, Issue 5, article id. 223, 18 pp. (2018).
 https://ui.adsabs.harvard.edu/abs/2018AJ....156..223H
 
-73
-Kim, M.-J., Lee, H.-J., Lee, S.-M., and et al. (including Lin, Z.-Y from NCU)
-2018
+(74) Kim, M.-J., Lee, H.-J., Lee, S.-M., et al. (including {Lin, Z.-Y.} from NCU), 2018
+Astronomy and Astrophysics, 619, A123
 Optical observations of NEA 3200 Phaethon (1983 TB) during the 2017 apparition
-Astronomy & Astrophysics, Volume 619, id.A123, 8 pp.
 https://ui.adsabs.harvard.edu/abs/2018A&A...619A.123K
 
-74
-Roussos, E., Kollmann, P., Krupp, N., and et al. (including Ip, W. H from NCU)
-2018
+(75) Roussos, E., Kollmann, P., Krupp, N., et al. (including {Ip, W. H.} from NCU), 2018
+Science, 362, aat1962
 A radiation belt of energetic protons located between Saturn and its rings
-Science, Volume 362, Issue 6410, id.aat1962 (2018).
 https://ui.adsabs.harvard.edu/abs/2018Sci...362.1962R
 
-75
-{Chang, C.-K.}, {Lin, H.-W.}, {Ip, W.-H.}, and et al. (including Chen, W.-P from NCU)
-2018
+(76) {Chang, C.-K.}, {Lin, H.-W.}, {Ip, W.-H.}, et al. (including {Chen, W.-P.} from NCU), 2018
+AAS/Division for Planetary Sciences Meeting Abstracts #50,  4013
 Searching for Super-Fast Rotators Using the Pan-STARRS 1
-American Astronomical Society, DPS meeting #50, id.401.03
 https://ui.adsabs.harvard.edu/abs/2018DPS....5040103C
 
-76
-Ferrari, S., Penasa, L., La Forgia, F., and et al. (including Ip, W.-H from NCU)
-2018
+(77) Ferrari, S., Penasa, L., La Forgia, F., et al. (including {Ip, W.-H.} from NCU), 2018
+Monthly Notices of the Royal Astronomical Society, 479, 1555
 The big lobe of 67P/Churyumov-Gerasimenko comet: morphological and spectrophotometric evidences of layering as from OSIRIS data
-Monthly Notices of the Royal Astronomical Society, Volume 479, Issue 2, p.1555-1568
 https://ui.adsabs.harvard.edu/abs/2018MNRAS.479.1555F
 
-77
-{Dharmawardena, T. E.}, Kemper, F., Scicluna, P., and et al.
-2018
+(78) {Dharmawardena, T. E.}, Kemper, F., Scicluna, P., et al., 2018
+Monthly Notices of the Royal Astronomical Society, 479, 536
 Extended Dust Emission from Nearby Evolved Stars
-Monthly Notices of the Royal Astronomical Society, Volume 479, Issue 1, p.536-552
 https://ui.adsabs.harvard.edu/abs/2018MNRAS.479..536D
 
-78
-Salinas, C. C. J. H., Chang, L. C., {Liang, M.-C.}, and et al.
-2018
+(79) Salinas, C. C. J. H., Chang, L. C., {Liang, M.-C.}, et al., 2018
+Journal of Geophysical Research (Space Physics), 123, 7581
 Solar Cycle Response of CO2 Over the Austral Winter Mesosphere and Lower Thermosphere Region
-Journal of Geophysical Research: Space Physics, Volume 123, Issue 9, pp. 7581-7597
 https://ui.adsabs.harvard.edu/abs/2018JGRA..123.7581S
 
-79
-Gerig, S.-B., Marschall, R., Thomas, N., and et al. (including Ip, W.-H from NCU)
-2018
+(80) Gerig, S.-B., Marschall, R., Thomas, N., et al. (including {Ip, W.-H.} from NCU), 2018
+Icarus, 311, 1
 On deviations from free-radial outflow in the inner coma of comet 67P/Churyumov-Gerasimenko
-Icarus, Volume 311, p. 1-22.
 https://ui.adsabs.harvard.edu/abs/2018Icar..311....1G
 
-80
-{Lee, C. D.}, {Eswaraiah, C.}, {Chen, W. P.}, and et al.
-2018
+(81) {Lee, C. D.}, {Eswaraiah, C.}, {Chen, W. P.}, et al., 2018
+The Astronomical Journal, 156, 115
 A Multicolor Study of Polarization Variability in Isolated B[e] Stars HD 45677 and HD 50138
-The Astronomical Journal, Volume 156, Issue 3, article id. 115, 11 pp. (2018).
 https://ui.adsabs.harvard.edu/abs/2018AJ....156..115L
 
-81
-{Samal, M. R.}, Deharveng, L., Zavagno, A., and et al.
-2018
+(82) {Samal, M. R.}, Deharveng, L., Zavagno, A., et al., 2018
+Astronomy and Astrophysics, 617, A67
 Bipolar H II regions. II. Morphologies and star formation in their vicinities
-Astronomy & Astrophysics, Volume 617, id.A67, 43 pp.
 https://ui.adsabs.harvard.edu/abs/2018A&A...617A..67S
 
-82
-Ryabukhina, O. L., Zinchenko, I. I., {Samal, M. R.}, and et al.
-2018
+(83) Ryabukhina, O. L., Zinchenko, I. I., {Samal, M. R.}, et al., 2018
+Research in Astronomy and Astrophysics, 18, 095
 Study of the filamentary infrared dark cloud G192.76+00.10 in the S254-S258 OB complex
-Research in Astronomy and Astrophysics, Volume 18, Issue 8, article id. 095 (2018).
 https://ui.adsabs.harvard.edu/abs/2018RAA....18...95R
 
-83
-Vaidya, K., Bhattacharya, S., Panwar, V., and et al. (including Samal, M. R, Panwar from NCU)
-2018
+(84) Vaidya, K., Bhattacharya, S., Panwar, V., et al. (including {Samal, M. R.}, {Chen, W.-P.} from NCU), 2018
+New Astronomy, 63, 27
 Star formation toward the H II region IRAS 10427-6032
-New Astronomy, Volume 63, p. 27-37.
 https://ui.adsabs.harvard.edu/abs/2018NewA...63...27V
 
-84
-Deb, S., {Ngeow, C.-C.}, Kanbur, S. M., and et al.
-2018
+(85) Deb, S., {Ngeow, C.-C.}, Kanbur, S. M., et al., 2018
+Monthly Notices of the Royal Astronomical Society, 478, 2526
 Geometry of the Large Magellanic Cloud using multiwavelength photometry of classical Cepheids
-Monthly Notices of the Royal Astronomical Society, Volume 478, Issue 2, p.2526-2540
 https://ui.adsabs.harvard.edu/abs/2018MNRAS.478.2526D
 
-85
-{Chang, C.-K.}, {Lin, H.-W.}, and {Ip, W.-H.}
-2018
+(86) {Chang, C.-K.}, {Lin, H.-W.}, and {Ip, W.-H.}, 2018
+Serendipities in the Solar System and Beyond, 513, 93
 The Asteroid Spin-Rate Study: Looking for Super Fast Rotators in the Outer Main Belt
-Serendipities in the Solar System and Beyond. ASP Conference Series, Vol. 513, proceedings of a conference held 10-13 July 2017 at National Central University, Taiwan. Edited by Chung-Ming Ko, Chan-Kao Chang, and Po-Chieh Yu.  San Francisco: Astronomical Society of the Pacific, 2018, p.93
 https://ui.adsabs.harvard.edu/abs/2018ASPC..513...93C
 
-86
-{Lin, Z.-Y.}, Knollenberg, J., Vincent, J.-B., and et al.
-2018
+(87) {Lin, Z.-Y.}, Knollenberg, J., Vincent, J.-B., et al., 2018
+Serendipities in the Solar System and Beyond, 513, 73
 Investigating the physical properties of outbursts on comet 67P/Churyumov-Gerasimenko
-Serendipities in the Solar System and Beyond. ASP Conference Series, Vol. 513, proceedings of a conference held 10-13 July 2017 at National Central University, Taiwan. Edited by Chung-Ming Ko, Chan-Kao Chang, and Po-Chieh Yu.  San Francisco: Astronomical Society of the Pacific, 2018, p.73
 https://ui.adsabs.harvard.edu/abs/2018ASPC..513...73L
 
-87
-Tang, S.-Y., {Chen, W. P.}, {Chiang, P. S.}, and et al.
-2018
+(88) Tang, S.-Y., {Chen, W. P.}, {Chiang, P. S.}, et al., 2018
+The Astrophysical Journal, 862, 106
 Characterization of Stellar and Substellar Members in the Coma Berenices Star Cluster
-The Astrophysical Journal, Volume 862, Issue 2, article id. 106, 28 pp. (2018).
 https://ui.adsabs.harvard.edu/abs/2018ApJ...862..106T
 
-88
-Morganson, E., Gruendl, R. A., Menanteau, F., and et al. (including Ngeow, C.-C from NCU)
-2018
+(89) Morganson, E., Gruendl, R. A., Menanteau, F., et al. (including {Ngeow, C.-C.} from NCU), 2018
+Publications of the Astronomical Society of the Pacific, 130, 074501
 The Dark Energy Survey Image Processing Pipeline
-Publications of the Astronomical Society of the Pacific, Volume 130, Issue 989, pp. 074501 (2018).
 https://ui.adsabs.harvard.edu/abs/2018PASP..130g4501M
 
-89
-{Samal, M. R.}, {Chen, W. P.}, Takami, M., and et al.
-2018
+(90) {Samal, M. R.}, {Chen, W. P.}, Takami, M., et al., 2018
+Monthly Notices of the Royal Astronomical Society, 477, 4577
 YSO jets in the Galactic plane from UWISH2 - V. Jets and outflows in M17
-Monthly Notices of the Royal Astronomical Society, Volume 477, Issue 4, p.4577-4595
 https://ui.adsabs.harvard.edu/abs/2018MNRAS.477.4577S
 
-90
-Ong, Y. C. and {Nester, J. M.}
-2018
+(91) Ong, Y. C. and {Nester, J. M.}, 2018
+European Physical Journal C, 78, 568
 Counting components in the Lagrange multiplier formulation of teleparallel theories
-The European Physical Journal C, Volume 78, Issue 7, article id. 568, 7 pp.
 https://ui.adsabs.harvard.edu/abs/2018EPJC...78..568O
 
-91
-{Chiang, P.}, Lee, C.-H., Magnier, E., and et al. (including Chen, W.-P. from NCU)
-2018
+(92) {Chiang, P.}, Lee, C.-H., Magnier, E., et al. (including {Chen, W.-P..} from NCU), 2018
+20th Cambridge Workshop on Cool Stars, Stellar Systems and the Sun,  8
 Ultra-cool Subdwarfs in the Subaru HSC survey
-The 20th Cambridge Workshop on Cool Stars, Stellar Systems and the Sun, held 29 July -3 August, 2018 in Boston, MA. 
 https://ui.adsabs.harvard.edu/abs/2018csss.confE...8C
 
-92
-Soam, A., Pattle, K., Ward-Thompson, D., and et al. (including Chen, W. P from NCU)
-2018
+(93) Soam, A., Pattle, K., Ward-Thompson, D., et al. (including {Chen, W. P.} from NCU), 2018
+The Astrophysical Journal, 861, 65
 Magnetic Fields toward Ophiuchus-B Derived from SCUBA-2 Polarization Measurements
-The Astrophysical Journal, Volume 861, Issue 1, article id. 65, 13 pp. (2018).
 https://ui.adsabs.harvard.edu/abs/2018ApJ...861...65S
 
-93
-Amati, L., O'Brien, P., Götz, D., and et al. (including Urata, Y from NCU)
-2018
+(94) Amati, L., O'Brien, P., Götz, D., et al. (including {Urata, Y.} from NCU), 2018
+Advances in Space Research, 62, 191
 The THESEUS space mission concept: science case, design and expected performances
-Advances in Space Research, Volume 62, Issue 1, p. 191-244.
 https://ui.adsabs.harvard.edu/abs/2018AdSpR..62..191A
 
-94
-{Ngeow, C.-C.}
-2018
+(95) {Ngeow, C.-C.}, 2018
+The RR Lyrae 2017 Conference. Revival of the Classical Pulsators: from Galactic Structure to Stellar Interior Diagnostics, 6, 308
 A Brief Overview of the Palomar Transient Factory (PTF) and Recent Progress of PTF-RRL Program at the National Central University
-The RR Lyrae 2017 Conference. Revival of the Classical Pulsators: from Galactic Structure to Stellar Interior Diagnostics.  Proceedings of the meeting held 17-21 September, 2017 in Niepołomice, Poland. Proceedings of the Polish Astronomical Society, Vol. 6. Edited by R. Smolec, K. Kinemuchi, and R.I. Anderson, ISBN 978-83-938279-9-2, pp.308-309
 https://ui.adsabs.harvard.edu/abs/2018pas6.conf..308N
 
-95
-Zhang, C.-P., Liu, T., Yuan, J., and et al. (including Samal, M. R from NCU)
-2018
+(96) Zhang, C.-P., Liu, T., Yuan, J., et al. (including {Samal, M. R.} from NCU), 2018
+The Astrophysical Journal Supplement Series, 236, 49
 The TOP-SCOPE Survey of PGCCs: PMO and SCUBA-2 Observations of 64 PGCCs in the Second Galactic Quadrant
-The Astrophysical Journal Supplement Series, Volume 236, Issue 2, article id. 49, 20 pp. (2018).
 https://ui.adsabs.harvard.edu/abs/2018ApJS..236...49Z
 
-96
-Volk, K., Murray-Clay, R. A., Gladman, B. J., and et al. (including Lin, H. W from NCU)
-2018
+(97) Volk, K., Murray-Clay, R. A., Gladman, B. J., et al. (including {Lin, H. W.} from NCU), 2018
+The Astronomical Journal, 155, 260
 OSSOS. IX. Two Objects in Neptune's 9:1 Resonance—Implications for Resonance Sticking in the Scattering Population
-The Astronomical Journal, Volume 155, Issue 6, article id. 260, 9 pp. (2018).
 https://ui.adsabs.harvard.edu/abs/2018AJ....155..260V
 
-97
-Shi, X., Hu, X., Mottola, S., and et al. (including Ip, W.-H from NCU)
-2018
+(98) Shi, X., Hu, X., Mottola, S., et al. (including {Ip, W.-H.} from NCU), 2018
+Nature Astronomy, 2, 562
 Coma morphology of comet 67P controlled by insolation over irregular nucleus
-Nature Astronomy, Volume 2, p. 562-567
 https://ui.adsabs.harvard.edu/abs/2018NatAs...2..562S
 
-98
-Fulle, M., Bertini, I., Della Corte, V., and et al. (including Ip, W. H from NCU)
-2018
+(99) Fulle, M., Bertini, I., Della Corte, V., et al. (including {Ip, W. H.} from NCU), 2018
+Monthly Notices of the Royal Astronomical Society, 476, 2835
 The phase function and density of the dust observed at comet 67P/Churyumov-Gerasimenko
-Monthly Notices of the Royal Astronomical Society, Volume 476, Issue 2, p.2835-2839
 https://ui.adsabs.harvard.edu/abs/2018MNRAS.476.2835F
 
-99
-Bannister, M. T., Gladman, B. J., Kavelaars, J. J., and et al. (including Ip, W.-H, Delsanti from NCU)
-2018
+(100) Bannister, M. T., Gladman, B. J., Kavelaars, J. J., et al. (including {Ip, W.-H.}, {Lin, H. W.} from NCU), 2018
+The Astrophysical Journal Supplement Series, 236, 18
 OSSOS. VII. 800+ Trans-Neptunian Objects—The Complete Data Release
-The Astrophysical Journal Supplement Series, Volume 236, Issue 1, article id. 18, 19 pp. (2018).
 https://ui.adsabs.harvard.edu/abs/2018ApJS..236...18B
 
-100
-Kwon, J., Doi, Y., Tamura, M., and et al. (including Chen, W. P from NCU)
-2018
+(101) Kwon, J., Doi, Y., Tamura, M., et al. (including {Chen, W. P.} from NCU), 2018
+The Astrophysical Journal, 859, 4
 A First Look at BISTRO Observations of the ρ Oph-A core
-The Astrophysical Journal, Volume 859, Issue 1, article id. 4, 22 pp. (2018).
 https://ui.adsabs.harvard.edu/abs/2018ApJ...859....4K
 
-101
-Müller-Sánchez, F., Hicks, E. K. S., Malkan, M., and et al. (including Yu, P. C from NCU)
-2018
+(102) Müller-Sánchez, F., Hicks, E. K. S., Malkan, M., et al. (including {Yu, P. C.} from NCU), 2018
+The Astrophysical Journal, 858, 48
 The Keck/OSIRIS Nearby AGN Survey (KONA). I. The Nuclear K-band Properties of Nearby AGN
-The Astrophysical Journal, Volume 858, Issue 1, article id. 48, 19 pp. (2018).
 https://ui.adsabs.harvard.edu/abs/2018ApJ...858...48M
 
-102
-{Ngeow, C.-C.}, Bhardwaj, A., and Kanbur, S. M.
-2018
+(103) {Ngeow, C.-C.}, Bhardwaj, A., and Kanbur, S. M., 2018
+Astrometry and Astrophysics in the Gaia Sky, 330, 337
 G-Band Period-Luminosity Relation For Galactic Cepheids Based on Gaia DR1 Measurements
-Astrometry and Astrophysics in the Gaia sky, Proceedings of the International Astronomical Union, IAU Symposium, Volume 330, pp. 337-338
 https://ui.adsabs.harvard.edu/abs/2018IAUS..330..337N
 
-103
-Puspitarini, L., Lallement, R., Monreal-Ibero, A., and et al. (including Chen, H.-C from NCU)
-2018
+(104) Puspitarini, L., Lallement, R., Monreal-Ibero, A., et al. (including {Chen, H.-C.} from NCU), 2018
+Astrometry and Astrophysics in the Gaia Sky, 330, 243
 Developing Automated Spectral Analysis Tools for Interstellar Features Extractionto Support Construction of the 3D ISM Map
-Astrometry and Astrophysics in the Gaia sky, Proceedings of the International Astronomical Union, IAU Symposium, Volume 330, pp. 243-244
 https://ui.adsabs.harvard.edu/abs/2018IAUS..330..243P
 
-104
-{Huang, P.-C.}, {Chen, W.-P.}, Hu, C.-L., and et al.
-2018
+(105) {Huang, P.-C.}, {Chen, W.-P.}, Hu, C.-L., et al., 2018
+Bulletin de la Societe Royale des Sciences de Liege, 87, 145
 Young Stellar Variability of GM Cephei by Circumstellar Dust Clumps
-Bulletin de la Société Royale des Sciences de Liège, in Proceedings of the First Belgo-Indian Network for Astronomy & Astrophysics (BINA) workshop, November 2016, held in Nainital, India, Vol. 87, pp 145-149
 https://ui.adsabs.harvard.edu/abs/2018BSRSL..87..145H
 
-105
-Pittori, C., Lucarelli, F., Verrecchia, F., and et al. (including Chen, W. P, Acosta-Pulido, Chen from NCU)
-2018
+(106) Pittori, C., Lucarelli, F., Verrecchia, F., et al. (including {Chen, W. P.}, {Hsiao, H. Y.}, {Samal, M. R.} from NCU), 2018
+The Astrophysical Journal, 856, 99
 The Bright γ-ray Flare of 3C 279 in 2015 June: AGILE Detection and Multifrequency Follow-up Observations
-The Astrophysical Journal, Volume 856, Issue 2, article id. 99, 9 pp. (2018).
 https://ui.adsabs.harvard.edu/abs/2018ApJ...856...99P
 
-106
-Juvela, M., He, J., Pattle, K., and et al. (including Samal, M. R from NCU)
-2018
+(107) Juvela, M., He, J., Pattle, K., et al. (including {Samal, M. R.} from NCU), 2018
+Astronomy and Astrophysics, 612, A71
 Herschel and SCUBA-2 observations of dust emission in a sample of Planck cold clumps
-Astronomy & Astrophysics, Volume 612, id.A71, 38 pp.
 https://ui.adsabs.harvard.edu/abs/2018A&A...612A..71J
 
-107
-Blagorodnova, N., Neill, J. D., Walters, R., and et al. (including Ngeow, C.-C from NCU)
-2018
+(108) Blagorodnova, N., Neill, J. D., Walters, R., et al. (including {Ngeow, C.-C.} from NCU), 2018
+Publications of the Astronomical Society of the Pacific, 130, 035003
 The SED Machine: A Robotic Spectrograph for Fast Transient Classification
-Publications of the Astronomical Society of the Pacific, Volume 130, Issue 985, pp. 035003 (2018).
 https://ui.adsabs.harvard.edu/abs/2018PASP..130c5003B
 
-108
-Lin, C.-H., Ip, W.-H., {Lin, Z.-Y.}, and et al. (including Cheng, Y.-C, Lin, Z.-Y. from NCU)
-2018
+(109) Lin, C.-H., Ip, W.-H., {Lin, Z.-Y.}, et al. (including {Cheng, Y.-C.}, {Lin, H.-W.}, {Chang, C.-K..} from NCU), 2018
+Planetary and Space Science, 152, 116
 Photometric survey and taxonomic identifications of 92 near-Earth asteroids
-Planetary and Space Science, Volume 152, p. 116-135.
 https://ui.adsabs.harvard.edu/abs/2018P&SS..152..116L
 
-109
-Holman, M. J., Payne, M. J., Fraser, W., and et al. (including Lin, H. W from NCU)
-2018
+(110) Holman, M. J., Payne, M. J., Fraser, W., et al. (including {Lin, H. W.} from NCU), 2018
+The Astrophysical Journal, 855, L6
 A Dwarf Planet Class Object in the 21:5 Resonance with Neptune
-The Astrophysical Journal Letters, Volume 855, Issue 1, article id. L6, 9 pp. (2018).
 https://ui.adsabs.harvard.edu/abs/2018ApJ...855L...6H
 
-110
-{Chen, I.-C.}, {Hwang, C.-Y.}, Kaiser, N., and et al.
-2018
+(111) {Chen, I.-C.}, {Hwang, C.-Y.}, Kaiser, N., et al., 2018
+The Astrophysical Journal, 855, 66
 Color Variabilities of Spectrally Defined Red QSOs at z = 0.3-1.2
-The Astrophysical Journal, Volume 855, Issue 1, article id. 66, 19 pp. (2018).
 https://ui.adsabs.harvard.edu/abs/2018ApJ...855...66C
 
-111
-Ivlev, A. V., Dogiel, V. A., Chernyshov, D. O., and et al. (including Ko, C.-M from NCU)
-2018
+(112) Ivlev, A. V., Dogiel, V. A., Chernyshov, D. O., et al. (including {Ko, C.-M.} from NCU), 2018
+The Astrophysical Journal, 855, 23
 Penetration of Cosmic Rays into Dense Molecular Clouds: Role of Diffuse Envelopes
-The Astrophysical Journal, Volume 855, Issue 1, article id. 23, 15 pp. (2018).
 https://ui.adsabs.harvard.edu/abs/2018ApJ...855...23I
 
-112
-Liu, T., Kim, K.-T., Juvela, M., and et al. (including Samal, M. R, Tang from NCU)
-2018
+(113) Liu, T., Kim, K.-T., Juvela, M., et al. (including {Samal, M. R.}, {Chen, W.-P.} from NCU), 2018
+The Astrophysical Journal Supplement Series, 234, 28
 The TOP-SCOPE Survey of Planck Galactic Cold Clumps: Survey Overview and Results of an Exemplar Source, PGCC G26.53+0.17
-The Astrophysical Journal Supplement Series, Volume 234, Issue 2, article id. 28, 31 pp. (2018).
 https://ui.adsabs.harvard.edu/abs/2018ApJS..234...28L
 
-113
-Johnstone, D., Herczeg, G. J., Mairs, S., and et al. (including Chen, W.-P from NCU)
-2018
+(114) Johnstone, D., Herczeg, G. J., Mairs, S., et al. (including {Chen, W.-P.} from NCU), 2018
+The Astrophysical Journal, 854, 31
 The JCMT Transient Survey: Stochastic and Secular Variability of Protostars and Disks In the Submillimeter Region Observed over 18 Months
-The Astrophysical Journal, Volume 854, Issue 1, article id. 31, 21 pp. (2018).
 https://ui.adsabs.harvard.edu/abs/2018ApJ...854...31J
 
-114
-{Yu, P.-C.}, {Yu, C.-H.}, {Lee, C.-D.}, and et al. (including Chang, C.-K, Lin, C.-C., Hsia, C.-H. from NCU)
-2018
+(115) {Yu, P.-C.}, {Yu, C.-H.}, {Lee, C.-D.}, et al. (including {Chang, C.-K.}, {Chen, I.-C.}, {Ngeow, C.-C.}, {Ip, W.-H.}, {Chen, W.-P.} from NCU), 2018
+The Astronomical Journal, 155, 91
 Searching for Be Stars in the Open Clusters with PTF/iPTF. I. Cluster Sample and Be Star Candidates
-The Astronomical Journal, Volume 155, Issue 2, article id. 91, 17 pp. (2018).
 https://ui.adsabs.harvard.edu/abs/2018AJ....155...91Y
 
-115
-{Lin, H.-W.}, Chen, Y.-T., Wang, J.-H., and et al. (including Ip, W.-H from NCU)
-2018
+(116) {Lin, H.-W.}, Chen, Y.-T., Wang, J.-H., et al. (including {Ip, W.-H.} from NCU), 2018
+Publications of the Astronomical Society of Japan, 70, S39
 Machine-learning-based real-bogus system for the HSC-SSP moving object detection pipeline
-Publications of the Astronomical Society of Japan, Volume 70, Issue SP1, id.S39
 https://ui.adsabs.harvard.edu/abs/2018PASJ...70S..39L
 
-116
-Chen, Y.-T., {Lin, H.-W.}, Alexandersen, M., and et al.
-2018
+(117) Chen, Y.-T., {Lin, H.-W.}, Alexandersen, M., et al., 2018
+Publications of the Astronomical Society of Japan, 70, S38
 Searching for moving objects in HSC-SSP: Pipeline and preliminary results
-Publications of the Astronomical Society of Japan, Volume 70, Issue SP1, id.S38
 https://ui.adsabs.harvard.edu/abs/2018PASJ...70S..38C
 
-117
-Aihara, H., Armstrong, R., Bickerton, S., and et al. (including Urata, Y from NCU)
-2018
+(118) Aihara, H., Armstrong, R., Bickerton, S., et al. (including {Urata, Y.} from NCU), 2018
+Publications of the Astronomical Society of Japan, 70, S8
 First data release of the Hyper Suprime-Cam Subaru Strategic Program
-Publications of the Astronomical Society of Japan, Volume 70, Issue SP1, id.S8
 https://ui.adsabs.harvard.edu/abs/2018PASJ...70S...8A
 
-118
-Aihara, H., Arimoto, N., Armstrong, R., and et al. (including Urata, Y from NCU)
-2018
+(119) Aihara, H., Arimoto, N., Armstrong, R., et al. (including {Urata, Y.} from NCU), 2018
+Publications of the Astronomical Society of Japan, 70, S4
 The Hyper Suprime-Cam SSP Survey: Overview and survey design
-Publications of the Astronomical Society of Japan, Volume 70, Issue SP1, id.S4
 https://ui.adsabs.harvard.edu/abs/2018PASJ...70S...4A
 
-119
-Li, K.-F., Lin, L.-C., Bui, X.-H., and et al. (including Liang, M.-C. from NCU)
-2018
+(120) Li, K.-F., Lin, L.-C., Bui, X.-H., et al. (including {Liang, M.-C..} from NCU), 2018
+Journal of Geophysical Research (Space Physics), 123, 848
 The 11 Year Solar Cycle Response of the Equatorial Ionization Anomaly Observed by GPS Radio Occultation
-Journal of Geophysical Research: Space Physics, Volume 123, Issue 1, pp. 848-861
 https://ui.adsabs.harvard.edu/abs/2018JGRA..123..848L
 
-120
-Lee, C.-H. and {Chiang, P.-S.}
-2018
+(121) Lee, C.-H. and {Chiang, P.-S.}, 2018
+The Astrophysical Journal, 852, L24
 Evidence that the Planetary Candidate CVSO30c is a Background Star from Optical, Seeing-limited Data
-The Astrophysical Journal Letters, Volume 852, Issue 2, article id. L24, 5 pp. (2018).
 https://ui.adsabs.harvard.edu/abs/2018ApJ...852L..24L
 
-121
-Guo, Z., Herczeg, G. J., Jose, J., and et al. (including Chiang, P.-S, P.-S. from NCU)
-2018
+(122) Guo, Z., Herczeg, G. J., Jose, J., et al. (including {Chiang, P.-S.}, {Chen, W.-. ping .} from NCU), 2018
+The Astrophysical Journal, 852, 56
 Star-Disk Interactions in Multiband Photometric Monitoring of the Classical T Tauri Star GI Tau
-The Astrophysical Journal, Volume 852, Issue 1, article id. 56, 15 pp. (2018).
 https://ui.adsabs.harvard.edu/abs/2018ApJ...852...56G
 
-122
-Panwar, N., Pandey, A. K., {Samal, M. R.}, and et al. (including Chen, W. P from NCU)
-2018
+(123) Panwar, N., Pandey, A. K., {Samal, M. R.}, et al. (including {Chen, W. P.} from NCU), 2018
+The Astronomical Journal, 155, 44
 Young Cluster Berkeley 59: Properties, Evolution, and Star Formation
-The Astronomical Journal, Volume 155, Issue 1, article id. 44, 12 pp. (2018).
 https://ui.adsabs.harvard.edu/abs/2018AJ....155...44P
 
-123
-Kasliwal, M. M., Nakar, E., Singer, L. P., and et al. (including Yu, P.-C, Chatterjee from NCU)
-2017
+(124) Kasliwal, M. M., Nakar, E., Singer, L. P., et al. (including {Yu, P.-C.}, {Ngeow, C.-C.} from NCU), 2017
+Science, 358, 1559
 Illuminating gravitational waves: A concordant picture of photons from a neutron star merger
-Science, Volume 358, Issue 6370, pp. 1559-1565 (2017).
 https://ui.adsabs.harvard.edu/abs/2017Sci...358.1559K
 
-124
-Raiteri, C. M., Villata, M., Acosta-Pulido, J. A., and et al. (including Chen, W.-P, Efimova, E. N. from NCU)
-2017
+(125) Raiteri, C. M., Villata, M., Acosta-Pulido, J. A., et al. (including {Chen, W.-P.}, {Lin, C. S.}, {Samal, M. R.} from NCU), 2017
+Nature, 552, 374
 Blazar spectral variability as explained by a twisted inhomogeneous jet
-Nature, Volume 552, Issue 7685, pp. 374-377 (2017).
 https://ui.adsabs.harvard.edu/abs/2017Natur.552..374R
 
-125
-Carnerero, M. I., Raiteri, C. M., Villata, M., and et al. (including Chen, W. P, M. J., W. P., G., S. from NCU)
-2017
+(126) Carnerero, M. I., Raiteri, C. M., Villata, M., et al. (including {Chen, W. P.}, {Eswaraiah, E.}, {Koptelova, E.}, {Lin, H. C.}, {Panwar, N.} from NCU), 2017
+Monthly Notices of the Royal Astronomical Society, 472, 3789
 Dissecting the long-term emission behaviour of the BL Lac object Mrk 421
-Monthly Notices of the Royal Astronomical Society, Volume 472, Issue 4, p.3789-3804
 https://ui.adsabs.harvard.edu/abs/2017MNRAS.472.3789C
 
-126
-Yu, L. L., Yang, B., Ji, J., and et al. (including Ip, W.-H. from NCU)
-2017
+(127) Yu, L. L., Yang, B., Ji, J., et al. (including {Ip, W.-H..} from NCU), 2017
+Monthly Notices of the Royal Astronomical Society, 472, 2388
 Thermophysical characteristics of the large main-belt asteroid (349) Dembowska
-Monthly Notices of the Royal Astronomical Society, Volume 472, Issue 2, p.2388-2397
 https://ui.adsabs.harvard.edu/abs/2017MNRAS.472.2388Y
 
-127
-{Chang, C.-K.}, {Lin, H.-W.}, {Ip, W.-H.}, and et al.
-2017
+(128) {Chang, C.-K.}, {Lin, H.-W.}, {Ip, W.-H.}, et al., 2017
+Geoscience Letters, 4, 17
 Asteroid spin-rate studies using large sky-field surveys
-Geoscience Letters, Volume 4, Issue 1, article id.17, 8 pp.
 https://ui.adsabs.harvard.edu/abs/2017GSL.....4...17C
 
-128
-{Eswaraiah, C.}, Lai, S.-P., {Chen, W.-P.}, and et al.
-2017
+(129) {Eswaraiah, C.}, Lai, S.-P., {Chen, W.-P.}, et al., 2017
+The Astrophysical Journal, 850, 195
 Understanding the Links among the Magnetic Fields, Filament, Bipolar Bubble, and Star Formation in RCW 57A Using NIR Polarimetry
-The Astrophysical Journal, Volume 850, Issue 2, article id. 195, 22 pp. (2017).
 https://ui.adsabs.harvard.edu/abs/2017ApJ...850..195E
 
-129
-{Chen, Y.-C.} and {Hwang, C.-Y.}
-2017
+(130) {Chen, Y.-C.} and {Hwang, C.-Y.}, 2017
+Astrophysics and Space Science, 362, 230
 Morphology of Seyfert galaxies
-Astrophysics and Space Science, Volume 362, Issue 12, article id.230, 10 pp.
 https://ui.adsabs.harvard.edu/abs/2017Ap&SS.362..230C
 
-130
-{Tian, Y.} and {Ko, C.-M.}
-2017
+(131) {Tian, Y.} and {Ko, C.-M.}, 2017
+Monthly Notices of the Royal Astronomical Society, 472, 765
 Mass discrepancy-acceleration relation in Einstein rings
-Monthly Notices of the Royal Astronomical Society, Volume 472, Issue 1, p.765-771
 https://ui.adsabs.harvard.edu/abs/2017MNRAS.472..765T
 
-131
-Chen, T.-W., Schady, P., Xiao, L., and et al. (including Yu, P.-C from NCU)
-2017
+(132) Chen, T.-W., Schady, P., Xiao, L., et al. (including {Yu, P.-C.} from NCU), 2017
+The Astrophysical Journal, 849, L4
 Spatially Resolved MaNGA Observations of the Host Galaxy of Superluminous Supernova 2017egm
-The Astrophysical Journal Letters, Volume 849, Issue 1, article id. L4, 7 pp. (2017).
 https://ui.adsabs.harvard.edu/abs/2017ApJ...849L...4C
 
-132
-Wang, J.-W., Lai, S.-P., {Eswaraiah, C.}, and et al. (including Chen, W.-P from NCU)
-2017
+(133) Wang, J.-W., Lai, S.-P., {Eswaraiah, C.}, et al. (including {Chen, W.-P.} from NCU), 2017
+The Astrophysical Journal, 849, 157
 Multiwavelength Stellar Polarimetry of the Filamentary Cloud IC5146. I. Dust Properties
-The Astrophysical Journal, Volume 849, Issue 2, article id. 157, 18 pp. (2017).
 https://ui.adsabs.harvard.edu/abs/2017ApJ...849..157W
 
-133
-Mairs, S., Johnstone, D., Kirk, H., and et al. (including Chen, W.-P from NCU)
-2017
+(134) Mairs, S., Johnstone, D., Kirk, H., et al. (including {Chen, W.-P.} from NCU), 2017
+The Astrophysical Journal, 849, 107
 The JCMT Transient Survey: Identifying Submillimeter Continuum Variability over Several Year Timescales Using Archival JCMT Gould Belt Survey Observations
-The Astrophysical Journal, Volume 849, Issue 2, article id. 107, 22 pp. (2017).
 https://ui.adsabs.harvard.edu/abs/2017ApJ...849..107M
 
-134
-Herczeg, G. J., Johnstone, D., Mairs, S., and et al. (including Chen, W.-P, J. P., J. from NCU)
-2017
+(135) Herczeg, G. J., Johnstone, D., Mairs, S., et al. (including {Chen, W.-P.}, {Samal, M. R.}, {Lalchand, B.} from NCU), 2017
+The Astrophysical Journal, 849, 43
 How Do Stars Gain Their Mass? A JCMT/SCUBA-2 Transient Survey of Protostars in Nearby Star-forming Regions
-The Astrophysical Journal, Volume 849, Issue 1, article id. 43, 14 pp. (2017).
 https://ui.adsabs.harvard.edu/abs/2017ApJ...849...43H
 
-135
-Preusker, F., Scholten, F., Matz, K.-D., and et al. (including Ip, W.-H from NCU)
-2017
+(136) Preusker, F., Scholten, F., Matz, K.-D., et al. (including {Ip, W.-H.} from NCU), 2017
+Astronomy and Astrophysics, 607, L1
 The global meter-level shape model of comet 67P/Churyumov-Gerasimenko
-Astronomy & Astrophysics, Volume 607, id.L1, 5 pp.
 https://ui.adsabs.harvard.edu/abs/2017A&A...607L...1P
 
-136
-{Liang, M.-C.}, Mahata, S., Laskar, A. H., and et al.
-2017
+(137) {Liang, M.-C.}, Mahata, S., Laskar, A. H., et al., 2017
+Scientific Reports, 7, 13180
 Oxygen isotope anomaly in tropospheric CO2 and implications for CO2 residence time in the atmosphere and gross primary productivity
-Scientific Reports, Volume 7, id. 13180
 https://ui.adsabs.harvard.edu/abs/2017NatSR...713180L
 
-137
-Castro Chacón, J., Reyes-Ruiz, M., Bosco Hernández-Águila, J., and et al. (including Chen, W.-P from NCU)
-2017
+(138) Castro Chacón, J., Reyes-Ruiz, M., Bosco Hernández-Águila, J., et al. (including {Chen, W.-P.} from NCU), 2017
+AAS/Division for Planetary Sciences Meeting Abstracts #49,  216.15
 Parameters for binary TNOs which could be detected by TAOS-II
-American Astronomical Society, DPS meeting #49, id.216.15
 https://ui.adsabs.harvard.edu/abs/2017DPS....4921615C
 
-138
-Abbott, B. P., Abbott, R., Abbott, T. D., and et al. (including Mooley, K, P., E. from NCU)
-2017
+(139) Abbott, B. P., Abbott, R., Abbott, T. D., et al. (including {Mooley, K.}, {Xu, Y.}, {Hidaka, K.} from NCU), 2017
+The Astrophysical Journal, 848, L12
 Multi-messenger Observations of a Binary Neutron Star Merger
-The Astrophysical Journal Letters, Volume 848, Issue 2, article id. L12, 59 pp. (2017).
 https://ui.adsabs.harvard.edu/abs/2017ApJ...848L..12A
 
-139
-Bhattacharya, S., Mishra, I., Vaidya, K., and et al. (including Chen, W. P. from NCU)
-2017
+(140) Bhattacharya, S., Mishra, I., Vaidya, K., et al. (including {Chen, W. P..} from NCU), 2017
+The Astrophysical Journal, 847, 138
 Disintegration of the Aged Open Cluster Berkeley 17
-The Astrophysical Journal, Volume 847, Issue 2, article id. 138, 7 pp. (2017).
 https://ui.adsabs.harvard.edu/abs/2017ApJ...847..138B
 
-140
-Yuan, W., Macri, L. M., He, S., and et al. (including Ngeow, C.-C. from NCU)
-2017
+(141) Yuan, W., Macri, L. M., He, S., et al. (including {Ngeow, C.-C..} from NCU), 2017
+The Astronomical Journal, 154, 149
 Large Magellanic Cloud Near-infrared Synoptic Survey. V. Period-Luminosity Relations of Miras
-The Astronomical Journal, Volume 154, Issue 4, article id. 149, 10 pp. (2017).
 https://ui.adsabs.harvard.edu/abs/2017AJ....154..149Y
 
-141
-{Yang, M. T.-C.}, {Chou, Y.}, {Ngeow, C.-C.}, and et al. (including Su, Y.-H from NCU)
-2017
+(142) {Yang, M. T.-C.}, {Chou, Y.}, {Ngeow, C.-C.}, et al. (including {Su, Y.-H.} from NCU), 2017
+Publications of the Astronomical Society of the Pacific, 129, 094202
 Long-term Periodicities of Cataclysmic Variables with Synoptic Surveys
-Publications of the Astronomical Society of the Pacific, Volume 129, Issue 979, pp. 094202 (2017).
 https://ui.adsabs.harvard.edu/abs/2017PASP..129i4202Y
 
-142
-Drolshagen, E., Ott, T., Koschny, D., and et al. (including Ip, W.-H from NCU)
-2017
+(143) Drolshagen, E., Ott, T., Koschny, D., et al. (including {Ip, W.-H.} from NCU), 2017
+Planetary and Space Science, 143, 256
 Distance determination method of dust particles using Rosetta OSIRIS NAC and WAC data
-Planetary and Space Science, Volume 143, p. 256-264.
 https://ui.adsabs.harvard.edu/abs/2017P&SS..143..256D
 
-143
-Kiew, C.-Y., {Hwang, C.-Y.}, and Zainal Abidin, Z.
-2017
+(144) Kiew, C.-Y., {Hwang, C.-Y.}, and Zainal Abidin, Z., 2017
+Monthly Notices of the Royal Astronomical Society, 470, 2834
 Erratum: Constraints on the dark matter neutralinos from the radio emissions of galaxy clusters
-Monthly Notices of the Royal Astronomical Society, Volume 470, Issue 3, p.2834-2834
 https://ui.adsabs.harvard.edu/abs/2017MNRAS.470.2834K
 
-144
-Lai, I.-L., Ip, W.-H., Lee, J.-C., and et al. (including Lin, Z.-Y from NCU)
-2017
+(145) Lai, I.-L., Ip, W.-H., Lee, J.-C., et al. (including {Lin, Z.-Y.} from NCU), 2017
+European Planetary Science Congress,  EPSC2017-784
 Seasonal variations of the source regions of the dust jets of comet 67P/Churyumov-Gerasimenko
-European Planetary Science Congress 2017, held 17-22 September, 2017 in Riga Latvia, id. EPSC2017-784
 https://ui.adsabs.harvard.edu/abs/2017EPSC...11..784L
 
-145
-{Ngeow, C.-C.}
-2017
+(146) {Ngeow, C.-C.}, 2017
+European Physical Journal Web of Conferences, 152, 07012
 Applying survival analysis on the Cepheid period-luminosity relation at 70 μm
-Wide-Field Variability Surveys: A 21st Century Perspective - 22nd Los Alamos Stellar Pulsation - Conference Series Meeting, San Pedro de Atacama, Chile, Edited by Catelan, M.; Gieren, W.; EPJ Web of Conferences, Volume 152, id.07012
 https://ui.adsabs.harvard.edu/abs/2017EPJWC.15207012N
 
-146
-Bhardwaj, A., Kanbur, S. M., Marconi, M., and et al. (including Ngeow, C.-C. from NCU)
-2017
+(147) Bhardwaj, A., Kanbur, S. M., Marconi, M., et al. (including {Ngeow, C.-C..} from NCU), 2017
+European Physical Journal Web of Conferences, 152, 01010
 Multiwavelength light curve parameters of Cepheid variables
-Wide-Field Variability Surveys: A 21st Century Perspective - 22nd Los Alamos Stellar Pulsation - Conference Series Meeting, San Pedro de Atacama, Chile, Edited by Catelan, M.; Gieren, W.; EPJ Web of Conferences, Volume 152, id.01010
 https://ui.adsabs.harvard.edu/abs/2017EPJWC.15201010B
 
-147
-{Ngeow, C.-C.}
-2017
+(148) {Ngeow, C.-C.}, 2017
+European Physical Journal Web of Conferences, 152, 01004
 Pulsating star products from the Palomar Transient Factory: Ultra-long period Cepheids in M31 and RR Lyrae in Kepler field
-Wide-Field Variability Surveys: A 21st Century Perspective - 22nd Los Alamos Stellar Pulsation - Conference Series Meeting, San Pedro de Atacama, Chile, Edited by Catelan, M.; Gieren, W.; EPJ Web of Conferences, Volume 152, id.01004
 https://ui.adsabs.harvard.edu/abs/2017EPJWC.15201004N
 
-148
-Hsieh, P.-Y., Koch, P. M., Ho, P. T. P., and et al. (including Hwang, C.-Y. from NCU)
-2017
+(149) Hsieh, P.-Y., Koch, P. M., Ho, P. T. P., et al. (including {Hwang, C.-Y..} from NCU), 2017
+The Astrophysical Journal, 847, 3
 Molecular Gas Feeding the Circumnuclear Disk of the Galactic Center
-The Astrophysical Journal, Volume 847, Issue 1, article id. 3, 14 pp. (2017).
 https://ui.adsabs.harvard.edu/abs/2017ApJ...847....3H
 
-149
-Jian, H.-Y., Lin, L., Lin, K.-Y., and et al. (including Chen, W.-P from NCU)
-2017
+(150) Jian, H.-Y., Lin, L., Lin, K.-Y., et al. (including {Chen, W.-P.} from NCU), 2017
+The Astrophysical Journal, 845, 74
 The Pan-STARRS1 Medium-deep Survey: Star Formation Quenching in Group and Cluster Environments
-The Astrophysical Journal, Volume 845, Issue 1, article id. 74, 16 pp. (2017).
 https://ui.adsabs.harvard.edu/abs/2017ApJ...845...74J
 
-150
-Hu, X., Shi, X., Sierks, H., and et al. (including Ip, W.-H from NCU)
-2017
+(151) Hu, X., Shi, X., Sierks, H., et al. (including {Ip, W.-H.} from NCU), 2017
+Astronomy and Astrophysics, 604, A114
 Seasonal erosion and restoration of the dust cover on comet 67P/Churyumov-Gerasimenko as observed by OSIRIS onboard Rosetta
-Astronomy & Astrophysics, Volume 604, id.A114, 31 pp.
 https://ui.adsabs.harvard.edu/abs/2017A&A...604A.114H
 
-151
-Yu, L.-L., Ji, J., and {Ip, W.-H.}
-2017
+(152) Yu, L.-L., Ji, J., and {Ip, W.-H.}, 2017
+Research in Astronomy and Astrophysics, 17, 070
 Surface thermophysical properties on the potentially hazardous asteroid (99942) Apophis
-Research in Astronomy and Astrophysics, Volume 17, Issue 7, article id. 070 (2017).
 https://ui.adsabs.harvard.edu/abs/2017RAA....17...70Y
 
-152
-{Lin, Z.-Y.}, Knollenberg, J., Vincent, J.-B., and et al. (including Ip, W.-H from NCU)
-2017
+(153) {Lin, Z.-Y.}, Knollenberg, J., Vincent, J.-B., et al. (including {Ip, W.-H.} from NCU), 2017
+Monthly Notices of the Royal Astronomical Society, 469, S731
 Investigating the physical properties of outbursts on comet 67P/Churyumov-Gerasimenko
-Monthly Notices of the Royal Astronomical Society, Volume 469, Issue Suppl_2, p.S731-S740
 https://ui.adsabs.harvard.edu/abs/2017MNRAS.469S.731L
 
-153
-Agarwal, J., Della Corte, V., Feldman, P. D., and et al. (including Ip, W.-H, Debei, Deller, Feaga from NCU)
-2017
+(154) Agarwal, J., Della Corte, V., Feldman, P. D., et al. (including {Ip, W.-H.}, {Lin, Z.-Y.}, {Mottola, S.}, {Oklay, N.} from NCU), 2017
+Monthly Notices of the Royal Astronomical Society, 469, s606
 Evidence of sub-surface energy storage in comet 67P from the outburst of 2016 July 03
-Monthly Notices of the Royal Astronomical Society, Volume 469, Issue Suppl_2, p.s606-s625
 https://ui.adsabs.harvard.edu/abs/2017MNRAS.469S.606A
 
-154
-Bertini, I., La Forgia, F., Tubiana, C., and et al. (including Ip, W.-H, G. from NCU)
-2017
+(155) Bertini, I., La Forgia, F., Tubiana, C., et al. (including {Ip, W.-H.}, {Lin, Z.-Y.} from NCU), 2017
+Monthly Notices of the Royal Astronomical Society, 469, S404
 The scattering phase function of comet 67P/Churyumov-Gerasimenko coma as seen from the Rosetta/OSIRIS instrument
-Monthly Notices of the Royal Astronomical Society, Volume 469, Issue Suppl_2, p.S404-S415
 https://ui.adsabs.harvard.edu/abs/2017MNRAS.469S.404B
 
-155
-Schmitt, M. I., Tubiana, C., Güttler, C., and et al. (including Ip, W.-H from NCU)
-2017
+(156) Schmitt, M. I., Tubiana, C., Güttler, C., et al. (including {Ip, W.-H.} from NCU), 2017
+Monthly Notices of the Royal Astronomical Society, 469, S380
 Long-term monitoring of comet 67P/Churyumov-Gerasimenko's jets with OSIRIS onboard Rosetta
-Monthly Notices of the Royal Astronomical Society, Volume 469, Issue Suppl_2, p.S380-S385
 https://ui.adsabs.harvard.edu/abs/2017MNRAS.469S.380S
 
-156
-Vincent, J.-B., Hviid, S. F., Mottola, S., and et al. (including Lin, Z.-Y, Sierks from NCU)
-2017
+(157) Vincent, J.-B., Hviid, S. F., Mottola, S., et al. (including {Lin, Z.-Y.}, {Ip, W.-H.} from NCU), 2017
+Monthly Notices of the Royal Astronomical Society, 469, S329
 Constraints on cometary surface evolution derived from a statistical analysis of 67P's topography
-Monthly Notices of the Royal Astronomical Society, Volume 469, Issue Suppl_2, p.S329-S338
 https://ui.adsabs.harvard.edu/abs/2017MNRAS.469S.329V
 
-157
-Güttler, C., Hasselmann, P. H., Li, Y., and et al. (including Ip, W.-H from NCU)
-2017
+(158) Güttler, C., Hasselmann, P. H., Li, Y., et al. (including {Ip, W.-H.} from NCU), 2017
+Monthly Notices of the Royal Astronomical Society, 469, S312
 Characterization of dust aggregates in the vicinity of the Rosetta spacecraft
-Monthly Notices of the Royal Astronomical Society, Volume 469, Issue Suppl_2, p.S312-S320
 https://ui.adsabs.harvard.edu/abs/2017MNRAS.469S.312G
 
-158
-Hu, X., Shi, X., Sierks, H., and et al. (including Ip, W.-H from NCU)
-2017
+(159) Hu, X., Shi, X., Sierks, H., et al. (including {Ip, W.-H.} from NCU), 2017
+Monthly Notices of the Royal Astronomical Society, 469, S295
 Thermal modelling of water activity on comet 67P/Churyumov-Gerasimenko with global dust mantle and plural dust-to-ice ratio
-Monthly Notices of the Royal Astronomical Society, Volume 469, Issue Suppl_2, p.S295-S311
 https://ui.adsabs.harvard.edu/abs/2017MNRAS.469S.295H
 
-159
-Ott, T., Drolshagen, E., Koschny, D., and et al. (including Ip, W.-H, De Cecco from NCU)
-2017
+(160) Ott, T., Drolshagen, E., Koschny, D., et al. (including {Ip, W.-H.}, {Lin, Z.-Y.} from NCU), 2017
+Monthly Notices of the Royal Astronomical Society, 469, S276
 Dust mass distribution around comet 67P/Churyumov-Gerasimenko determined via parallax measurements using Rosetta's OSIRIS cameras
-Monthly Notices of the Royal Astronomical Society, Volume 469, Issue Suppl_2, p.S276-S284
 https://ui.adsabs.harvard.edu/abs/2017MNRAS.469S.276O
 
-160
-Frattin, E., Cremonese, G., Simioni, E., and et al. (including Ip, W.-H from NCU)
-2017
+(161) Frattin, E., Cremonese, G., Simioni, E., et al. (including {Ip, W.-H.} from NCU), 2017
+Monthly Notices of the Royal Astronomical Society, 469, S195
 Post-perihelion photometry of dust grains in the coma of 67P Churyumov-Gerasimenko
-Monthly Notices of the Royal Astronomical Society, Volume 469, Issue Suppl_2, p.S195-S203
 https://ui.adsabs.harvard.edu/abs/2017MNRAS.469S.195F
 
-161
-{Panwar, N.}, {Samal, M. R.}, Pandey, A. K., and et al. (including Chen, W. P from NCU)
-2017
+(162) {Panwar, N.}, {Samal, M. R.}, Pandey, A. K., et al. (including {Chen, W. P.} from NCU), 2017
+Monthly Notices of the Royal Astronomical Society, 468, 2684
 Low-mass young stellar population and star formation history of the cluster IC 1805 in the W4 H II region
-Monthly Notices of the Royal Astronomical Society, Volume 468, Issue 3, p.2684-2698
 https://ui.adsabs.harvard.edu/abs/2017MNRAS.468.2684P
 
-162
-Chen, W.-C., Chen, H.-Y., Chen, Y.-S., and et al. (including Tian, Y from NCU)
-2017
+(163) Chen, W.-C., Chen, H.-Y., Chen, Y.-S., et al. (including {Tian, Y.} from NCU), 2017
+Journal of Applied Physics, 122, 024701
 Self-excited multi-scale skin vibrations probed by optical tracking micro-motions of tracers on arms
-Journal of Applied Physics, Volume 122, Issue 2, id.024701
 https://ui.adsabs.harvard.edu/abs/2017JAP...122b4701C
 
-163
-Hu, C.-P., {Chou, Y.}, Ng, C.-Y., and et al.
-2017
+(164) Hu, C.-P., {Chou, Y.}, Ng, C.-Y., et al., 2017
+The Astrophysical Journal, 844, 16
 Evolution of Spin, Orbital, and Superorbital Modulations of 4U 0114+650
-The Astrophysical Journal, Volume 844, Issue 1, article id. 16, 10 pp. (2017).
 https://ui.adsabs.harvard.edu/abs/2017ApJ...844...16H
 
-164
-Griv, E., Jiang, I.-G., Hou, L.-G., and et al. (including Ngeow, C.-C. from NCU)
-2017
+(165) Griv, E., Jiang, I.-G., Hou, L.-G., et al. (including {Ngeow, C.-C..} from NCU), 2017
+Astronomische Nachrichten, 338, 729
 The nearby spiral density-wave structure of the Galaxy: Line-of-sight and longitudinal velocities of 61 masers
-Astronomische Nachrichten, Volume 338, Issue 6, pp. 729-739
 https://ui.adsabs.harvard.edu/abs/2017AN....338..729G
 
-165
-Ahnen, M. L., Ansoldi, S., Antonelli, L. A., and et al. (including Chen, W. P, J. from NCU)
-2017
+(166) Ahnen, M. L., Ansoldi, S., Antonelli, L. A., et al. (including {Chen, W. P.}, {Koptelova, E.} from NCU), 2017
+Astronomy and Astrophysics, 603, A31
 Multiband variability studies and novel broadband SED modeling of Mrk 501 in 2009
-Astronomy & Astrophysics, Volume 603, id.A31, 30 pp.
 https://ui.adsabs.harvard.edu/abs/2017A&A...603A..31A
 
-166
-Yamaoka, K., Ohno, M., Tashiro, M. S., and et al. (including Urata, Y from NCU)
-2017
+(167) Yamaoka, K., Ohno, M., Tashiro, M. S., et al. (including {Urata, Y.} from NCU), 2017
+Publications of the Astronomical Society of Japan, 69, R2
 Suzaku Wide-band All-sky Monitor (WAM) observations of GRBs and SGRs
-Publications of the Astronomical Society of Japan, Volume 69, Issue 3, id.R2
 https://ui.adsabs.harvard.edu/abs/2017PASJ...69R...2Y
 
-167
-{Chen, W. P.}, Bhattacharya, S., Mishra, I., and et al. (including Lalchand, B. from NCU)
-2017
+(168) {Chen, W. P.}, Bhattacharya, S., Mishra, I., et al. (including {Lalchand, B..} from NCU), 2017
+Journal of Physics Conference Series, 869, 012093
 Tidal disruption of the aged open cluster Berkeley 17
-Journal of Physics: Conference Series, Volume 869, Issue 1, article id. 012093 (2017).
 https://ui.adsabs.harvard.edu/abs/2017JPhCS.869a2093C
 
-168
-{Chernyshov, D.}, Cheng, K.-S., Dogiel, V., and et al. (including Ko, C.-M. from NCU)
-2017
+(169) {Chernyshov, D.}, Cheng, K.-S., Dogiel, V., et al. (including {Ko, C.-M..} from NCU), 2017
+European Physical Journal Web of Conferences, 145, 04004
 Fermi bubbles as sources of cosmic rays above 1 PeV
-ISVHECRI 2016 - XIX International Symposium on Very High Energy Cosmic Ray Interactions, Moscow (LPI RAS), Russia, Edited by Pattison, B.; EPJ Web of Conferences, Volume 145, id.04004
 https://ui.adsabs.harvard.edu/abs/2017EPJWC.14504004C
 
-169
-Ward-Thompson, D., Pattle, K., Bastien, P., and et al. (including Chen, W. P from NCU)
-2017
+(170) Ward-Thompson, D., Pattle, K., Bastien, P., et al. (including {Chen, W. P.} from NCU), 2017
+The Astrophysical Journal, 842, 66
 First Results from BISTRO: A SCUBA-2 Polarimeter Survey of the Gould Belt
-The Astrophysical Journal, Volume 842, Issue 1, article id. 66, 10 pp. (2017).
 https://ui.adsabs.harvard.edu/abs/2017ApJ...842...66W
 
-170
-{Tsai, A.-L.} and {Hwang, C.-Y.}
-2017
+(171) {Tsai, A.-L.} and {Hwang, C.-Y.}, 2017
+The Astrophysical Journal, 842, 57
 Properties of Spectrally Defined Red QSOs at z = 0.3-1.2
-The Astrophysical Journal, Volume 842, Issue 1, article id. 57, 11 pp. (2017).
 https://ui.adsabs.harvard.edu/abs/2017ApJ...842...57T
 
-171
-Kiew, C.-Y., {Hwang, C.-Y.}, and Zainal Abibin, Z.
-2017
+(172) Kiew, C.-Y., {Hwang, C.-Y.}, and Zainal Abibin, Z., 2017
+Monthly Notices of the Royal Astronomical Society, 467, 2924
 Constraints on the dark matter neutralinos from the radio emissions of galaxy clusters
-Monthly Notices of the Royal Astronomical Society, Volume 467, Issue 3, p.2924-2933
 https://ui.adsabs.harvard.edu/abs/2017MNRAS.467.2924K
 
-172
-{Ngeow, C.-C.} and {Luo, S.-C.}
-2017
+(173) {Ngeow, C.-C.} and {Luo, S.-C.}, 2017
+Journal of Physics Conference Series, 852, 012002
 Limiting magnitudes and night sky brightness at the Langkawi National Observatory based on observations of standard stars
-Journal of Physics: Conference Series, Volume 852, Issue 1, article id. 012002 (2017).
 https://ui.adsabs.harvard.edu/abs/2017JPhCS.852a2002N
 
-173
-{Chang, C.-K.}, {Lin, H.-W.}, {Ip, W.-H.}, and et al.
-2017
+(174) {Chang, C.-K.}, {Lin, H.-W.}, {Ip, W.-H.}, et al., 2017
+The Astrophysical Journal, 840, L22
 Confirmation of Large Super-fast Rotator (144977) 2005 EC127
-The Astrophysical Journal Letters, Volume 840, Issue 2, article id. L22, 6 pp. (2017).
 https://ui.adsabs.harvard.edu/abs/2017ApJ...840L..22C
 
-174
-Huang, K., {Urata, Y.}, Takahashi, S., and et al.
-2017
+(175) Huang, K., {Urata, Y.}, Takahashi, S., et al., 2017
+Publications of the Astronomical Society of Japan, 69, 20
 ALMA and RATIR observations of GRB 131030A
-Publications of the Astronomical Society of Japan, Volume 69, Issue 2, id.20
 https://ui.adsabs.harvard.edu/abs/2017PASJ...69...20H
 
-175
-Tang, J.-J., Goto, T., Ohyama, Y., and et al. (including Chen, W.-P from NCU)
-2017
+(176) Tang, J.-J., Goto, T., Ohyama, Y., et al. (including {Chen, W.-P.} from NCU), 2017
+Monthly Notices of the Royal Astronomical Society, 466, 4568
 A quasar discovered at redshift 6.6 from Pan-STARRS1
-Monthly Notices of the Royal Astronomical Society, Volume 466, Issue 4, p.4568-4572
 https://ui.adsabs.harvard.edu/abs/2017MNRAS.466.4568T
 
-176
-Yasuda, T., {Urata, Y.}, Enomoto, J., and et al.
-2017
+(177) Yasuda, T., {Urata, Y.}, Enomoto, J., et al., 2017
+Monthly Notices of the Royal Astronomical Society, 466, 4558
 Hard X-ray spectral investigations of gamma-ray bursts 120521C and 130606A at high-redshift z ∼ 6
-Monthly Notices of the Royal Astronomical Society, Volume 466, Issue 4, p.4558-4567
 https://ui.adsabs.harvard.edu/abs/2017MNRAS.466.4558Y
 
-177
-Raiteri, C. M., Nicastro, F., Stamerra, A., and et al. (including Chen, W.-P, M. I. from NCU)
-2017
+(178) Raiteri, C. M., Nicastro, F., Stamerra, A., et al. (including {Chen, W.-P.}, {Huang, P.-C.} from NCU), 2017
+Monthly Notices of the Royal Astronomical Society, 466, 3762
 Synchrotron emission from the blazar PG 1553+113. An analysis of its flux and polarization variability
-Monthly Notices of the Royal Astronomical Society, Volume 466, Issue 3, p.3762-3774
 https://ui.adsabs.harvard.edu/abs/2017MNRAS.466.3762R
 
-178
-Bhardwaj, A., Kanbur, S. M., Marconi, M., and et al. (including Ngeow, C.-C. from NCU)
-2017
+(179) Bhardwaj, A., Kanbur, S. M., Marconi, M., et al. (including {Ngeow, C.-C..} from NCU), 2017
+Monthly Notices of the Royal Astronomical Society, 466, 2805
 A comparative study of multiwavelength theoretical and observed light curves of Cepheid variables
-Monthly Notices of the Royal Astronomical Society, Volume 466, Issue 3, p.2805-2824
 https://ui.adsabs.harvard.edu/abs/2017MNRAS.466.2805B
 
-179
-Hsu, J.-K., {Liang, M.-C.}, and {Ip, W.-H.}
-2017
+(180) Hsu, J.-K., {Liang, M.-C.}, and {Ip, W.-H.}, 2017
+EGU General Assembly Conference Abstracts,  6054
 A model study of the vertical distributions and escape fluxes of the major and minor species in Titan's thermosphere under different conditions
-19th EGU General Assembly, EGU2017, proceedings from the conference held 23-28 April, 2017 in Vienna, Austria., p.6054
 https://ui.adsabs.harvard.edu/abs/2017EGUGA..19.6054H
 
-180
-Bhardwaj, A., Macri, L. M., Rejkuba, M., and et al. (including Ngeow, C.-C from NCU)
-2017
+(181) Bhardwaj, A., Macri, L. M., Rejkuba, M., et al. (including {Ngeow, C.-C.} from NCU), 2017
+The Astronomical Journal, 153, 154
 Large Magellanic Cloud Near-infrared Synoptic Survey. IV. Leavitt Laws for Type II Cepheid Variables
-The Astronomical Journal, Volume 153, Issue 4, article id. 154, 16 pp. (2017).
 https://ui.adsabs.harvard.edu/abs/2017AJ....153..154B
 
-181
-{Huang, J. C.} and {Hwang, C. Y.}
-2017
+(182) {Huang, J. C.} and {Hwang, C. Y.}, 2017
+Publications of the Astronomical Society of the Pacific, 129, 034001
 An Adaptive Homomorphic Aperture Photometry Algorithm for Merging Galaxies
-Publications of the Astronomical Society of the Pacific, Volume 129, Issue 973, pp. 034001 (2017).
 https://ui.adsabs.harvard.edu/abs/2017PASP..129c4001H
 
-182
-Lin, C.-C., {Chen, W.-P.}, Hou, J., and et al.
-2017
+(183) Lin, C.-C., {Chen, W.-P.}, Hou, J., et al., 2017
+Formation, Evolution, and Survival of Massive Star Clusters, 316, 163
 Identifying and Characterizing Stellar Clusters Toward the Galactic Anti-Center from Pan-STARRS1 Survey
-Formation, evolution, and survival of massive star clusters, Proceedings of the International Astronomical Union, IAU Symposium, Volume 316, pp. 163-164
 https://ui.adsabs.harvard.edu/abs/2017IAUS..316..163L
 
-183
-Griv, E., Hou, L.-G., Jiang, I.-G., and et al. (including Ngeow, C.-C. from NCU)
-2017
+(184) Griv, E., Hou, L.-G., Jiang, I.-G., et al. (including {Ngeow, C.-C..} from NCU), 2017
+Monthly Notices of the Royal Astronomical Society, 464, 4495
 The nearby spiral density-wave structure of the Galaxy: line-of-sight and longitudinal velocities of 223 Cepheids
-Monthly Notices of the Royal Astronomical Society, Volume 464, Issue 4, p.4495-4508
 https://ui.adsabs.harvard.edu/abs/2017MNRAS.464.4495G
 
-184
-Jose, J., Herczeg, G. J., {Samal, M. R.}, and et al.
-2017
+(185) Jose, J., Herczeg, G. J., {Samal, M. R.}, et al., 2017
+The Astrophysical Journal, 836, 98
 The Low-mass Population in the Young Cluster Stock 8: Stellar Properties and Initial Mass Function
-The Astrophysical Journal, Volume 836, Issue 1, article id. 98, 13 pp. (2017).
 https://ui.adsabs.harvard.edu/abs/2017ApJ...836...98J
 
-185
-{Chernyshov, D. O.}, Cheng, K.-S., Dogiel, V. A., and et al. (including Ko, C. M. from NCU)
-2017
+(186) {Chernyshov, D. O.}, Cheng, K.-S., Dogiel, V. A., et al. (including {Ko, C. M..} from NCU), 2017
+The Astrophysical Journal, 835, 194
 Origin of X-Ray and Gamma-Ray Emission from the Galactic Central Region
-The Astrophysical Journal, Volume 835, Issue 2, article id. 194, 11 pp. (2017).
 https://ui.adsabs.harvard.edu/abs/2017ApJ...835..194C
 
-186
-Gezari, S., Hung, T., Cenko, S. B., and et al. (including Yu, P. C, K. from NCU)
-2017
+(187) Gezari, S., Hung, T., Cenko, S. B., et al. (including {Yu, P. C.}, {Ngeow, C.-C.} from NCU), 2017
+The Astrophysical Journal, 835, 144
 iPTF Discovery of the Rapid “Turn-on” of a Luminous Quasar
-The Astrophysical Journal, Volume 835, Issue 2, article id. 144, 11 pp. (2017).
 https://ui.adsabs.harvard.edu/abs/2017ApJ...835..144G
 
-187
-Vaidya, K., Bhattacharya, S., Panwar, V., and et al. (including Samal, M, Panwar from NCU)
-2017
+(188) Vaidya, K., Bhattacharya, S., Panwar, V., et al. (including {Samal, M.}, {Chen, W.-P.} from NCU), 2017
+Memorie della Societa Astronomica Italiana, 88, 846
 Star formation toward IRAS 10427-6032
-Memorie della Societa Astronomica Italiana, v.88, p.846 (2017)
 https://ui.adsabs.harvard.edu/abs/2017MmSAI..88..846V
 
-188
-{Ip, W.-H.}
-2017
+(189) {Ip, W.-H.}, 2017
+The Emergence of Astrophysics in Asia: Opening a New Window on the Universe, Historical &amp; Cultural Astronomy,  257
 The Development of Astronomy and Emergence of Astrophysics in Taiwan
-The Emergence of Astrophysics in Asia, Historical & Cultural Astronomy. ISBN 978-3-319-62080-0. Springer International Publishing AG, 2017, p. 257
 https://ui.adsabs.harvard.edu/abs/2017eaa..book..257I
 
-189
-{Ngeow, C.-C.}, Kanbur, S. M., Bhardwaj, A., and et al.
-2017
+(190) {Ngeow, C.-C.}, Kanbur, S. M., Bhardwaj, A., et al., 2017
+The Astrophysical Journal, 834, 160
 Period-Color and Amplitude-Color Relations at Maximum and Minimum Light for RR Lyrae Stars in the SDSS Stripe 82 Region
-The Astrophysical Journal, Volume 834, Issue 2, article id. 160, 12 pp. (2017).
 https://ui.adsabs.harvard.edu/abs/2017ApJ...834..160N
 
-190
-{Chang, H.-Y.}, Song, Y.-H., Luo, A.-L., and et al. (including Huang, L.-C, Luo from NCU)
-2017
+(191) {Chang, H.-Y.}, Song, Y.-H., Luo, A.-L., et al. (including {Huang, L.-C.}, {Ip, W.-H.} from NCU), 2017
+The Astrophysical Journal, 834, 92
 LAMOST Observations of Flaring M Dwarfs in the Kepler Field
-The Astrophysical Journal, Volume 834, Issue 1, article id. 92, 7 pp. (2017).
 https://ui.adsabs.harvard.edu/abs/2017ApJ...834...92C
 

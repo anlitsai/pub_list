@@ -22,7 +22,13 @@ adsurl
 %l, \n%F, \n%Y, \n%T, \n%Q, \n%V, %p.  \n%u \n
 %l, \t%F, \t%Y, \t%T, \t%Q, \t%V, %p.  \t%u \n
 export-custom_all.txt
+%l\t%F\t%Y\t%T\t%Q\t%u\n
+export-custom_lFYTQu.txt
 
+%l\t%F\t%Y\t%T\t%J\t%V\t%p\t%u\n
+export-custom_lFYTJVpu.txt
+%l\t%Y\t%F\t%T\t%J\t%V\t%p\t%u
+export-custom_lYFTJVpu.txt
 
 
 %F

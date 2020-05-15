@@ -7,8 +7,9 @@ Created on Tue May 12 20:16:12 2020
 """
 import os
 import sys
-#import shutil
+import shutil
 #import re
+import subprocess
 #import numpy as np
 import pandas as pd
 #file_AA_idx='AA_idx.list'
@@ -20,8 +21,23 @@ file_author='export-custom_author_all.txt'
 file_affiliation='export-custom_aff_all.txt'
 
 #file_all='export-custom_all_author_all_aff.txt'
-file_all='export-custom_lFYTQu_tab.txt'
+#file_all='export-custom_lFYTQu_tab.txt'
 
+file_custom='export-custom_lYFTJVpu_pipe.txt'
+file_all='export-custom_lYFTJVpu_pipe2.txt'
+
+shutil.copyfile(file_custom, file_all)
+
+subprocess.call(["sed -i -e 's/|257|/||257|/g' "+file_all], shell=True)
+subprocess.call(["sed -i -e 's/(UPSay);/(UPSay) ;/g' "+file_all], shell=True)
+subprocess.call(["sed -i -e 's/(CAASTRO);/(CAASTRO) ;/g' "+file_all], shell=True)
+subprocess.call(["sed -i -e 's/#50/#50|/g' "+file_all], shell=True)
+subprocess.call(["sed -i -e 's/#49/#49|/g' "+file_all], shell=True)
+subprocess.call(["sed -i -e 's/|8|/||8|/g' "+file_all], shell=True)
+subprocess.call(["sed -i -e 's/|EPSC2017-784|/||EPSC2017-784|/g' "+file_all], shell=True)
+subprocess.call(["sed -i -e 's/|6054|/||6054|/g' "+file_all], shell=True)
+
+#sys.exit(0)
 
 #list_AA_idx=
 
@@ -60,11 +76,11 @@ idx_AA=pd_AA[1]
 
 
 
-df_all=pd.read_csv(file_all,sep='    ',header=None)
+df_all=pd.read_csv(file_all,sep='|',header=None)
 #print(df_all)
 #sys.exit(0)
 
-col=['author','affi','year','title','journal','url']
+col=['author','year', 'affi','title','journal','volumn','page','url']
 df_all.columns=col
 #print(df_all)
 n_paper=len(df_all)
@@ -73,14 +89,19 @@ n_paper=len(df_all)
 
 col_author=df_all['author']
 #print(col_author)
-col_affi=df_all['affi']
-#print(col_affi)
 col_year=df_all['year']
 #print(col_year)
+col_affi=df_all['affi']
+#print(col_affi)
+
 col_title=df_all['title']
 #print(col_title)
 col_journal=df_all['journal']
 #print(col_journal)
+col_volumn=df_all['volumn']
+
+col_page=df_all['page']
+
 col_url=df_all['url']
 #print(col_url)
 
@@ -90,8 +111,9 @@ col_url=df_all['url']
 col_author=col_author.str.replace('& ','')
 #print(col_author[0])
 
-df_all['author_number']=[len(i) for i in col_author]
-col_author_number=df_all['author_number']
+#df_all['author_number']=[len(i) for i in col_author]
+
+
 #print(col_author_number)
 #sys.exit(0)  
 
@@ -101,18 +123,22 @@ col_author_number=df_all['author_number']
 list_affi_AA=[]
 list_affi_name=[]
 list_affi_number=[]
+list_author_number=[]
 
 for i in range(n_paper):
+    print('#',i,'paper')
+    author_in1paper=col_author[i]
     affi_in1paper=col_affi[i]
     
+#    list_author_in1paper=[author_in1paper.split('.,',-1)][0]
     list_affi_in1paper=[affi_in1paper.split(');',-1)][0]
-#    print(list_affi_in1paper)
+    print(list_affi_in1paper)
     list_affi_AA_in1paper=[]
     list_affi_name_in1paper=[]
 
     for j in list_affi_in1paper:
         affi_AA_name=j.split('(',2)
-#        print(affi_AA_name)
+        print(affi_AA_name)
         affi_AA=affi_AA_name[0]
         affi_AA=affi_AA.replace(" ","")
         list_affi_AA_in1paper.append(affi_AA)
@@ -137,12 +163,15 @@ for i in range(n_paper):
 #print(list_affi_number)
 #print(len(list_affi_number))
 
+#sys.exit(0)  
+
 df_all['affi_AA']=list_affi_AA
 df_all['affi_name']=list_affi_name
 df_all['affi_number']=list_affi_number
 col_affi_AA=df_all['affi_AA']
 col_affi_name=df_all['affi_name']
 col_affi_number=df_all['affi_number']
+#col_author_number=df_all['author_number']
 
 
 #sys.exit(0)  
@@ -181,6 +210,7 @@ idx_i=-1
 #sys.exit(0)
 
 for i in range(n_paper):
+    print('#',i,'paper')
     list_affi_name_in1paper=col_affi_name[i]
     list_author_in1paper=col_author[i].split('., ',-1)
     n_author_in1paper=len(list_author_in1paper)
@@ -258,7 +288,7 @@ if os.path.exists(file_pub):
 f_pub=open(file_pub,'w')
 
 for i in range(n_paper):
-    print(i)
+    print('#',i,'paper')
     paper_url=col_url[i]
     list_author_in1paper=col_author[i][:-1].split('., ',-1)
     n_author_in1paper=col_author_number[i]
@@ -266,6 +296,12 @@ for i in range(n_paper):
     print(paper_title)
     paper_journal=col_journal[i]
     print(paper_journal)
+
+    paper_volumn=col_volumn[i]
+    print('volumn',paper_volumn)
+    paper_page=col_page[i]
+    print('page',paper_page)
+    
     paper_affi_AA=col_affi_AA[i]
     print(paper_affi_AA)
     paper_NCU_AA=col_NCU_AA[i]
@@ -373,7 +409,7 @@ for i in range(n_paper):
                 author_kk=author_kk+", "+author_k2            
             author4=str(author_k1)+str(author_kk)
 #            author=str(author1)+", "+str(author2)+", "+str(author3)+", and et al. (including "+str(author4)+" from NCU)"
-            author=author123+", and et al. (including "+str(author4)+" from NCU)"            
+            author=author123+", et al. (including "+str(author4)+" from NCU)"            
             print(author)
             print(paper_url+"\n")
 
@@ -385,4 +421,4 @@ for i in range(n_paper):
     pub_info=str(i)+'\n'+author+'\n'+str(paper_year)+'\n'+paper_title+'\n'+paper_journal+'\n'+paper_url+'\n\n'
     f_pub.write(pub_info)
 
-f_pub.close
+f_pub.close()

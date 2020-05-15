@@ -7,8 +7,9 @@ Created on Tue May 12 20:16:12 2020
 """
 import os
 import sys
-#import shutil
+import shutil
 #import re
+import subprocess
 #import numpy as np
 import pandas as pd
 #file_AA_idx='AA_idx.list'
@@ -20,8 +21,23 @@ file_author='export-custom_author_all.txt'
 file_affiliation='export-custom_aff_all.txt'
 
 #file_all='export-custom_all_author_all_aff.txt'
-file_all='export-custom_lFYTQu_tab.txt'
+#file_all='export-custom_lFYTQu_tab.txt'
 
+file_custom='export-custom_lYFTJVpu_pipe.txt'
+file_all='export-custom_lYFTJVpu_pipe2.txt'
+
+shutil.copyfile(file_custom, file_all)
+
+subprocess.call(["sed -i -e 's/|257|/||257|/g' "+file_all], shell=True)
+subprocess.call(["sed -i -e 's/(UPSay);/(UPSay) ;/g' "+file_all], shell=True)
+subprocess.call(["sed -i -e 's/(CAASTRO);/(CAASTRO) ;/g' "+file_all], shell=True)
+subprocess.call(["sed -i -e 's/#50/#50|/g' "+file_all], shell=True)
+subprocess.call(["sed -i -e 's/#49/#49|/g' "+file_all], shell=True)
+subprocess.call(["sed -i -e 's/|8|/||8|/g' "+file_all], shell=True)
+subprocess.call(["sed -i -e 's/|EPSC2017-784|/||EPSC2017-784|/g' "+file_all], shell=True)
+subprocess.call(["sed -i -e 's/|6054|/||6054|/g' "+file_all], shell=True)
+
+#sys.exit(0)
 
 #list_AA_idx=
 
@@ -60,11 +76,11 @@ idx_AA=pd_AA[1]
 
 
 
-df_all=pd.read_csv(file_all,sep='    ',header=None)
+df_all=pd.read_csv(file_all,sep='|',header=None)
 #print(df_all)
 #sys.exit(0)
 
-col=['author','affi','year','title','journal','url']
+col=['author','year', 'affi','title','journal','volumn','page','url']
 df_all.columns=col
 #print(df_all)
 n_paper=len(df_all)
@@ -73,14 +89,19 @@ n_paper=len(df_all)
 
 col_author=df_all['author']
 #print(col_author)
-col_affi=df_all['affi']
-#print(col_affi)
 col_year=df_all['year']
 #print(col_year)
+col_affi=df_all['affi']
+#print(col_affi)
+
 col_title=df_all['title']
 #print(col_title)
 col_journal=df_all['journal']
 #print(col_journal)
+col_volumn=df_all['volumn']
+
+col_page=df_all['page']
+
 col_url=df_all['url']
 #print(col_url)
 
@@ -90,8 +111,9 @@ col_url=df_all['url']
 col_author=col_author.str.replace('& ','')
 #print(col_author[0])
 
-df_all['author_number']=[len(i) for i in col_author]
-col_author_number=df_all['author_number']
+#df_all['author_number']=[len(i) for i in col_author]
+
+
 #print(col_author_number)
 #sys.exit(0)  
 
@@ -101,10 +123,14 @@ col_author_number=df_all['author_number']
 list_affi_AA=[]
 list_affi_name=[]
 list_affi_number=[]
+list_author_number=[]
 
 for i in range(n_paper):
+    print('#',i,'paper')
+    author_in1paper=col_author[i]
     affi_in1paper=col_affi[i]
     
+#    list_author_in1paper=[author_in1paper.split('.,',-1)][0]
     list_affi_in1paper=[affi_in1paper.split(');',-1)][0]
 #    print(list_affi_in1paper)
     list_affi_AA_in1paper=[]
@@ -137,12 +163,15 @@ for i in range(n_paper):
 #print(list_affi_number)
 #print(len(list_affi_number))
 
+#sys.exit(0)  
+
 df_all['affi_AA']=list_affi_AA
 df_all['affi_name']=list_affi_name
 df_all['affi_number']=list_affi_number
 col_affi_AA=df_all['affi_AA']
 col_affi_name=df_all['affi_name']
 col_affi_number=df_all['affi_number']
+#col_author_number=df_all['author_number']
 
 
 #sys.exit(0)  
@@ -181,11 +210,15 @@ idx_i=-1
 #sys.exit(0)
 
 for i in range(n_paper):
+    print('#',i,'paper')
     list_affi_name_in1paper=col_affi_name[i]
     list_author_in1paper=col_author[i].split('., ',-1)
     n_author_in1paper=len(list_author_in1paper)
     df_all['author_number'][i]=n_author_in1paper
     print("# of authors = ", n_author_in1paper)
+    df_all['author'][i]=list_author_in1paper
+
+
     
     list_NCU_author_idx_in1paper=[]
     list_NCU_author_in1paper=[]
@@ -207,7 +240,7 @@ for i in range(n_paper):
 #            print(NCU_idx,j)
             if NCU_idx<3:
                 list_NCU_author3_idx_in1paper.append(NCU_idx)
-                list_NCU_author3_in1paper.append(list_author_in1paper[NCU_idx])
+                list_NCU_author3_in1paper.append(list_author_in1paper[NCU_idx])                
             else:
                 list_NCU_author4_idx_in1paper.append(NCU_idx)
                 list_NCU_author4_in1paper.append(list_author_in1paper[NCU_idx])
@@ -216,12 +249,14 @@ for i in range(n_paper):
 #    print(list_NCU_author_idx_in1paper)
     df_all['NCU_author_idx'][i]=list_NCU_author_idx_in1paper
     for k in list_NCU_author_idx_in1paper:
-        list_NCU_author_in1paper.append(list_author_in1paper)
+        list_NCU_author_in1paper.append(list_author_in1paper[NCU_idx])
 #    print(list_NCU_author_in1paper)
     df_all['NCU_author'][i]=list_NCU_author_in1paper
     n_NCU_author_in1paper=len(list_NCU_author_in1paper)
     df_all['NCU_author_number'][i]=n_NCU_author_in1paper
 #    print("found",n_NCU_author_in1paper,"NCU")
+
+    
     df_all['NCU_author3'][i]=list_NCU_author3_in1paper
     df_all['NCU_author3_idx'][i]=list_NCU_author3_idx_in1paper
     n_NCU_author3_in1paper=len(list_NCU_author3_in1paper)
@@ -233,6 +268,7 @@ for i in range(n_paper):
     df_all['NCU_author4_number'][i]=n_NCU_author4_in1paper
     df_all['NCU_AA'][i]=list_NCU_AA_in1paper
 
+#col_author=df_all['author']
 col_author_number=df_all['author_number']
 col_NCU_author=df_all['NCU_author']
 col_NCU_author_idx=df_all['NCU_author_idx']
@@ -257,15 +293,52 @@ if os.path.exists(file_pub):
        
 f_pub=open(file_pub,'w')
 
+
 for i in range(n_paper):
-    print(i)
+    Nr_paper='# '+str(i)+' paper'
+    print(Nr_paper)
+#    f_pub.write(Nr_paper+'\n')
+#    f_pub.write(str(n_paper)+'\n')
     paper_url=col_url[i]
+
+
     list_author_in1paper=col_author[i][:-1].split('., ',-1)
+    n_author_in1paper=len(list_author_in1paper)
     n_author_in1paper=col_author_number[i]
+    i_author=-1
+
+#    for author_name in list_author_in1paper:
+#        i_author=i_author+1
+#        author_name=author_name+'.'
+#        author_name=author_name.replace('..','.')
+#        print(author_name)
+#        list_author_in1paper[i_author]=author_name
+    for i_author in range(n_author_in1paper):        
+        author_name=list_author_in1paper[i_author]+'.'
+        author_name=author_name.replace('..','.')
+#        print(author_name)
+        list_author_in1paper[i_author]=author_name
+    print(list_author_in1paper)    
+
+
+#    list_author3_in1paper=[]
+#    list_author4_in1paper=[]
+    for i_NCU_idx in col_NCU_author_idx[i]:
+        list_author_in1paper[i_NCU_idx]='{'+list_author_in1paper[i_NCU_idx]+'}'
+#        list_author3_in1paper[i_NCU_idx]='{'+list_author3_in1paper[i_NCU_idx]+'}'
+#        list_author4_in1paper[i_NCU_idx]='{'+list_author4_in1paper[i_NCU_idx]+'}'
+    print(list_author_in1paper)    
+#    col_NCU_author[i]=list_author_in1paper
+
+
     paper_title=col_title[i]
     print(paper_title)
     paper_journal=col_journal[i]
-    print(paper_journal)
+#    print(paper_journal)
+    paper_volumn=col_volumn[i]
+    paper_page=col_page[i]
+    print(paper_journal,',',paper_volumn, ',',paper_page)
+    
     paper_affi_AA=col_affi_AA[i]
     print(paper_affi_AA)
     paper_NCU_AA=col_NCU_AA[i]
@@ -274,29 +347,17 @@ for i in range(n_paper):
     print(paper_year)
 
 
+    
+
     author1=list_author_in1paper[0]
-    if "AA" in paper_NCU_AA:
-        author1='{'+author1+'.}'
-        print("AA")
-    else:
-        author1=author1+'.'
      
- 
     if n_author_in1paper==1:
 #        print("1")
         author=author1
-        print(paper_affi_AA)
-        print(author1)
-        print(author)
         print(paper_url+"\n")
     elif n_author_in1paper==2:
 #        print("2")
         author2=list_author_in1paper[1]
-        if "AB" in paper_NCU_AA:
-            author2='{'+author2+'.}'
-            print("AB")
-        else:
-            author2=author2+'.'
         author=author1+" and "+author2
         print(paper_affi_AA)
         print(author1,author2)
@@ -305,17 +366,7 @@ for i in range(n_paper):
     elif n_author_in1paper==3:
 #        print("3")        
         author2=list_author_in1paper[1]
-        if "AB" in paper_NCU_AA:
-            author2='{'+author2+'.}'
-            print("AB")
-        else:
-            author2=author2+'.'
         author3=list_author_in1paper[2]
-        if "AC" in paper_NCU_AA:
-            author3='{'+author3+'.}'                
-            print("AC")
-        else:
-            author3=author3+'.'
         author=author1+", "+author2+", and "+author3
         print(paper_affi_AA)
         print(author1,author2,author3)
@@ -325,23 +376,8 @@ for i in range(n_paper):
 #        print(">3")
 #        author_NCU=""
         author1=list_author_in1paper[0]
-        if "AA" in paper_NCU_AA:
-            author1='{'+author1+'.}'
-            print("AA")
-        else:
-            author1=author1+'.'
         author2=list_author_in1paper[1]
-        if "AB" in paper_NCU_AA:
-            author2='{'+author2+'.}'
-            print("AB")
-        else:
-            author2=author2+'.'
         author3=list_author_in1paper[2]
-        if "AC" in paper_NCU_AA:
-            author3='{'+author3+'.}'                
-            print("AC")
-        else:
-            author3=author3+'.'
         author123=author1+", "+author2+", "+author3
         
         # NCU author after the 3rd authorship
@@ -359,6 +395,7 @@ for i in range(n_paper):
 
         elif col_NCU_author4_number[i]==1:
             author_k1=col_NCU_author4[i][0]
+            author_k1='{'+author_k1+'.}'
             author4=str(author_k1)
 #            author=str(author1)+", "+str(author2)+", "+str(author3)+", and et al. (including "+str(author4)+" from NCU)"
             author=author123+", et al. (including "+str(author4)+" from NCU)"
@@ -368,21 +405,39 @@ for i in range(n_paper):
 
         else:
             author_k1=col_NCU_author4[i][0]
+            author_k1='{'+author_k1+'.}'
             for k in col_NCU_author4_idx[i][1:]:                
-                author_k2=col_author[i].split(", ",-1)[k]
+                author_k2=col_author[i].split("., ",-1)[k]
+                author_k2='{'+author_k2+'.}'
                 author_kk=author_kk+", "+author_k2            
             author4=str(author_k1)+str(author_kk)
 #            author=str(author1)+", "+str(author2)+", "+str(author3)+", and et al. (including "+str(author4)+" from NCU)"
-            author=author123+", and et al. (including "+str(author4)+" from NCU)"            
+            author=author123+", et al. (including "+str(author4)+" from NCU)"            
             print(author)
             print(paper_url+"\n")
 
 #    author=author.replace("(including NESS Collaboration. from NCU)","")
-    paper_journal=paper_journal.replace("&amp;","&")
-    paper_journal=paper_journal.replace('Online at <A href="http://coolstars20.cfa.harvard.edu/">http://coolstars20.cfa.harvard.edu/</A>, cs20, id.8','')    
-    paper_title=paper_title.replace("<SUB>","")
-    paper_title=paper_title.replace("</SUB>","")
-    pub_info=str(i)+'\n'+author+'\n'+str(paper_year)+'\n'+paper_title+'\n'+paper_journal+'\n'+paper_url+'\n\n'
+#    paper_journal=paper_journal.replace("&amp;","&")
+#    paper_journal=paper_journal.replace('Online at <A href="http://coolstars20.cfa.harvard.edu/">http://coolstars20.cfa.harvard.edu/</A>, cs20, id.8','')    
+#    paper_title=paper_title.replace("<SUB>","")
+#    paper_title=paper_title.replace("</SUB>","")
+    
+#    pub_info=str(i)+'\n'+author+'\n'+str(paper_year)+'\n'+paper_title+'\n'+paper_journal+'\n'+paper_url+'\n\n'
+#    pub_info=author+', '+str(paper_year)+'\n'+paper_title+'\n'+paper_journal+', '+str(paper_volumn)+', '+str(paper_page)+'\n'+paper_url+'\n'
+    pub_info='('+str(i+1)+') '+author+', '+str(paper_year)+'\n'+paper_journal+', '+str(paper_volumn)+', '+str(paper_page)+'\n'+paper_title+'\n'+paper_url+'\n\n'
+#    pub_info='('+str(i)+') '+author+', '+str(paper_year)+', '+paper_title+', '+paper_journal+', '+str(paper_volumn)+', '+str(paper_page)+'\n'
+    print(pub_info)
     f_pub.write(pub_info)
 
-f_pub.close
+
+
+f_pub.close()
+
+subprocess.call(["sed -i -e 's/nan,//g' "+file_pub], shell=True)
+subprocess.call(["sed -i -e 's/<SUB>//g' "+file_pub], shell=True)
+subprocess.call(["sed -i -e 's/<\/SUB>//g' "+file_pub], shell=True)
+subprocess.call(["sed -i -e 's/&amp;/&/g' "+file_pub], shell=True)
+subprocess.call(["sed -i -e 's/\.0//g' "+file_pub], shell=True)
+subprocess.call(["sed -i -e 's/ (including {NESS Collaboration.} from NCU)//g' "+file_pub], shell=True)
+
+
