@@ -24,27 +24,30 @@ file_affiliation='export-custom_aff_all.txt'
 #file_all='export-custom_lFYTQu_tab.txt'
 
 file_custom='export-custom_lYFTJVpu_pipe.txt'
-file_all='export-custom_lYFTJVpu_pipe2.txt'
+file_custom2='export-custom_lYFTJVpu_pipe2.txt'
 
-shutil.copyfile(file_custom, file_all)
+shutil.copyfile(file_custom, file_custom2)
 
-subprocess.call(["sed -i -e 's/|257|/||257|/g' "+file_all], shell=True)
-subprocess.call(["sed -i -e 's/(UPSay);/(UPSay) ;/g' "+file_all], shell=True)
-subprocess.call(["sed -i -e 's/(CAASTRO);/(CAASTRO) ;/g' "+file_all], shell=True)
-subprocess.call(["sed -i -e 's/#50/#50|/g' "+file_all], shell=True)
-subprocess.call(["sed -i -e 's/#49/#49|/g' "+file_all], shell=True)
-subprocess.call(["sed -i -e 's/|8|/||8|/g' "+file_all], shell=True)
-subprocess.call(["sed -i -e 's/|EPSC2017-784|/||EPSC2017-784|/g' "+file_all], shell=True)
-subprocess.call(["sed -i -e 's/|6054|/||6054|/g' "+file_all], shell=True)
+subprocess.call(["sed -i -e 's/|257|/||257|/g' "+file_custom2], shell=True)
+subprocess.call(["sed -i -e 's/(UPSay);/(UPSay) ;/g' "+file_custom2], shell=True)
+subprocess.call(["sed -i -e 's/(CAASTRO);/(CAASTRO) ;/g' "+file_custom2], shell=True)
+subprocess.call(["sed -i -e 's/#50/#50|/g' "+file_custom2], shell=True)
+subprocess.call(["sed -i -e 's/#49/#49|/g' "+file_custom2], shell=True)
+subprocess.call(["sed -i -e 's/|8|/||8|/g' "+file_custom2], shell=True)
+subprocess.call(["sed -i -e 's/|EPSC2017-784|/||EPSC2017-784|/g' "+file_custom2], shell=True)
+subprocess.call(["sed -i -e 's/|6054|/||6054|/g' "+file_custom2], shell=True)
 
 #sys.exit(0)
 
 #list_AA_idx=
+file_all='export-custom_sorted.txt'
+
+cmd_sort="sort "+file_custom2+" -o "+file_all
+list_AA_idx=os.popen(cmd_sort,"r")
 
 
 
-cmd_AA_idx="cat "+file_AA_idx
-list_AA_idx=os.popen(cmd_AA_idx,"r").read().splitlines()
+subprocess.call(["cat "+file_AA_idx],shell=True)
 
 #sys.exit(0)
 
@@ -93,7 +96,6 @@ col_year=df_all['year']
 #print(col_year)
 col_affi=df_all['affi']
 #print(col_affi)
-
 col_title=df_all['title']
 #print(col_title)
 col_journal=df_all['journal']
@@ -424,7 +426,9 @@ for i in range(n_paper):
     
 #    pub_info=str(i)+'\n'+author+'\n'+str(paper_year)+'\n'+paper_title+'\n'+paper_journal+'\n'+paper_url+'\n\n'
 #    pub_info=author+', '+str(paper_year)+'\n'+paper_title+'\n'+paper_journal+', '+str(paper_volumn)+', '+str(paper_page)+'\n'+paper_url+'\n'
-    pub_info='('+str(i+1)+') '+author+', '+str(paper_year)+'\n'+paper_journal+', '+str(paper_volumn)+', '+str(paper_page)+'\n'+paper_title+'\n'+paper_url+'\n\n'
+#    pub_info='('+str(i+1)+') '+author+', '+str(paper_year)+'\n'+paper_journal+', '+str(paper_volumn)+', '+str(paper_page)+'\n'+paper_title+'\n'+paper_url+'\n\n'
+#    pub_info=author+', '+str(paper_year)+', '+paper_journal+', '+str(paper_volumn)+', '+str(paper_page)+', '+paper_title+', '+paper_url+'\n'    
+    pub_info=author+'|'+str(paper_year)+'|'+paper_journal+', '+str(paper_volumn)+', '+str(paper_page)+'|'+paper_title+'|'+paper_url+'\n'    
 #    pub_info='('+str(i)+') '+author+', '+str(paper_year)+', '+paper_title+', '+paper_journal+', '+str(paper_volumn)+', '+str(paper_page)+'\n'
     print(pub_info)
     f_pub.write(pub_info)
@@ -440,4 +444,9 @@ subprocess.call(["sed -i -e 's/&amp;/&/g' "+file_pub], shell=True)
 subprocess.call(["sed -i -e 's/\.0//g' "+file_pub], shell=True)
 subprocess.call(["sed -i -e 's/ (including {NESS Collaboration.} from NCU)//g' "+file_pub], shell=True)
 
-
+file_2017='pub_list_NCU_2017.txt'
+file_2018='pub_list_NCU_2018.txt'
+file_2019='pub_list_NCU_2019.txt'
+print(file_2017)
+#subprocess.call(["cat "+file_pub+"| grep \/2017 -B3 > "+file_2017],shell=True)
+subprocess.call(["cat "+file_pub+"| grep \/2017 > "+file_2017],shell=True)
