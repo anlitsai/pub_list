@@ -427,8 +427,8 @@ for i in range(n_paper):
 #    pub_info=str(i)+'\n'+author+'\n'+str(paper_year)+'\n'+paper_title+'\n'+paper_journal+'\n'+paper_url+'\n\n'
 #    pub_info=author+', '+str(paper_year)+'\n'+paper_title+'\n'+paper_journal+', '+str(paper_volumn)+', '+str(paper_page)+'\n'+paper_url+'\n'
 #    pub_info='('+str(i+1)+') '+author+', '+str(paper_year)+'\n'+paper_journal+', '+str(paper_volumn)+', '+str(paper_page)+'\n'+paper_title+'\n'+paper_url+'\n\n'
-#    pub_info=author+', '+str(paper_year)+', '+paper_journal+', '+str(paper_volumn)+', '+str(paper_page)+', '+paper_title+', '+paper_url+'\n'    
-    pub_info=author+'|'+str(paper_year)+'|'+paper_journal+', '+str(paper_volumn)+', '+str(paper_page)+'|'+paper_title+'|'+paper_url+'\n'    
+    pub_info=author+', '+str(paper_year)+', '+paper_journal+', '+str(paper_volumn)+', '+str(paper_page)+', '+paper_title+', '+paper_url+'\n'    
+#    pub_info=author+'|'+str(paper_year)+'|'+paper_journal+', '+str(paper_volumn)+', '+str(paper_page)+'|'+paper_title+'|'+paper_url+'\n'    
 #    pub_info='('+str(i)+') '+author+', '+str(paper_year)+', '+paper_title+', '+paper_journal+', '+str(paper_volumn)+', '+str(paper_page)+'\n'
     print(pub_info)
     f_pub.write(pub_info)
@@ -443,6 +443,7 @@ subprocess.call(["sed -i -e 's/<\/SUB>//g' "+file_pub], shell=True)
 subprocess.call(["sed -i -e 's/&amp;/&/g' "+file_pub], shell=True)
 subprocess.call(["sed -i -e 's/\.0//g' "+file_pub], shell=True)
 subprocess.call(["sed -i -e 's/ (including {NESS Collaboration.} from NCU)//g' "+file_pub], shell=True)
+subprocess.call(["sed -i -e 's/Ip, W.-H.,/{Ip, W.-H.},/g' "+file_pub],shell=True)
 
 file_2017='pub_list_NCU_2017.txt'
 file_2018='pub_list_NCU_2018.txt'
@@ -450,3 +451,5 @@ file_2019='pub_list_NCU_2019.txt'
 print(file_2017)
 #subprocess.call(["cat "+file_pub+"| grep \/2017 -B3 > "+file_2017],shell=True)
 subprocess.call(["cat "+file_pub+"| grep \/2017 > "+file_2017],shell=True)
+subprocess.call(["cat "+file_pub+"| grep \/2018 > "+file_2018],shell=True)
+subprocess.call(["cat "+file_pub+"| grep \/2019 > "+file_2019],shell=True)
