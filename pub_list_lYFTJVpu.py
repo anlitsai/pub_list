@@ -23,33 +23,36 @@ file_affiliation='export-custom_aff_all.txt'
 #file_all='export-custom_all_author_all_aff.txt'
 #file_all='export-custom_lFYTQu_tab.txt'
 
-file_custom='export-custom_lYFTJVpu_pipe.txt'
-file_custom2='export-custom_lYFTJVpu_pipe2.txt'
+file_custom1='export-custom_lYFTJVpu_pipe.txt'
+#file_custom2='export-custom_lYFTJVpu_AA_pipe.txt'
+file_custom_Ip='export-custom_lYFTJVpu_Ip_pipe.txt'
+file_combine='export-custom_combine.txt'
+file_sorted='export-custom_sorted.txt'
 
-shutil.copyfile(file_custom, file_custom2)
+shutil.copyfile(file_custom1, file_combine)
 
-subprocess.call(["sed -i -e 's/|257|/||257|/g' "+file_custom2], shell=True)
-subprocess.call(["sed -i -e 's/(UPSay);/(UPSay) ;/g' "+file_custom2], shell=True)
-subprocess.call(["sed -i -e 's/(CAASTRO);/(CAASTRO) ;/g' "+file_custom2], shell=True)
-subprocess.call(["sed -i -e 's/#50/#50|/g' "+file_custom2], shell=True)
-subprocess.call(["sed -i -e 's/#49/#49|/g' "+file_custom2], shell=True)
-subprocess.call(["sed -i -e 's/|8|/||8|/g' "+file_custom2], shell=True)
-subprocess.call(["sed -i -e 's/|EPSC2017-784|/||EPSC2017-784|/g' "+file_custom2], shell=True)
-subprocess.call(["sed -i -e 's/|6054|/||6054|/g' "+file_custom2], shell=True)
+subprocess.call(["cat "+file_custom_Ip+">> "+file_combine],shell=True)
 
-#sys.exit(0)
+subprocess.call(["sed -i -e 's/|257|/||257|/g' "+file_combine], shell=True)
+subprocess.call(["sed -i -e 's/(UPSay);/(UPSay) ;/g' "+file_combine], shell=True)
+subprocess.call(["sed -i -e 's/(CAASTRO);/(CAASTRO) ;/g' "+file_combine], shell=True)
+subprocess.call(["sed -i -e 's/#50/#50|/g' "+file_combine], shell=True)
+subprocess.call(["sed -i -e 's/#49/#49|/g' "+file_combine], shell=True)
+subprocess.call(["sed -i -e 's/|8|/||8|/g' "+file_combine], shell=True)
+subprocess.call(["sed -i -e 's/|EPSC2017-784|/||EPSC2017-784|/g' "+file_combine], shell=True)
+subprocess.call(["sed -i -e 's/|EPSC2017-174|/||EPSC2017-174|/g' "+file_combine], shell=True)
+subprocess.call(["sed -i -e 's/|6054|/||6054|/g' "+file_combine], shell=True)
+subprocess.call(["sed -i -e 's/|12374|/||12374|/g' "+file_combine], shell=True)
+subprocess.call(["sed -i -e 's/gmail.com)/gmail.com) /g' "+file_combine], shell=True)
 
-#list_AA_idx=
-file_all='export-custom_sorted.txt'
-
-cmd_sort="sort "+file_custom2+" -o "+file_all
-list_AA_idx=os.popen(cmd_sort,"r")
-
-
-
-subprocess.call(["cat "+file_AA_idx],shell=True)
+subprocess.call(["sort "+file_combine+"|uniq > "+file_sorted],shell=True)
 
 #sys.exit(0)
+
+
+
+cmd_AA_idx="cat "+file_AA_idx
+list_AA_idx=os.popen(cmd_AA_idx,"r").read().splitlines()
 
 list_idx=[]
 list_AA=[]
@@ -79,7 +82,7 @@ idx_AA=pd_AA[1]
 
 
 
-df_all=pd.read_csv(file_all,sep='|',header=None)
+df_all=pd.read_csv(file_sorted,sep='|',header=None)
 #print(df_all)
 #sys.exit(0)
 
@@ -128,7 +131,7 @@ list_affi_number=[]
 list_author_number=[]
 
 for i in range(n_paper):
-    print('#',i,'paper')
+    print('#',str(i+1),'paper')
     author_in1paper=col_author[i]
     affi_in1paper=col_affi[i]
     
@@ -288,6 +291,8 @@ col_NCU_AA=df_all['NCU_AA']
 
 #sys.exit(0)
 
+sep_author='; '
+
 file_pub='pub_list_NCU.txt'
 
 if os.path.exists(file_pub):
@@ -369,7 +374,7 @@ for i in range(n_paper):
 #        print("3")        
         author2=list_author_in1paper[1]
         author3=list_author_in1paper[2]
-        author=author1+", "+author2+", and "+author3
+        author=author1+sep_author+author2+sep_author+"and "+author3
         print(paper_affi_AA)
         print(author1,author2,author3)
         print(author)
@@ -380,7 +385,7 @@ for i in range(n_paper):
         author1=list_author_in1paper[0]
         author2=list_author_in1paper[1]
         author3=list_author_in1paper[2]
-        author123=author1+", "+author2+", "+author3
+        author123=author1+sep_author+author2+sep_author+author3
         
         # NCU author after the 3rd authorship
 #        author_NCU=""
@@ -391,7 +396,7 @@ for i in range(n_paper):
         author_kk=""
         if col_NCU_author4_number[i]==0:
 #            author=str(author1)+", "+str(author2)+", "+str(author3)+", and et al."
-            author=author123+", et al."
+            author=author123+sep_author+"et al."
             print(author)
             print(paper_url+"\n")
 
@@ -400,7 +405,7 @@ for i in range(n_paper):
             author_k1='{'+author_k1+'.}'
             author4=str(author_k1)
 #            author=str(author1)+", "+str(author2)+", "+str(author3)+", and et al. (including "+str(author4)+" from NCU)"
-            author=author123+", et al. (including "+str(author4)+" from NCU)"
+            author=author123+sep_author+"et al. (including "+str(author4)+" from NCU)"
 #            author=author.replace('.. from','. from')            
             print(author)            
             print(paper_url+"\n")
@@ -411,10 +416,10 @@ for i in range(n_paper):
             for k in col_NCU_author4_idx[i][1:]:                
                 author_k2=col_author[i].split("., ",-1)[k]
                 author_k2='{'+author_k2+'.}'
-                author_kk=author_kk+", "+author_k2            
+                author_kk=author_kk+sep_author+author_k2            
             author4=str(author_k1)+str(author_kk)
 #            author=str(author1)+", "+str(author2)+", "+str(author3)+", and et al. (including "+str(author4)+" from NCU)"
-            author=author123+", et al. (including "+str(author4)+" from NCU)"            
+            author=author123+sep_author+"et al. (including "+str(author4)+" from NCU)"            
             print(author)
             print(paper_url+"\n")
 
@@ -427,7 +432,8 @@ for i in range(n_paper):
 #    pub_info=str(i)+'\n'+author+'\n'+str(paper_year)+'\n'+paper_title+'\n'+paper_journal+'\n'+paper_url+'\n\n'
 #    pub_info=author+', '+str(paper_year)+'\n'+paper_title+'\n'+paper_journal+', '+str(paper_volumn)+', '+str(paper_page)+'\n'+paper_url+'\n'
 #    pub_info='('+str(i+1)+') '+author+', '+str(paper_year)+'\n'+paper_journal+', '+str(paper_volumn)+', '+str(paper_page)+'\n'+paper_title+'\n'+paper_url+'\n\n'
-    pub_info=author+', '+str(paper_year)+', '+paper_journal+', '+str(paper_volumn)+', '+str(paper_page)+', '+paper_title+', '+paper_url+'\n'    
+    pub_info='('+str(i+1)+') '+author+', '+str(paper_year)+', '+paper_journal+', '+str(paper_volumn)+', '+str(paper_page)+', '+paper_title+', '+paper_url+'\n'    
+#    pub_info=author+', '+str(paper_year)+', '+paper_journal+', '+str(paper_volumn)+', '+str(paper_page)+', '+paper_title+', '+paper_url+'\n'        
 #    pub_info=author+'|'+str(paper_year)+'|'+paper_journal+', '+str(paper_volumn)+', '+str(paper_page)+'|'+paper_title+'|'+paper_url+'\n'    
 #    pub_info='('+str(i)+') '+author+', '+str(paper_year)+', '+paper_title+', '+paper_journal+', '+str(paper_volumn)+', '+str(paper_page)+'\n'
     print(pub_info)
@@ -438,17 +444,20 @@ for i in range(n_paper):
 f_pub.close()
 
 subprocess.call(["sed -i -e 's/nan,//g' "+file_pub], shell=True)
+subprocess.call(["sed -i -e 's/\.\.}/\.}/g' "+file_pub], shell=True)
 subprocess.call(["sed -i -e 's/<SUB>//g' "+file_pub], shell=True)
 subprocess.call(["sed -i -e 's/<\/SUB>//g' "+file_pub], shell=True)
-subprocess.call(["sed -i -e 's/&amp;/&/g' "+file_pub], shell=True)
+#subprocess.call(["sed -i -e 's/&amp;/&/g' "+file_pub], shell=True)
+subprocess.call(["sed -i -e 's/Historical &amp;/Historical \&/g' "+file_pub], shell=True)
 subprocess.call(["sed -i -e 's/\.0//g' "+file_pub], shell=True)
 subprocess.call(["sed -i -e 's/ (including {NESS Collaboration.} from NCU)//g' "+file_pub], shell=True)
 subprocess.call(["sed -i -e 's/Ip, W.-H.,/{Ip, W.-H.},/g' "+file_pub],shell=True)
+subprocess.call(["sed -i -e 's/Chen, W.-. ping ./Chen, W.-P./g' "+file_pub], shell=True)
 
 file_2017='pub_list_NCU_2017.txt'
 file_2018='pub_list_NCU_2018.txt'
 file_2019='pub_list_NCU_2019.txt'
-print(file_2017)
+#print(file_2017)
 #subprocess.call(["cat "+file_pub+"| grep \/2017 -B3 > "+file_2017],shell=True)
 subprocess.call(["cat "+file_pub+"| grep \/2017 > "+file_2017],shell=True)
 subprocess.call(["cat "+file_pub+"| grep \/2018 > "+file_2018],shell=True)

@@ -28,7 +28,15 @@ export-custom_lFYTQu.txt
 %l\t%F\t%Y\t%T\t%J\t%V\t%p\t%u\n
 export-custom_lFYTJVpu.txt
 %l\t%Y\t%F\t%T\t%J\t%V\t%p\t%u
-export-custom_lYFTJVpu.txt
+export-custom_lYFTJVpu_tab.txt
+%l|%Y|%F|%T|%J|%V|%p|%u
+export-custom_lYFTJVpu_pipe.txt
+
+A&A is not missing (no need)
+export-custom_lYFTJVpu_AA_pipe.txt
+
+Ip + Institute of Astronomy : 82
+
 
 
 %F
