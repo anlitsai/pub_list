@@ -23,15 +23,17 @@ file_affiliation='export-custom_aff_all.txt'
 #file_all='export-custom_all_author_all_aff.txt'
 #file_all='export-custom_lFYTQu_tab.txt'
 
-file_custom1='export-custom_lYFTJVpu_pipe.txt'
+file_custom_IANCU='export-custom_lYFTJVpu_pipe.txt'
 #file_custom2='export-custom_lYFTJVpu_AA_pipe.txt'
 file_custom_Ip='export-custom_lYFTJVpu_Ip_pipe.txt'
+file_custom_NCUIA='export-custom_lYFTJVpu_NCUIA_pipe.txt'
 file_combine='export-custom_combine.txt'
 file_sorted='export-custom_sorted.txt'
 
-shutil.copyfile(file_custom1, file_combine)
+shutil.copyfile(file_custom_IANCU, file_combine)
 
 subprocess.call(["cat "+file_custom_Ip+">> "+file_combine],shell=True)
+subprocess.call(["cat "+file_custom_NCUIA+">> "+file_combine],shell=True)
 
 subprocess.call(["sed -i -e 's/|257|/||257|/g' "+file_combine], shell=True)
 subprocess.call(["sed -i -e 's/(UPSay);/(UPSay) ;/g' "+file_combine], shell=True)
@@ -183,7 +185,7 @@ col_affi_number=df_all['affi_number']
 
 #list_affiliation_in_paper
 
-#sys.exit(0)  
+sys.exit(0)  
 #cmd_affiliation="cat "+file_affiliation
 #list_affiliation_in_paper=os.popen(cmd_affiliation,"r").read().splitlines()
 
@@ -209,7 +211,11 @@ df_all['NCU_AA']=""
 
 
 
-NCU_key="Institute of Astronomy, National Central University"
+NCU_key1="Institute of Astronomy, National Central University"
+NCU_key2="Ip"
+NCU_key3="National Central University, Graduate Institute of Astronomy, "
+NCU_key=[NCU_key1, NCU_key2, NCU_key3]
+
 idx_i=-1
 
 #sys.exit(0)
@@ -237,18 +243,19 @@ for i in range(n_paper):
     for j in list_affi_name_in1paper:
         idx_j=idx_j+1
         
-        if NCU_key in j:
-            NCU_idx=idx_j
-            list_NCU_author_idx_in1paper.append(NCU_idx)
-            list_NCU_AA_in1paper.append(col_affi_AA[i][NCU_idx])
-#            print("=== found NCU ===")
-#            print(NCU_idx,j)
-            if NCU_idx<3:
-                list_NCU_author3_idx_in1paper.append(NCU_idx)
-                list_NCU_author3_in1paper.append(list_author_in1paper[NCU_idx])                
-            else:
-                list_NCU_author4_idx_in1paper.append(NCU_idx)
-                list_NCU_author4_in1paper.append(list_author_in1paper[NCU_idx])
+        for key in NCU_key:
+            if key in j:
+                NCU_idx=idx_j
+                list_NCU_author_idx_in1paper.append(NCU_idx)
+                list_NCU_AA_in1paper.append(col_affi_AA[i][NCU_idx])
+#                print("=== found NCU ===")
+#                print(NCU_idx,j)
+                if NCU_idx<3:
+                    list_NCU_author3_idx_in1paper.append(NCU_idx)
+                    list_NCU_author3_in1paper.append(list_author_in1paper[NCU_idx])                
+                else:
+                    list_NCU_author4_idx_in1paper.append(NCU_idx)
+                    list_NCU_author4_in1paper.append(list_author_in1paper[NCU_idx])
             
                 
 #    print(list_NCU_author_idx_in1paper)

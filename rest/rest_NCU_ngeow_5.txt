@@ -1,10 +1,4 @@
-Abbott, B. P. (Yu, P. -C.; Ip, W. -H.; Ngeow, C. -C.), Multi-messenger Observations of a Binary Neutron Star Merger, 
-2017, ApJL, 848:L12
-
 Griv, E. (Ngeow, C. -C.), The Nearby Spiral Density-Wave Structure of the Galaxy: Line-of-Sight and Longitudinal Velocities of 61 Masers, Astronomische Nachrichten, 338:729
-
-Coughlin, M. W (Yu, P.-C.; Ngeow, C.-C.; Tan, H.), GROWTH on GW190425: Searching thousands of square degrees to identify an optical or infrared counterpart to a binary neutron star merger with the Zwicky Transient Facility and Palomar Gattini-IR, 
-2019, ApJL, 885:L19
 
 Frederick, S. (Ngeow, C.-C.), A New Class of Changing-Look LINERs, 
 2019, ApJ, 883:31

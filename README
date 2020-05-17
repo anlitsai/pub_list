@@ -35,8 +35,12 @@ export-custom_lYFTJVpu_pipe.txt
 A&A is not missing (no need)
 export-custom_lYFTJVpu_AA_pipe.txt
 
+aff:"Institute of Astronomy" year:2017-2019 author:"Ip"
 Ip + Institute of Astronomy : 82
 
+aff:"National Central University, Graduate Institute of Astronomy" year:2017-2019
+%l|%Y|%F|%T|%J|%V|%p|%u
+export-custom_lYFTJVpu_NCUIA_pipe.txt
 
 
 %F

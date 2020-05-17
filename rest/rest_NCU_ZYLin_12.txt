@@ -9,9 +9,6 @@ Planetary and Space Science, Volume 166, p. 54-58.
 
 2018~
 
-5. Fornasier S. et al. 
-2018 including Z.-Y. Lin. Linking surface morphology, composition and activity on the nucleus of 67P/Churyumov-Gerasimenko. A&A, 619, idA123 
-
 7. Moreno F. et al. 
 2018 including Z.-Y. Lin, Models of Rosetta/OSIRIS 67P dust coma phase functions based on the alignment of particles by solar radiation. AJ, V156, Issue 5 id 237 
 
@@ -19,9 +16,6 @@ Planetary and Space Science, Volume 166, p. 54-58.
 2018 including Z.-Y. Lin (Icarus accepted) The 2016 reactivations of main-belt comets 238P/READ and 288P/(300163) 2006 VW139. AJ, V156, Issue 5 id 223 
 
 2017~
-
-12. Agarwal J. et al. 
-2017 including Z.-Y. Lin, Rosetta multi-instrument observations reveal energy stored sub-surface to fuel cometary outburst, MNRAS, 469S, S606-S625
 
 13. Oklay, N. et al. 
 2017 including Z.-Y. Lin, Long-term survival of surface water ice on comet 67P MNRAS, 469S, S582-S597 
@@ -33,9 +27,6 @@ Planetary and Space Science, Volume 166, p. 54-58.
 
 20. Gicquel, A 
 2017 including Z.-Y. Lin. Modelling of the outburst on 2015 July 29 observed with OSIRIS cameras in the Southern hemisphere of comet 67P/Churyumov-Gerasimenko, MNRAS, 469S, S178-S185
-
-21. Fornasier S. et al. 
-2017 including Z.-Y. Lin. The highly active Anhur-Bes regions in the 67P/Churyumov-Gerasimenko comet: results from OSIRIS/ROSETTA observations, MNRAS, 469S, S93-S107 
 
 22. Snodgrass C. et al. 
 2017 including Z.-Y. Lin. The 67P/Churyumov-Gerasimenko observation campaign in support of the Rosetta mission, RSPTA, 375, 2097, 20160249 

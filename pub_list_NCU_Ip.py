@@ -14,13 +14,14 @@ import shutil
 import subprocess
 #import numpy as np
 import pandas as pd
-file_rest_Ip='rest_NCU_Ip_38.txt'
-file_rest_Ip='rest_NCU_Ip_38-2.txt'
+file_rest_Ip='rest/rest_NCU_Ip_35.txt'
+file_rest_Ip2='rest/rest_NCU_Ip_35-2.txt'
 file_NCU='pub_list_NCU.txt'
 file_NCU_Ip='pub_list_NCU_Ip.txt'
-shutil.copyfile(file_custom1, file_combine)
+shutil.copyfile(file_rest_Ip, file_rest_Ip2)
+shutil.copyfile(file_NCU, file_NCU_Ip)
 
-subprocess.call(["sed -i -e 's/|8|/||8|/g' "+file_combine], shell=True)
+subprocess.call(["cat "+file_rest_Ip+" |grep Ip > "+file_rest_Ip2], shell=True)
 
-
+list_1stauthor=cat rest_NCU_Ip_35.txt |grep Ip|cut -d ";" -f1| cut -d "." -f2 | cut -d " " -f2
 
