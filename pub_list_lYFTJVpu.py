@@ -24,9 +24,16 @@ file_affiliation='export-custom_aff_all.txt'
 #file_all='export-custom_lFYTQu_tab.txt'
 
 file_custom_IANCU='export-custom_lYFTJVpu_pipe.txt'
-#file_custom2='export-custom_lYFTJVpu_AA_pipe.txt'
-file_custom_Ip='export-custom_lYFTJVpu_Ip_pipe.txt'
-file_custom_NCUIA='export-custom_lYFTJVpu_NCUIA_pipe.txt'
+#file_custom2='export-custom_lYFTJVpu_pipe_AA.txt'
+file_custom_Ip='export-custom_lYFTJVpu_pipe_Ip.txt'
+file_custom_Ip='export-custom_lYFTJVpu_pipe_Ip.txt'
+file_custom_NCUIA='export-custom_lYFTJVpu_pipe_NCUIA.txt'
+file_custom_Institution='export-custom_lYFTJVpu_pipe_Institution.txt'
+file_custom_Graduate='export-custom_lYFTJVpu_pipe_Graduate.txt'
+file_custom_Chen='export-custom_lYFTJVpu_pipe_Chen2.txt'
+file_custom_Zhonda='export-custom_lYFTJVpu_pipe_Zhongda2.txt'
+file_custom_Multidisciplinary='export-custom_lYFTJVpu_pipe_Multidisciplinary2.txt'
+file_custom_CentaurusA='export-custom_lYFTJVpu_pipe_CentaurusA2.txt'
 file_combine='export-custom_combine.txt'
 file_sorted='export-custom_sorted.txt'
 
@@ -34,6 +41,12 @@ shutil.copyfile(file_custom_IANCU, file_combine)
 
 subprocess.call(["cat "+file_custom_Ip+">> "+file_combine],shell=True)
 subprocess.call(["cat "+file_custom_NCUIA+">> "+file_combine],shell=True)
+subprocess.call(["cat "+file_custom_Institution+">> "+file_combine],shell=True)
+subprocess.call(["cat "+file_custom_Graduate+">> "+file_combine],shell=True)
+subprocess.call(["cat "+file_custom_Chen+">> "+file_combine],shell=True)
+subprocess.call(["cat "+file_custom_Zhonda+">> "+file_combine],shell=True)
+subprocess.call(["cat "+file_custom_Multidisciplinary+">> "+file_combine],shell=True)
+subprocess.call(["cat "+file_custom_CentaurusA+">> "+file_combine],shell=True)
 
 subprocess.call(["sed -i -e 's/|257|/||257|/g' "+file_combine], shell=True)
 subprocess.call(["sed -i -e 's/(UPSay);/(UPSay) ;/g' "+file_combine], shell=True)
@@ -46,6 +59,7 @@ subprocess.call(["sed -i -e 's/|EPSC2017-174|/||EPSC2017-174|/g' "+file_combine]
 subprocess.call(["sed -i -e 's/|6054|/||6054|/g' "+file_combine], shell=True)
 subprocess.call(["sed -i -e 's/|12374|/||12374|/g' "+file_combine], shell=True)
 subprocess.call(["sed -i -e 's/gmail.com)/gmail.com) /g' "+file_combine], shell=True)
+subprocess.call(["sed -i -e 's/|1872|/||1872|/g' "+file_combine], shell=True)
 
 subprocess.call(["sort "+file_combine+"|uniq > "+file_sorted],shell=True)
 
@@ -185,7 +199,7 @@ col_affi_number=df_all['affi_number']
 
 #list_affiliation_in_paper
 
-sys.exit(0)  
+#sys.exit(0)  
 #cmd_affiliation="cat "+file_affiliation
 #list_affiliation_in_paper=os.popen(cmd_affiliation,"r").read().splitlines()
 
@@ -211,9 +225,10 @@ df_all['NCU_AA']=""
 
 
 
-NCU_key1="Institute of Astronomy, National Central University"
+NCU_key1="of Astronomy, National Central University"
 NCU_key2="Ip"
 NCU_key3="National Central University, Graduate Institute of Astronomy, "
+#'Institution of Astronomy, National Central University'
 NCU_key=[NCU_key1, NCU_key2, NCU_key3]
 
 idx_i=-1
@@ -279,6 +294,11 @@ for i in range(n_paper):
     n_NCU_author4_in1paper=len(list_NCU_author4_in1paper)
     df_all['NCU_author4_number'][i]=n_NCU_author4_in1paper
     df_all['NCU_AA'][i]=list_NCU_AA_in1paper
+
+#sys.exit(0)
+
+df_all.drop_duplicates(subset=['title'],keep=False)
+#sys.exit(0)
 
 #col_author=df_all['author']
 col_author_number=df_all['author_number']
@@ -436,11 +456,8 @@ for i in range(n_paper):
 #    paper_title=paper_title.replace("<SUB>","")
 #    paper_title=paper_title.replace("</SUB>","")
     
-#    pub_info=str(i)+'\n'+author+'\n'+str(paper_year)+'\n'+paper_title+'\n'+paper_journal+'\n'+paper_url+'\n\n'
-#    pub_info=author+', '+str(paper_year)+'\n'+paper_title+'\n'+paper_journal+', '+str(paper_volumn)+', '+str(paper_page)+'\n'+paper_url+'\n'
-#    pub_info='('+str(i+1)+') '+author+', '+str(paper_year)+'\n'+paper_journal+', '+str(paper_volumn)+', '+str(paper_page)+'\n'+paper_title+'\n'+paper_url+'\n\n'
-    pub_info='('+str(i+1)+') '+author+', '+str(paper_year)+', '+paper_journal+', '+str(paper_volumn)+', '+str(paper_page)+', '+paper_title+', '+paper_url+'\n'    
-#    pub_info=author+', '+str(paper_year)+', '+paper_journal+', '+str(paper_volumn)+', '+str(paper_page)+', '+paper_title+', '+paper_url+'\n'        
+#    pub_info='('+str(i+1)+') '+author+', '+str(paper_year)+', '+paper_journal+', '+str(paper_volumn)+', '+str(paper_page)+', '+paper_title+', '+paper_url+'\n'    
+    pub_info=author+', '+str(paper_year)+', '+paper_journal+', '+str(paper_volumn)+', '+str(paper_page)+', '+paper_title+', '+paper_url+'\n'        
 #    pub_info=author+'|'+str(paper_year)+'|'+paper_journal+', '+str(paper_volumn)+', '+str(paper_page)+'|'+paper_title+'|'+paper_url+'\n'    
 #    pub_info='('+str(i)+') '+author+', '+str(paper_year)+', '+paper_title+', '+paper_journal+', '+str(paper_volumn)+', '+str(paper_page)+'\n'
     print(pub_info)
@@ -461,11 +478,25 @@ subprocess.call(["sed -i -e 's/ (including {NESS Collaboration.} from NCU)//g' "
 subprocess.call(["sed -i -e 's/Ip, W.-H.,/{Ip, W.-H.},/g' "+file_pub],shell=True)
 subprocess.call(["sed -i -e 's/Chen, W.-. ping ./Chen, W.-P./g' "+file_pub], shell=True)
 
-file_2017='pub_list_NCU_2017.txt'
-file_2018='pub_list_NCU_2018.txt'
-file_2019='pub_list_NCU_2019.txt'
+file_2017=' pub_list_NCU_2017.txt'
+file_2018=' pub_list_NCU_2018.txt'
+file_2019=' pub_list_NCU_2019.txt'
+file_201789='pub_list_NCU_2017-2019.txt'
 #print(file_2017)
 #subprocess.call(["cat "+file_pub+"| grep \/2017 -B3 > "+file_2017],shell=True)
-subprocess.call(["cat "+file_pub+"| grep \/2017 > "+file_2017],shell=True)
-subprocess.call(["cat "+file_pub+"| grep \/2018 > "+file_2018],shell=True)
-subprocess.call(["cat "+file_pub+"| grep \/2019 > "+file_2019],shell=True)
+subprocess.call(["cat "+file_pub+" |grep \/2019 | cat -n > "+file_2019],shell=True)
+subprocess.call(["cat "+file_pub+" |grep \/2018 | cat -n > "+file_2018],shell=True)
+subprocess.call(["cat "+file_pub+" |grep \/2017 | cat -n > "+file_2017],shell=True)
+
+
+subprocess.call(["echo 2019  > "+file_201789],shell=True)
+subprocess.call(["echo   >> "+file_201789],shell=True)
+subprocess.call(["cat"+file_2019+"  >> "+file_201789],shell=True)
+subprocess.call(["echo   >> "+file_201789],shell=True)
+subprocess.call(["echo 2018  >> "+file_201789],shell=True)
+subprocess.call(["echo   >> "+file_201789],shell=True)
+subprocess.call(["cat"+file_2018+"  >> "+file_201789],shell=True)
+subprocess.call(["echo   >> "+file_201789],shell=True)
+subprocess.call(["echo 2017  >> "+file_201789],shell=True)
+subprocess.call(["echo   >> "+file_201789],shell=True)
+subprocess.call(["cat"+file_2017+"  >> "+file_201789],shell=True)

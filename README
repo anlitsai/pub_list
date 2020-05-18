@@ -33,14 +33,32 @@ export-custom_lYFTJVpu_tab.txt
 export-custom_lYFTJVpu_pipe.txt
 
 A&A is not missing (no need)
-export-custom_lYFTJVpu_AA_pipe.txt
+export-custom_lYFTJVpu_pipe_AA.txt
 
 aff:"Institute of Astronomy" year:2017-2019 author:"Ip"
 Ip + Institute of Astronomy : 82
+export-custom_lYFTJVpu_pipe_Ip.txt
 
 aff:"National Central University, Graduate Institute of Astronomy" year:2017-2019
 %l|%Y|%F|%T|%J|%V|%p|%u
-export-custom_lYFTJVpu_NCUIA_pipe.txt
+export-custom_lYFTJVpu_pipe_NCUIA.txt
+
+aff:"Institution of Astronomy, National Central University" year:2017-2019
+%l|%Y|%F|%T|%J|%V|%p|%u
+export-custom_lYFTJVpu_pipe_Institution.txt
+
+aff:"Graduate Institute of Astronomy" year:2017-2019
+%l|%Y|%F|%T|%J|%V|%p|%u
+export-custom_lYFTJVpu_pipe_Graduate.txt
+
+aff:"No. 300, Zhongda Rd., Zhongli Dist"
+%l|%Y|%F|%T|%J|%V|%p|%u
+export-custom_lYFTJVpu_pipe_Zhongda.txt
+
+title:"Multidisciplinary analysis of the Hapi"
+%l|%Y|%F|%T|%J|%V|%p|%u
+export-custom_lYFTJVpu_pipe_Multidisciplinary.txt
+
 
 
 %F
