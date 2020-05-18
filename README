@@ -87,6 +87,12 @@ author:"Ip" year:2017-2019
 %l|%Y|%F|%T|%J|%V|%p|%u
 export-custom_lYFTJVpu_pipe_Ip_other.txt
 
+pubdate:[2017-01 TO 2019-12] author:("Urata, Y")
+%l|%Y|%F|%T|%J|%V|%p|%u
+export-custom_lYFTJVpu_pipe_Yuji.txt
+
+
+
 
 %F
 export-custom_aff_all.txt
