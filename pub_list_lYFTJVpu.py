@@ -34,6 +34,13 @@ file_custom_Chen='export-custom_lYFTJVpu_pipe_Chen2.txt'
 file_custom_Zhonda='export-custom_lYFTJVpu_pipe_Zhongda2.txt'
 file_custom_Multidisciplinary='export-custom_lYFTJVpu_pipe_Multidisciplinary2.txt'
 file_custom_CentaurusA='export-custom_lYFTJVpu_pipe_CentaurusA2.txt'
+file_custom_SpaceScience='export-custom_lYFTJVpu_pipe_SpaceScience2.txt'
+file_custom_Ko='export-custom_lYFTJVpu_pipe_Ko2.txt'
+file_custom_KoDOI='export-custom_lYFTJVpu_pipe_Ko_DOI2.txt'
+file_custom_ZYLin_No300='export-custom_lYFTJVpu_pipe_ZYLin_No3002.txt'
+file_custom_ZYLin_other='export-custom_lYFTJVpu_pipe_ZYLin_other2.txt'
+file_custom_Ip_other='export-custom_lYFTJVpu_pipe_Ip_other2.txt'
+
 file_combine='export-custom_combine.txt'
 file_sorted='export-custom_sorted.txt'
 
@@ -47,10 +54,17 @@ subprocess.call(["cat "+file_custom_Chen+">> "+file_combine],shell=True)
 subprocess.call(["cat "+file_custom_Zhonda+">> "+file_combine],shell=True)
 subprocess.call(["cat "+file_custom_Multidisciplinary+">> "+file_combine],shell=True)
 subprocess.call(["cat "+file_custom_CentaurusA+">> "+file_combine],shell=True)
+subprocess.call(["cat "+file_custom_SpaceScience+">> "+file_combine],shell=True)
+subprocess.call(["cat "+file_custom_Ko+">> "+file_combine],shell=True)
+subprocess.call(["cat "+file_custom_KoDOI+">> "+file_combine],shell=True)
+subprocess.call(["cat "+file_custom_ZYLin_No300+">> "+file_combine],shell=True)
+subprocess.call(["cat "+file_custom_ZYLin_other+">> "+file_combine],shell=True)
+subprocess.call(["cat "+file_custom_Ip_other+">> "+file_combine],shell=True)
 
 subprocess.call(["sed -i -e 's/|257|/||257|/g' "+file_combine], shell=True)
-subprocess.call(["sed -i -e 's/(UPSay);/(UPSay) ;/g' "+file_combine], shell=True)
-subprocess.call(["sed -i -e 's/(CAASTRO);/(CAASTRO) ;/g' "+file_combine], shell=True)
+subprocess.call(["sed -i -e 's/UPSay);/UPSay) ;/g' "+file_combine], shell=True)
+subprocess.call(["sed -i -e 's/Univ.);/Univ.) ;/g' "+file_combine], shell=True)
+subprocess.call(["sed -i -e 's/CAASTRO);/CAASTRO) ;/g' "+file_combine], shell=True)
 subprocess.call(["sed -i -e 's/#50/#50|/g' "+file_combine], shell=True)
 subprocess.call(["sed -i -e 's/#49/#49|/g' "+file_combine], shell=True)
 subprocess.call(["sed -i -e 's/|8|/||8|/g' "+file_combine], shell=True)
