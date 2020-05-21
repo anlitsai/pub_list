@@ -39,8 +39,10 @@ file_custom_Ko='export-custom_lYFTJVpu_pipe_Ko2.txt'
 file_custom_KoDOI='export-custom_lYFTJVpu_pipe_Ko_DOI2.txt'
 file_custom_ZYLin_No300='export-custom_lYFTJVpu_pipe_ZYLin_No3002.txt'
 file_custom_ZYLin_other='export-custom_lYFTJVpu_pipe_ZYLin_other2.txt'
+file_custom_ZYLin_wrong='export-custom_lYFTJVpu_pipe_ZYLin_wrongname2.txt'
 file_custom_Ip_other='export-custom_lYFTJVpu_pipe_Ip_other2.txt'
 file_custom_Yuji='export-custom_lYFTJVpu_pipe_Yuji.txt'
+file_custom_Hwang_malaysia='export-custom_lYFTJVpu_pipe_Hwang_malaysia2.txt'
 
 file_combine='export-custom_combine.txt'
 file_sorted='export-custom_sorted.txt'
@@ -60,8 +62,10 @@ subprocess.call(["cat "+file_custom_Ko+">> "+file_combine],shell=True)
 subprocess.call(["cat "+file_custom_KoDOI+">> "+file_combine],shell=True)
 subprocess.call(["cat "+file_custom_ZYLin_No300+">> "+file_combine],shell=True)
 subprocess.call(["cat "+file_custom_ZYLin_other+">> "+file_combine],shell=True)
+subprocess.call(["cat "+file_custom_ZYLin_wrong+">> "+file_combine],shell=True)
 subprocess.call(["cat "+file_custom_Ip_other+">> "+file_combine],shell=True)
 subprocess.call(["cat "+file_custom_Yuji+">> "+file_combine],shell=True)
+subprocess.call(["cat "+file_custom_Hwang_malaysia+">> "+file_combine],shell=True)
 
 subprocess.call(["sed -i -e 's/|257|/||257|/g' "+file_combine], shell=True)
 subprocess.call(["sed -i -e 's/UPSay);/UPSay) ;/g' "+file_combine], shell=True)
@@ -313,7 +317,7 @@ for i in range(n_paper):
 
 #sys.exit(0)
 
-df_all.drop_duplicates(subset=['title'],keep=False)
+df_all.drop_duplicates(subset=['url'],keep=False)
 #sys.exit(0)
 
 #col_author=df_all['author']

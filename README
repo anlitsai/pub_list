@@ -31,6 +31,7 @@ export-custom_lFYTJVpu.txt
 export-custom_lYFTJVpu_tab.txt
 %l|%Y|%F|%T|%J|%V|%p|%u
 export-custom_lYFTJVpu_pipe.txt
+export-custom_lYFTJVpu_pipe2.txt
 
 A&A is not missing (no need)
 export-custom_lYFTJVpu_pipe_AA.txt
@@ -58,10 +59,17 @@ export-custom_lYFTJVpu_pipe_Zhongda.txt
 title:"Multidisciplinary analysis of the Hapi"
 %l|%Y|%F|%T|%J|%V|%p|%u
 export-custom_lYFTJVpu_pipe_Multidisciplinary.txt
+export-custom_lYFTJVpu_pipe_Multidisciplinary2.txt
+
+title:"Extreme HBL behavior of Markarian"
+%l|%Y|%F|%T|%J|%V|%p|%u
+export-custom_lYFTJVpu_pipe_Chen.txt
+export-custom_lYFTJVpu_pipe_Chen2.txt
 
 title:"Star Formation Law at Sub-kpc Scale in the Elliptical Galaxy Centaurus A "
 %l|%Y|%F|%T|%J|%V|%p|%u
 export-custom_lYFTJVpu_pipe_CentaurusA.txt
+export-custom_lYFTJVpu_pipe_CentaurusA2.txt
 
 author:"Ip" aff:"Institute for Space Science" year:2017-2019
 %l|%Y|%F|%T|%J|%V|%p|%u
@@ -70,14 +78,17 @@ export-custom_lYFTJVpu_pipe_SpaceScience.txt
 author:"Ko, C" aff:"Department of Physics" year:2017-2019
 %l|%Y|%F|%T|%J|%V|%p|%u
 export-custom_lYFTJVpu_pipe_Ko.txt
+export-custom_lYFTJVpu_pipe_Ko2.txt
 
 doi:10.1103/PhysRevD.95.063020
 %l|%Y|%F|%T|%J|%V|%p|%u
 export-custom_lYFTJVpu_pipe_Ko_DOI.txt
+export-custom_lYFTJVpu_pipe_Ko_DOI2.txt
 
 aff:"National Central University No. 300" author:"Lin, Z"
 %l|%Y|%F|%T|%J|%V|%p|%u
 export-custom_lYFTJVpu_pipe_ZYLin_No300.txt
+export-custom_lYFTJVpu_pipe_ZYLin_No3002.txt
 
 title:"Surface changes on comet 67P Churyumov-Gerasimenko suggest"
 %l|%Y|%F|%T|%J|%V|%p|%u
@@ -86,11 +97,24 @@ export-custom_lYFTJVpu_pipe_ZYLin_other.txt
 author:"Ip" year:2017-2019
 %l|%Y|%F|%T|%J|%V|%p|%u
 export-custom_lYFTJVpu_pipe_Ip_other.txt
+export-custom_lYFTJVpu_pipe_Ip_other2.txt
 
 pubdate:[2017-01 TO 2019-12] author:("Urata, Y")
 %l|%Y|%F|%T|%J|%V|%p|%u
 export-custom_lYFTJVpu_pipe_Yuji.txt
 
+title:"Geomorphological and spectrophotometric analysis of Seth's circular"
+%l|%Y|%F|%T|%J|%V|%p|%u
+export-custom_lYFTJVpu_pipe_ZYLin_wrongname.txt
+export-custom_lYFTJVpu_pipe_ZYLin_wrongname2.txt
+
+author:"^Ali, Israa Abdulqasim Mohammed" year:2018
+%l|%Y|%F|%T|%J|%V|%p|%u
+export-custom_lYFTJVpu_pipe_Hwang_malaysia.txt
+
+author:"Urata, Yuji" and "Huang"
+%l|%Y|%F|%T|%J|%V|%p|%u
+export-custom_lYFTJVpu_pipe_Urata_Huang.txt
 
 
 
