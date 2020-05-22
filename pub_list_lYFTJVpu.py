@@ -508,7 +508,7 @@ subprocess.call(["cat "+file_pub+" |grep \/2019 | cat -n > "+file_2019],shell=Tr
 subprocess.call(["cat "+file_pub+" |grep \/2018 | cat -n > "+file_2018],shell=True)
 subprocess.call(["cat "+file_pub+" |grep \/2017 | cat -n > "+file_2017],shell=True)
 
-
+'''
 subprocess.call(["echo 2019  > "+file_201789],shell=True)
 subprocess.call(["echo   >> "+file_201789],shell=True)
 subprocess.call(["cat"+file_2019+"  >> "+file_201789],shell=True)
@@ -520,3 +520,4 @@ subprocess.call(["echo   >> "+file_201789],shell=True)
 subprocess.call(["echo 2017  >> "+file_201789],shell=True)
 subprocess.call(["echo   >> "+file_201789],shell=True)
 subprocess.call(["cat"+file_2017+"  >> "+file_201789],shell=True)
+'''
