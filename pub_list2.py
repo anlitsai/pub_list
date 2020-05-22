@@ -153,26 +153,3 @@ for i in list_affiliation_per_paper:
         author=str(author1)+","+str(author2)+".,"+str(author3)+"., et al. (including"+str(author4)+" from NCU)"
         print(author)
         
-    
-
-        
-
-
-#    for k in list_NCU_idx_per_paper:
-        
-#        if k=1:
-#            author=list_authors[idx_i][0]
-#        elif k=2
-#        if k>3:
-#            author3=list_authors[idx_i].split(';',-1)[0:4]
-##            print(author3)
-#            author4="et al. (including )"
-##            print(author4)
-#            author=author3+author4
-#            print(author)
-#        elif k<=3:
-#            print("including")
-
-#print(list_NCU_idx)
-
-    
