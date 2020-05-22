@@ -16,8 +16,6 @@ export-custom_author_3.txt
 
 
 
-
-
 https://ui.adsabs.harvard.edu/search/q=aff%3A%22Institute%20of%20Astronomy%2C%20National%20Central%20University%22%20year%3A2017-2019&sort=date%20desc%2C%20bibcode%20desc&p_=0
 aff:"Institute of Astronomy, National Central University" year:2017-2019
 
@@ -128,18 +126,7 @@ export-custom_lYFTJVpu_pipe_Urata_Huang.txt
 
 
 
-%F
-export-custom_aff_all.txt
 
-%l
-export-custom_author_all.txt
-
-%1.3l
-export-custom_author_3.txt
-
-
-format
-https://adsabs.github.io/help/actions/
 
 
 
