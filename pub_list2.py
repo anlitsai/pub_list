@@ -153,3 +153,4 @@ for i in list_affiliation_per_paper:
         author=str(author1)+","+str(author2)+".,"+str(author3)+"., et al. (including"+str(author4)+" from NCU)"
         print(author)
         
+print("")
