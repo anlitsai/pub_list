@@ -1,9 +1,9 @@
 #
 
-format
+ADS custom format
 https://adsabs.github.io/help/actions/
 
-%1.1l, %Y, %T, %Q, %V, %p. \n (ADS Custom Format)
+%1.1l, %Y, %T, %Q, %V, %p. \n 
 
 %F
 export-custom_aff_all.txt
