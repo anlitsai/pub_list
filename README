@@ -1,7 +1,20 @@
 #
 
+format
+https://adsabs.github.io/help/actions/
 
 %1.1l, %Y, %T, %Q, %V, %p. \n (ADS Custom Format)
+
+%F
+export-custom_aff_all.txt
+
+%l
+export-custom_author_all.txt
+
+%1.3l
+export-custom_author_3.txt
+
+
 
 
 
