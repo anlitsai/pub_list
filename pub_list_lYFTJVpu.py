@@ -86,7 +86,6 @@ subprocess.call(["sort "+file_combine+"|uniq > "+file_sorted],shell=True)
 #sys.exit(0)
 
 
-
 cmd_AA_idx="cat "+file_AA_idx
 list_AA_idx=os.popen(cmd_AA_idx,"r").read().splitlines()
 
@@ -117,7 +116,6 @@ idx_AA=pd_AA[1]
 #list_authors=[list_authors.replace('&','') for list_authors in list_authors]
 
 
-
 df_all=pd.read_csv(file_sorted,sep='|',header=None)
 #print(df_all)
 #sys.exit(0)
@@ -127,7 +125,6 @@ df_all.columns=col
 #print(df_all)
 n_paper=len(df_all)
 #print(n_paper)
-
 
 col_author=df_all['author']
 #print(col_author)
@@ -154,10 +151,8 @@ col_author=col_author.str.replace('& ','')
 
 #df_all['author_number']=[len(i) for i in col_author]
 
-
 #print(col_author_number)
 #sys.exit(0)  
-
 
 #list_affiliation_in_paper=[]
 
@@ -244,7 +239,6 @@ df_all['NCU_author4_number']=""
 df_all['NCU_AA']=""
 
 
-
 NCU_key1="of Astronomy, National Central University"
 NCU_key2="Ip"
 NCU_key3="National Central University, Graduate Institute of Astronomy, "
@@ -265,7 +259,6 @@ for i in range(n_paper):
     df_all['author'][i]=list_author_in1paper
 
 
-    
     list_NCU_author_idx_in1paper=[]
     list_NCU_author_in1paper=[]
     list_NCU_author4_idx_in1paper=[]
@@ -401,8 +394,6 @@ for i in range(n_paper):
     print(paper_year)
 
 
-    
-
     author1=list_author_in1paper[0]
      
     if n_author_in1paper==1:
@@ -484,7 +475,6 @@ for i in range(n_paper):
     f_pub.write(pub_info)
 
 
-
 f_pub.close()
 
 subprocess.call(["sed -i -e 's/nan,//g' "+file_pub], shell=True)
@@ -507,7 +497,6 @@ file_201789='pub_list_NCU_2017-2019.txt'
 subprocess.call(["cat "+file_pub+" |grep \/2019 | cat -n > "+file_2019],shell=True)
 subprocess.call(["cat "+file_pub+" |grep \/2018 | cat -n > "+file_2018],shell=True)
 subprocess.call(["cat "+file_pub+" |grep \/2017 | cat -n > "+file_2017],shell=True)
-
 
 subprocess.call(["echo 2019  > "+file_201789],shell=True)
 subprocess.call(["echo   >> "+file_201789],shell=True)
