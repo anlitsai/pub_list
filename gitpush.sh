@@ -1,3 +1,4 @@
+#
 name='pub_list'
 datetime=`date +%Y%m%d-%H%M`
 comment='update_'$datetime
